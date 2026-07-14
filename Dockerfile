@@ -27,12 +27,8 @@ COPY crontab /app/
 RUN chmod +x /app/entrypoint.sh
 
 # Configure cron job
-RUN cp /app/crontab /etc/cron.d/scraper-cron \
-    && chmod 0644 /etc/cron.d/scraper-cron \
-    
-
-# Create the data output directory inside the container
-RUN mkdir -p /app/data
-
+RUN cp /app/crontab /etc/cron.d/scraper-cron && \
+    chmod 0644 /etc/cron.d/scraper-cron && \
+    mkdir -p /app/data
 # Define the entrypoint script to run on start
 ENTRYPOINT ["/app/entrypoint.sh"]

@@ -1,0 +1,5 @@
+# Run the scraper script hourly on the hour (0 * * * *)
+# Redirect stdout and stderr to PID 1 stdout/stderr so that docker logs captures the execution output.
+PATH=/usr/local/bin:/usr/bin:/bin
+0 * * * * root /usr/local/bin/python /app/scraper.py >> /proc/1/fd/1 2>> /proc/1/fd/2
+# Note: Cron daemon requires an empty newline at the end of the file to register the cron jobs correctly.

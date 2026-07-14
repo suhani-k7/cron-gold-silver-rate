@@ -1,0 +1,8 @@
+services:
+  scraper:
+    build: .
+    container_name: gold-silver-scraper
+    volumes:
+      - ./data:/app/data
+      - ./urls_final.xlsx:/app/urls_final.xlsx
+    restart: unless-stopped

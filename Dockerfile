@@ -21,13 +21,13 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application files
 COPY scraper.py /app/
 COPY entrypoint.sh /app/
-COPY crontab /app/
+COPY scraper.cron /app/
 
 # Setup permissions for the entrypoint script
 RUN chmod +x /app/entrypoint.sh
 
 # Configure cron job
-RUN cp /app/crontab /etc/cron.d/scraper-cron && \
+RUN cp /app/scraper.cron /etc/cron.d/scraper-cron && \
     chmod 0644 /etc/cron.d/scraper-cron && \
     mkdir -p /app/data
 # Define the entrypoint script to run on start

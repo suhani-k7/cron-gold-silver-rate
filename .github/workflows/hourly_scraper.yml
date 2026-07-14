@@ -3,7 +3,6 @@ name: Hourly Docker Scraper
 on:
   schedule:
     - cron: '0 * * * *'
-
   workflow_dispatch:
 
 permissions:
@@ -14,28 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Build Docker Image
         run: |
-          run: docker build --progress=plain --no-cache -t gold-scraper .
+          docker build -t gold-scraper .
 
-      - name: Run Docker Container
+      - name: Run Docker Container (single scrape)
         run: |
-          docker run \
+          docker run --rm \
             --name scraper \
+            --entrypoint python \
             -v ${{ github.workspace }}/data:/app/data \
-            gold-scraper
+            -v ${{ github.workspace }}/urls_final.xlsx:/app/urls_final.xlsx \
+            gold-scraper /app/scraper.py
 
       - name: Commit Updated Files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git add data
-
           git diff --cached --quiet || git commit -m "Hourly scrape update"
-
           git push

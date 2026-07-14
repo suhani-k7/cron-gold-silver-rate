@@ -1,0 +1,3670 @@
+{
+  "generated_at": "2026-07-14T16:39:50.580908+05:30",
+  "rates": [
+    {
+      "metal": "Gold",
+      "city": "Ahmedabad",
+      "url": "https://www.policybazaar.com/gold-rate/ahmedabad/",
+      "fetched_at": "2026-07-14T16:39:50.581687+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13854.0,
+        "rate24k 8gm": 110832.0,
+        "rate24k 10gm": 138540.0,
+        "rate24k 12gm": 166248.0,
+        "rate22k 1gm": 13194.0,
+        "rate22k 8gm": 105552.0,
+        "rate22k 10gm": 131940.0,
+        "rate22k 12gm": 158328.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Ahmedabad",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Ahmednagar",
+      "url": "https://www.policybazaar.com/gold-rate/ahmednagar/",
+      "fetched_at": "2026-07-14T16:39:50.582137+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Ahmednagar",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Ayodhya",
+      "url": "https://www.policybazaar.com/gold-rate/ayodhya/",
+      "fetched_at": "2026-07-14T16:39:50.582532+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Ayodhya",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Balangir",
+      "url": "https://www.policybazaar.com/gold-rate/balangir/",
+      "fetched_at": "2026-07-14T16:39:50.582831+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Balangir",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Balasore",
+      "url": "https://www.policybazaar.com/gold-rate/balasore/",
+      "fetched_at": "2026-07-14T16:39:50.583188+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Balasore",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Baripada",
+      "url": "https://www.policybazaar.com/gold-rate/baripada/",
+      "fetched_at": "2026-07-14T16:39:50.583422+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Baripada",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Berhampur",
+      "url": "https://www.policybazaar.com/gold-rate/berhampur/",
+      "fetched_at": "2026-07-14T16:39:50.583841+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Berhampur",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Chhatarpur",
+      "url": "https://www.policybazaar.com/gold-rate/chhatarpur/",
+      "fetched_at": "2026-07-14T16:39:50.584489+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Chhatarpur",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Chirala",
+      "url": "https://www.policybazaar.com/gold-rate/chirala/",
+      "fetched_at": "2026-07-14T16:39:50.585125+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Chirala",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Darjeeling",
+      "url": "https://www.policybazaar.com/gold-rate/darjeeling/",
+      "fetched_at": "2026-07-14T16:39:50.585402+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Darjeeling",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Dharamshala",
+      "url": "https://www.policybazaar.com/gold-rate/dharamshala/",
+      "fetched_at": "2026-07-14T16:39:51.022914+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Dharamshala",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Dispur",
+      "url": "https://www.policybazaar.com/gold-rate/dispur/",
+      "fetched_at": "2026-07-14T16:39:51.236321+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Dispur",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Faridkot",
+      "url": "https://www.policybazaar.com/gold-rate/faridkot/",
+      "fetched_at": "2026-07-14T16:39:51.465413+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Faridkot",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Farrukhabad",
+      "url": "https://www.policybazaar.com/gold-rate/farrukhabad/",
+      "fetched_at": "2026-07-14T16:39:51.492333+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Farrukhabad",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Gangavathi",
+      "url": "https://www.policybazaar.com/gold-rate/gangavathi/",
+      "fetched_at": "2026-07-14T16:39:51.536829+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13860.0,
+        "rate24k 8gm": 110880.0,
+        "rate24k 10gm": 138600.0,
+        "rate24k 12gm": 166320.0,
+        "rate22k 1gm": 13200.0,
+        "rate22k 8gm": 105600.0,
+        "rate22k 10gm": 132000.0,
+        "rate22k 12gm": 158400.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Gangavathi",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Gangtok",
+      "url": "https://www.policybazaar.com/gold-rate/gangtok/",
+      "fetched_at": "2026-07-14T16:39:51.562940+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Gangtok",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Ghaziabad",
+      "url": "https://www.policybazaar.com/gold-rate/ghaziabad/",
+      "fetched_at": "2026-07-14T16:39:51.578784+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Ghaziabad",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Gondia",
+      "url": "https://www.policybazaar.com/gold-rate/gondia/",
+      "fetched_at": "2026-07-14T16:39:51.585344+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Gondia",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Gudiyatham",
+      "url": "https://www.policybazaar.com/gold-rate/gudiyatham/",
+      "fetched_at": "2026-07-14T16:39:51.591952+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Gudiyatham",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Hazaribagh",
+      "url": "https://www.policybazaar.com/gold-rate/hazaribagh/",
+      "fetched_at": "2026-07-14T16:39:51.625896+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Hazaribagh",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Howrah",
+      "url": "https://www.policybazaar.com/gold-rate/howrah/",
+      "fetched_at": "2026-07-14T16:39:51.722286+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Howrah",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Itarsi",
+      "url": "https://www.policybazaar.com/gold-rate/itarsi/",
+      "fetched_at": "2026-07-14T16:39:51.750183+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Itarsi",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Jagtial",
+      "url": "https://www.policybazaar.com/gold-rate/jagtial/",
+      "fetched_at": "2026-07-14T16:39:51.849948+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Jagtial",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Jorhat",
+      "url": "https://www.policybazaar.com/gold-rate/jorhat/",
+      "fetched_at": "2026-07-14T16:39:51.907007+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Jorhat",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kadiri",
+      "url": "https://www.policybazaar.com/gold-rate/kadiri/",
+      "fetched_at": "2026-07-14T16:39:52.024315+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kadiri",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kalyan",
+      "url": "https://www.policybazaar.com/gold-rate/kalyan/",
+      "fetched_at": "2026-07-14T16:39:52.268101+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kalyan",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kanchipuram",
+      "url": "https://www.policybazaar.com/gold-rate/kanchipuram/",
+      "fetched_at": "2026-07-14T16:39:52.397330+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kanchipuram",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kannur",
+      "url": "https://www.policybazaar.com/gold-rate/kannur/",
+      "fetched_at": "2026-07-14T16:39:52.488769+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13745.0,
+        "rate24k 8gm": 109960.0,
+        "rate24k 10gm": 137450.0,
+        "rate24k 12gm": 164940.0,
+        "rate22k 1gm": 13090.0,
+        "rate22k 8gm": 104720.0,
+        "rate22k 10gm": 130900.0,
+        "rate22k 12gm": 157080.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kannur",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kapurthala",
+      "url": "https://www.policybazaar.com/gold-rate/kapurthala/",
+      "fetched_at": "2026-07-14T16:39:52.517412+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kapurthala",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Karaikudi",
+      "url": "https://www.policybazaar.com/gold-rate/karaikudi/",
+      "fetched_at": "2026-07-14T16:39:52.617668+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Karaikudi",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Karur",
+      "url": "https://www.policybazaar.com/gold-rate/karur/",
+      "fetched_at": "2026-07-14T16:39:52.644424+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Karur",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kavali",
+      "url": "https://www.policybazaar.com/gold-rate/kavali/",
+      "fetched_at": "2026-07-14T16:39:52.651715+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kavali",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kavaratti",
+      "url": "https://www.policybazaar.com/gold-rate/kavaratti/",
+      "fetched_at": "2026-07-14T16:39:52.701440+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13745.0,
+        "rate24k 8gm": 109960.0,
+        "rate24k 10gm": 137450.0,
+        "rate24k 12gm": 164940.0,
+        "rate22k 1gm": 13090.0,
+        "rate22k 8gm": 104720.0,
+        "rate22k 10gm": 130900.0,
+        "rate22k 12gm": 157080.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kavaratti",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kohima",
+      "url": "https://www.policybazaar.com/gold-rate/kohima/",
+      "fetched_at": "2026-07-14T16:39:52.715233+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Kohima",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Malappuram",
+      "url": "https://www.policybazaar.com/gold-rate/malappuram/",
+      "fetched_at": "2026-07-14T16:39:52.721188+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13745.0,
+        "rate24k 8gm": 109960.0,
+        "rate24k 10gm": 137450.0,
+        "rate24k 12gm": 164940.0,
+        "rate22k 1gm": 13090.0,
+        "rate22k 8gm": 104720.0,
+        "rate22k 10gm": 130900.0,
+        "rate22k 12gm": 157080.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Malappuram",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Mangalagiri",
+      "url": "https://www.policybazaar.com/gold-rate/mangalagiri/",
+      "fetched_at": "2026-07-14T16:39:52.773429+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Mangalagiri",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Mirzapur",
+      "url": "https://www.policybazaar.com/gold-rate/mirzapur/",
+      "fetched_at": "2026-07-14T16:39:52.818449+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Mirzapur",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Morbi",
+      "url": "https://www.policybazaar.com/gold-rate/morbi/",
+      "fetched_at": "2026-07-14T16:39:52.972690+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13854.0,
+        "rate24k 8gm": 110832.0,
+        "rate24k 10gm": 138540.0,
+        "rate24k 12gm": 166248.0,
+        "rate22k 1gm": 13194.0,
+        "rate22k 8gm": 105552.0,
+        "rate22k 10gm": 131940.0,
+        "rate22k 12gm": 158328.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Morbi",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Nanded",
+      "url": "https://www.policybazaar.com/gold-rate/nanded/",
+      "fetched_at": "2026-07-14T16:39:53.029459+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Nanded",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Phagwara",
+      "url": "https://www.policybazaar.com/gold-rate/phagwara/",
+      "fetched_at": "2026-07-14T16:39:53.093902+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Phagwara",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Pimpri Chinchwad",
+      "url": "https://www.policybazaar.com/gold-rate/pimpri-chinchwad/",
+      "fetched_at": "2026-07-14T16:39:53.345410+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Pimpri Chinchwad",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Ramanathapuram",
+      "url": "https://www.policybazaar.com/gold-rate/ramanathapuram/",
+      "fetched_at": "2026-07-14T16:39:53.395833+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Ramanathapuram",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Sangli",
+      "url": "https://www.policybazaar.com/gold-rate/sangli/",
+      "fetched_at": "2026-07-14T16:39:53.535966+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Sangli",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Siddipet",
+      "url": "https://www.policybazaar.com/gold-rate/siddipet/",
+      "fetched_at": "2026-07-14T16:39:53.557503+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Siddipet",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Sivakasi",
+      "url": "https://www.policybazaar.com/gold-rate/sivakasi/",
+      "fetched_at": "2026-07-14T16:39:53.616152+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Sivakasi",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Trivandrum",
+      "url": "https://www.policybazaar.com/gold-rate/trivandrum/",
+      "fetched_at": "2026-07-14T16:39:53.654384+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13745.0,
+        "rate24k 8gm": 109960.0,
+        "rate24k 10gm": 137450.0,
+        "rate24k 12gm": 164940.0,
+        "rate22k 1gm": 13090.0,
+        "rate22k 8gm": 104720.0,
+        "rate22k 10gm": 130900.0,
+        "rate22k 12gm": 157080.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Trivandrum",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Vapi",
+      "url": "https://www.policybazaar.com/gold-rate/vapi/",
+      "fetched_at": "2026-07-14T16:39:53.703359+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13854.0,
+        "rate24k 8gm": 110832.0,
+        "rate24k 10gm": 138540.0,
+        "rate24k 12gm": 166248.0,
+        "rate22k 1gm": 13194.0,
+        "rate22k 8gm": 105552.0,
+        "rate22k 10gm": 131940.0,
+        "rate22k 12gm": 158328.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Vapi",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Vasai",
+      "url": "https://www.policybazaar.com/gold-rate/vasai/",
+      "fetched_at": "2026-07-14T16:39:53.795942+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Vasai",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Vijayapura",
+      "url": "https://www.policybazaar.com/gold-rate/vijayapura/",
+      "fetched_at": "2026-07-14T16:39:53.810410+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13860.0,
+        "rate24k 8gm": 110880.0,
+        "rate24k 10gm": 138600.0,
+        "rate24k 12gm": 166320.0,
+        "rate22k 1gm": 13200.0,
+        "rate22k 8gm": 105600.0,
+        "rate22k 10gm": 132000.0,
+        "rate22k 12gm": 158400.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Vijayapura",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Punjab",
+      "url": "https://www.policybazaar.com/gold-rate/punjab/",
+      "fetched_at": "2026-07-14T16:39:53.845769+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13850.0,
+        "rate24k 8gm": 110800.0,
+        "rate24k 10gm": 138500.0,
+        "rate24k 12gm": 166200.0,
+        "rate22k 1gm": 13190.0,
+        "rate22k 8gm": 105520.0,
+        "rate22k 10gm": 131900.0,
+        "rate22k 12gm": 158280.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Punjab",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Hyderabad",
+      "url": "https://www.policybazaar.com/gold-rate/hyderabad/",
+      "fetched_at": "2026-07-14T16:39:53.893434+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Hyderabad",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Bangalore",
+      "url": "https://www.policybazaar.com/gold-rate/bangalore/",
+      "fetched_at": "2026-07-14T16:39:53.897652+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13860.0,
+        "rate24k 8gm": 110880.0,
+        "rate24k 10gm": 138600.0,
+        "rate24k 12gm": 166320.0,
+        "rate22k 1gm": 13200.0,
+        "rate22k 8gm": 105600.0,
+        "rate22k 10gm": 132000.0,
+        "rate22k 12gm": 158400.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Bangalore",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Mumbai",
+      "url": "https://www.policybazaar.com/gold-rate/mumbai/",
+      "fetched_at": "2026-07-14T16:39:53.941783+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13797.0,
+        "rate24k 8gm": 110376.0,
+        "rate24k 10gm": 137970.0,
+        "rate24k 12gm": 165564.0,
+        "rate22k 1gm": 13140.0,
+        "rate22k 8gm": 105120.0,
+        "rate22k 10gm": 131400.0,
+        "rate22k 12gm": 157680.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Mumbai",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Gujarat",
+      "url": "https://www.policybazaar.com/gold-rate/gujarat/",
+      "fetched_at": "2026-07-14T16:39:53.970811+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13864.0,
+        "rate24k 8gm": 110912.0,
+        "rate24k 10gm": 138640.0,
+        "rate24k 12gm": 166368.0,
+        "rate22k 1gm": 13204.0,
+        "rate22k 8gm": 105632.0,
+        "rate22k 10gm": 132040.0,
+        "rate22k 12gm": 158448.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Gujarat",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhubaneswar",
+      "url": "https://www.policybazaar.com/gold-rate/bhubaneswar/",
+      "fetched_at": "2026-07-14T16:39:54.206663+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13902.0,
+        "rate24k 8gm": 111216.0,
+        "rate24k 10gm": 139020.0,
+        "rate24k 12gm": 166824.0,
+        "rate22k 1gm": 13240.0,
+        "rate22k 8gm": 105920.0,
+        "rate22k 10gm": 132400.0,
+        "rate22k 12gm": 158880.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Bhubaneswar",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Pondicherry",
+      "url": "https://www.policybazaar.com/gold-rate/pondicherry/",
+      "fetched_at": "2026-07-14T16:39:54.282655+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13808.0,
+        "rate24k 8gm": 110464.0,
+        "rate24k 10gm": 138080.0,
+        "rate24k 12gm": 165696.0,
+        "rate22k 1gm": 13150.0,
+        "rate22k 8gm": 105200.0,
+        "rate22k 10gm": 131500.0,
+        "rate22k 12gm": 157800.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Pondicherry",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Goa",
+      "url": "https://www.policybazaar.com/gold-rate/goa/",
+      "fetched_at": "2026-07-14T16:39:54.502539+05:30",
+      "error": null,
+      "data": {
+        "rate24k 1gm": 13871.0,
+        "rate24k 8gm": 110968.0,
+        "rate24k 10gm": 138710.0,
+        "rate24k 12gm": 166452.0,
+        "rate22k 1gm": 13210.0,
+        "rate22k 8gm": 105680.0,
+        "rate22k 10gm": 132100.0,
+        "rate22k 12gm": 158520.0,
+        "rate18k 1gm": null,
+        "rate18k 8gm": null,
+        "rate18k 10gm": null,
+        "rate18k 12gm": null,
+        "cityName": "Goa",
+        "dayMonYear": "14 July 2026",
+        "monYear": "July 2026",
+        "currentYear": 2026
+      }
+    },
+    {
+      "metal": "Gold",
+      "city": "Kerala",
+      "url": "https://www.policybazaar.com/gold-rate/kerala/",
+      "fetched_at": "2026-07-14T16:39:54.611535+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kerala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Karnataka",
+      "url": "https://www.policybazaar.com/gold-rate/karnataka/",
+      "fetched_at": "2026-07-14T16:39:54.626135+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/karnataka/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Abohar",
+      "url": "https://www.policybazaar.com/gold-rate/abohar/",
+      "fetched_at": "2026-07-14T16:39:54.648172+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/abohar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Adilabad",
+      "url": "https://www.policybazaar.com/gold-rate/adilabad/",
+      "fetched_at": "2026-07-14T16:39:54.663791+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/adilabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Adoni",
+      "url": "https://www.policybazaar.com/gold-rate/adoni/",
+      "fetched_at": "2026-07-14T16:39:54.679059+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/adoni/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Agartala",
+      "url": "https://www.policybazaar.com/gold-rate/agartala/",
+      "fetched_at": "2026-07-14T16:39:54.689443+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/agartala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Agra",
+      "url": "https://www.policybazaar.com/gold-rate/agra/",
+      "fetched_at": "2026-07-14T16:39:54.696891+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/agra/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Aizawl",
+      "url": "https://www.policybazaar.com/gold-rate/aizawl/",
+      "fetched_at": "2026-07-14T16:39:54.772236+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/aizawl/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ajmer",
+      "url": "https://www.policybazaar.com/gold-rate/ajmer/",
+      "fetched_at": "2026-07-14T16:39:54.775308+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ajmer/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Akola",
+      "url": "https://www.policybazaar.com/gold-rate/akola/",
+      "fetched_at": "2026-07-14T16:39:54.793506+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/akola/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Aligarh",
+      "url": "https://www.policybazaar.com/gold-rate/aligarh/",
+      "fetched_at": "2026-07-14T16:39:54.809680+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/aligarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Allahabad",
+      "url": "https://www.policybazaar.com/gold-rate/allahabad/",
+      "fetched_at": "2026-07-14T16:39:54.812718+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/allahabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Alwar",
+      "url": "https://www.policybazaar.com/gold-rate/alwar/",
+      "fetched_at": "2026-07-14T16:39:54.842425+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/alwar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ambala",
+      "url": "https://www.policybazaar.com/gold-rate/ambala/",
+      "fetched_at": "2026-07-14T16:39:54.847039+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ambala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ambarnath",
+      "url": "https://www.policybazaar.com/gold-rate/ambarnath/",
+      "fetched_at": "2026-07-14T16:39:54.860214+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ambarnath/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ambikapur",
+      "url": "https://www.policybazaar.com/gold-rate/ambikapur/",
+      "fetched_at": "2026-07-14T16:39:54.861789+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ambikapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ambur",
+      "url": "https://www.policybazaar.com/gold-rate/ambur/",
+      "fetched_at": "2026-07-14T16:39:54.879465+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ambur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Amravati",
+      "url": "https://www.policybazaar.com/gold-rate/amravati/",
+      "fetched_at": "2026-07-14T16:39:54.886101+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/amravati/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Amreli",
+      "url": "https://www.policybazaar.com/gold-rate/amreli/",
+      "fetched_at": "2026-07-14T16:39:54.889925+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/amreli/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Amritsar",
+      "url": "https://www.policybazaar.com/gold-rate/amritsar/",
+      "fetched_at": "2026-07-14T16:39:54.897066+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/amritsar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Anand",
+      "url": "https://www.policybazaar.com/gold-rate/anand/",
+      "fetched_at": "2026-07-14T16:39:54.907979+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/anand/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Anantapur",
+      "url": "https://www.policybazaar.com/gold-rate/anantapur/",
+      "fetched_at": "2026-07-14T16:39:54.916022+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/anantapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Asansol",
+      "url": "https://www.policybazaar.com/gold-rate/asansol/",
+      "fetched_at": "2026-07-14T16:39:54.923521+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/asansol/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Aurangabad",
+      "url": "https://www.policybazaar.com/gold-rate/aurangabad/",
+      "fetched_at": "2026-07-14T16:39:54.927307+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/aurangabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Badlapur",
+      "url": "https://www.policybazaar.com/gold-rate/badlapur/",
+      "fetched_at": "2026-07-14T16:39:54.932409+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/badlapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bagalkot",
+      "url": "https://www.policybazaar.com/gold-rate/bagalkot/",
+      "fetched_at": "2026-07-14T16:39:54.934064+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bagalkot/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bahadurgarh",
+      "url": "https://www.policybazaar.com/gold-rate/bahadurgarh/",
+      "fetched_at": "2026-07-14T16:39:54.942136+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bahadurgarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Balurghat",
+      "url": "https://www.policybazaar.com/gold-rate/balurghat/",
+      "fetched_at": "2026-07-14T16:39:54.949982+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/balurghat/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bankura",
+      "url": "https://www.policybazaar.com/gold-rate/bankura/",
+      "fetched_at": "2026-07-14T16:39:54.955315+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bankura/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bareilly",
+      "url": "https://www.policybazaar.com/gold-rate/bareilly/",
+      "fetched_at": "2026-07-14T16:39:54.965188+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bareilly/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Barnala",
+      "url": "https://www.policybazaar.com/gold-rate/barnala/",
+      "fetched_at": "2026-07-14T16:39:54.970240+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/barnala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Barshi",
+      "url": "https://www.policybazaar.com/gold-rate/barshi/",
+      "fetched_at": "2026-07-14T16:39:54.978025+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/barshi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Batala",
+      "url": "https://www.policybazaar.com/gold-rate/batala/",
+      "fetched_at": "2026-07-14T16:39:54.981523+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/batala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bathinda",
+      "url": "https://www.policybazaar.com/gold-rate/bathinda/",
+      "fetched_at": "2026-07-14T16:39:54.987398+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bathinda/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Beawar",
+      "url": "https://www.policybazaar.com/gold-rate/beawar/",
+      "fetched_at": "2026-07-14T16:39:54.989107+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/beawar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Belgaum",
+      "url": "https://www.policybazaar.com/gold-rate/belgaum/",
+      "fetched_at": "2026-07-14T16:39:54.992310+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/belgaum/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bellary",
+      "url": "https://www.policybazaar.com/gold-rate/bellary/",
+      "fetched_at": "2026-07-14T16:39:55.000125+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bellary/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Betul",
+      "url": "https://www.policybazaar.com/gold-rate/betul/",
+      "fetched_at": "2026-07-14T16:39:55.013031+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/betul/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhadrak",
+      "url": "https://www.policybazaar.com/gold-rate/bhadrak/",
+      "fetched_at": "2026-07-14T16:39:55.014652+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhadrak/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhagalpur",
+      "url": "https://www.policybazaar.com/gold-rate/bhagalpur/",
+      "fetched_at": "2026-07-14T16:39:55.017175+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhagalpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bharatpur",
+      "url": "https://www.policybazaar.com/gold-rate/bharatpur/",
+      "fetched_at": "2026-07-14T16:39:55.020417+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bharatpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bharuch",
+      "url": "https://www.policybazaar.com/gold-rate/bharuch/",
+      "fetched_at": "2026-07-14T16:39:55.023090+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bharuch/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhavnagar",
+      "url": "https://www.policybazaar.com/gold-rate/bhavnagar/",
+      "fetched_at": "2026-07-14T16:39:55.031607+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhavnagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhilwara",
+      "url": "https://www.policybazaar.com/gold-rate/bhilwara/",
+      "fetched_at": "2026-07-14T16:39:55.039049+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhilwara/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhimavaram",
+      "url": "https://www.policybazaar.com/gold-rate/bhimavaram/",
+      "fetched_at": "2026-07-14T16:39:55.048469+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhimavaram/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhind",
+      "url": "https://www.policybazaar.com/gold-rate/bhind/",
+      "fetched_at": "2026-07-14T16:39:55.050948+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhind/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhiwadi",
+      "url": "https://www.policybazaar.com/gold-rate/bhiwadi/",
+      "fetched_at": "2026-07-14T16:39:55.055625+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhiwadi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhiwandi",
+      "url": "https://www.policybazaar.com/gold-rate/bhiwandi/",
+      "fetched_at": "2026-07-14T16:39:55.067626+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhiwandi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhiwani",
+      "url": "https://www.policybazaar.com/gold-rate/bhiwani/",
+      "fetched_at": "2026-07-14T16:39:55.072619+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhiwani/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhopal",
+      "url": "https://www.policybazaar.com/gold-rate/bhopal/",
+      "fetched_at": "2026-07-14T16:39:55.074367+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhopal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhuj",
+      "url": "https://www.policybazaar.com/gold-rate/bhuj/",
+      "fetched_at": "2026-07-14T16:39:55.082287+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhuj/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bhusawal",
+      "url": "https://www.policybazaar.com/gold-rate/bhusawal/",
+      "fetched_at": "2026-07-14T16:39:55.089425+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bhusawal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bidar",
+      "url": "https://www.policybazaar.com/gold-rate/bidar/",
+      "fetched_at": "2026-07-14T16:39:55.094097+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bidar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bikaner",
+      "url": "https://www.policybazaar.com/gold-rate/bikaner/",
+      "fetched_at": "2026-07-14T16:39:55.103280+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bikaner/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bilaspur",
+      "url": "https://www.policybazaar.com/gold-rate/bilaspur/",
+      "fetched_at": "2026-07-14T16:39:55.107021+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bilaspur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Budaun",
+      "url": "https://www.policybazaar.com/gold-rate/budaun/",
+      "fetched_at": "2026-07-14T16:39:55.109581+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/budaun/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Burhanpur",
+      "url": "https://www.policybazaar.com/gold-rate/burhanpur/",
+      "fetched_at": "2026-07-14T16:39:55.111335+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/burhanpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chandigarh",
+      "url": "https://www.policybazaar.com/gold-rate/chandigarh/",
+      "fetched_at": "2026-07-14T16:39:55.122327+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chandigarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chandrapur",
+      "url": "https://www.policybazaar.com/gold-rate/chandrapur/",
+      "fetched_at": "2026-07-14T16:39:55.123835+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chandrapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chennai",
+      "url": "https://www.policybazaar.com/gold-rate/chennai/",
+      "fetched_at": "2026-07-14T16:39:55.125659+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chennai/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chhindwara",
+      "url": "https://www.policybazaar.com/gold-rate/chhindwara/",
+      "fetched_at": "2026-07-14T16:39:55.130342+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chhindwara/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chikmagalur",
+      "url": "https://www.policybazaar.com/gold-rate/chikmagalur/",
+      "fetched_at": "2026-07-14T16:39:55.138520+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chikmagalur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chilakaluripet",
+      "url": "https://www.policybazaar.com/gold-rate/chilakaluripet/",
+      "fetched_at": "2026-07-14T16:39:55.141078+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chilakaluripet/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chitradurga",
+      "url": "https://www.policybazaar.com/gold-rate/chitradurga/",
+      "fetched_at": "2026-07-14T16:39:55.142407+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chitradurga/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chittoor",
+      "url": "https://www.policybazaar.com/gold-rate/chittoor/",
+      "fetched_at": "2026-07-14T16:39:55.155172+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chittoor/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Coimbatore",
+      "url": "https://www.policybazaar.com/gold-rate/coimbatore/",
+      "fetched_at": "2026-07-14T16:39:55.158058+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/coimbatore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Cuddalore",
+      "url": "https://www.policybazaar.com/gold-rate/cuddalore/",
+      "fetched_at": "2026-07-14T16:39:55.159956+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/cuddalore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Cuttack",
+      "url": "https://www.policybazaar.com/gold-rate/cuttack/",
+      "fetched_at": "2026-07-14T16:39:55.169985+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/cuttack/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Deesa",
+      "url": "https://www.policybazaar.com/gold-rate/deesa/",
+      "fetched_at": "2026-07-14T16:39:55.172399+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/deesa/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dehradun",
+      "url": "https://www.policybazaar.com/gold-rate/dehradun/",
+      "fetched_at": "2026-07-14T16:39:55.174636+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dehradun/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Delhi",
+      "url": "https://www.policybazaar.com/gold-rate/delhi/",
+      "fetched_at": "2026-07-14T16:39:55.176276+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/delhi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Deoghar",
+      "url": "https://www.policybazaar.com/gold-rate/deoghar/",
+      "fetched_at": "2026-07-14T16:39:55.179337+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/deoghar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dewas",
+      "url": "https://www.policybazaar.com/gold-rate/dewas/",
+      "fetched_at": "2026-07-14T16:39:55.182490+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dewas/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dhanbad",
+      "url": "https://www.policybazaar.com/gold-rate/dhanbad/",
+      "fetched_at": "2026-07-14T16:39:55.188434+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dhanbad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dharmavaram",
+      "url": "https://www.policybazaar.com/gold-rate/dharmavaram/",
+      "fetched_at": "2026-07-14T16:39:55.192854+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dharmavaram/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dhule",
+      "url": "https://www.policybazaar.com/gold-rate/dhule/",
+      "fetched_at": "2026-07-14T16:39:55.194696+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dhule/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dibrugarh",
+      "url": "https://www.policybazaar.com/gold-rate/dibrugarh/",
+      "fetched_at": "2026-07-14T16:39:55.201693+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dibrugarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Dindigul",
+      "url": "https://www.policybazaar.com/gold-rate/dindigul/",
+      "fetched_at": "2026-07-14T16:39:55.207908+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/dindigul/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Durgapur",
+      "url": "https://www.policybazaar.com/gold-rate/durgapur/",
+      "fetched_at": "2026-07-14T16:39:55.213692+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/durgapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Eluru",
+      "url": "https://www.policybazaar.com/gold-rate/eluru/",
+      "fetched_at": "2026-07-14T16:39:55.220950+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/eluru/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Erode",
+      "url": "https://www.policybazaar.com/gold-rate/erode/",
+      "fetched_at": "2026-07-14T16:39:55.222891+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/erode/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Faridabad",
+      "url": "https://www.policybazaar.com/gold-rate/faridabad/",
+      "fetched_at": "2026-07-14T16:39:55.224362+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/faridabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Firozabad",
+      "url": "https://www.policybazaar.com/gold-rate/firozabad/",
+      "fetched_at": "2026-07-14T16:39:55.227991+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/firozabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gandhidham",
+      "url": "https://www.policybazaar.com/gold-rate/gandhidham/",
+      "fetched_at": "2026-07-14T16:39:55.231283+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gandhidham/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gandhinagar",
+      "url": "https://www.policybazaar.com/gold-rate/gandhinagar/",
+      "fetched_at": "2026-07-14T16:39:55.233457+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gandhinagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gaya",
+      "url": "https://www.policybazaar.com/gold-rate/gaya/",
+      "fetched_at": "2026-07-14T16:39:55.235098+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gaya/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Giridih",
+      "url": "https://www.policybazaar.com/gold-rate/giridih/",
+      "fetched_at": "2026-07-14T16:39:55.237418+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/giridih/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Godhra",
+      "url": "https://www.policybazaar.com/gold-rate/godhra/",
+      "fetched_at": "2026-07-14T16:39:55.241136+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/godhra/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gorakhpur",
+      "url": "https://www.policybazaar.com/gold-rate/gorakhpur/",
+      "fetched_at": "2026-07-14T16:39:55.248292+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gorakhpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gudivada",
+      "url": "https://www.policybazaar.com/gold-rate/gudivada/",
+      "fetched_at": "2026-07-14T16:39:55.253813+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gudivada/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Guna",
+      "url": "https://www.policybazaar.com/gold-rate/guna/",
+      "fetched_at": "2026-07-14T16:39:55.263699+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/guna/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Guntakal",
+      "url": "https://www.policybazaar.com/gold-rate/guntakal/",
+      "fetched_at": "2026-07-14T16:39:55.265626+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/guntakal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Guntur",
+      "url": "https://www.policybazaar.com/gold-rate/guntur/",
+      "fetched_at": "2026-07-14T16:39:55.267395+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/guntur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gurgaon",
+      "url": "https://www.policybazaar.com/gold-rate/gurgaon/",
+      "fetched_at": "2026-07-14T16:39:55.269239+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gurgaon/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Guwahati",
+      "url": "https://www.policybazaar.com/gold-rate/guwahati/",
+      "fetched_at": "2026-07-14T16:39:55.271008+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/guwahati/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Gwalior",
+      "url": "https://www.policybazaar.com/gold-rate/gwalior/",
+      "fetched_at": "2026-07-14T16:39:55.280232+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/gwalior/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hanumangarh",
+      "url": "https://www.policybazaar.com/gold-rate/hanumangarh/",
+      "fetched_at": "2026-07-14T16:39:55.282251+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hanumangarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hassan",
+      "url": "https://www.policybazaar.com/gold-rate/hassan/",
+      "fetched_at": "2026-07-14T16:39:55.285117+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hassan/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hindupur",
+      "url": "https://www.policybazaar.com/gold-rate/hindupur/",
+      "fetched_at": "2026-07-14T16:39:55.292215+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hindupur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hinganghat",
+      "url": "https://www.policybazaar.com/gold-rate/hinganghat/",
+      "fetched_at": "2026-07-14T16:39:55.294188+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hinganghat/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hisar",
+      "url": "https://www.policybazaar.com/gold-rate/hisar/",
+      "fetched_at": "2026-07-14T16:39:55.297647+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hisar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hoshiarpur",
+      "url": "https://www.policybazaar.com/gold-rate/hoshiarpur/",
+      "fetched_at": "2026-07-14T16:39:55.301799+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hoshiarpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hospet",
+      "url": "https://www.policybazaar.com/gold-rate/hospet/",
+      "fetched_at": "2026-07-14T16:39:55.302859+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hospet/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Hosur",
+      "url": "https://www.policybazaar.com/gold-rate/hosur/",
+      "fetched_at": "2026-07-14T16:39:55.303584+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/hosur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ichalkaranji",
+      "url": "https://www.policybazaar.com/gold-rate/ichalkaranji/",
+      "fetched_at": "2026-07-14T16:39:55.306593+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ichalkaranji/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Imphal",
+      "url": "https://www.policybazaar.com/gold-rate/imphal/",
+      "fetched_at": "2026-07-14T16:39:55.311111+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/imphal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Indore",
+      "url": "https://www.policybazaar.com/gold-rate/indore/",
+      "fetched_at": "2026-07-14T16:39:55.315139+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/indore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jabalpur",
+      "url": "https://www.policybazaar.com/gold-rate/jabalpur/",
+      "fetched_at": "2026-07-14T16:39:55.326951+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jabalpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jagdalpur",
+      "url": "https://www.policybazaar.com/gold-rate/jagdalpur/",
+      "fetched_at": "2026-07-14T16:39:55.330363+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jagdalpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jaipur",
+      "url": "https://www.policybazaar.com/gold-rate/jaipur/",
+      "fetched_at": "2026-07-14T16:39:55.332412+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jaipur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jalandhar",
+      "url": "https://www.policybazaar.com/gold-rate/jalandhar/",
+      "fetched_at": "2026-07-14T16:39:55.333892+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jalandhar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jalgaon",
+      "url": "https://www.policybazaar.com/gold-rate/jalgaon/",
+      "fetched_at": "2026-07-14T16:39:55.335832+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jalgaon/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jalna",
+      "url": "https://www.policybazaar.com/gold-rate/jalna/",
+      "fetched_at": "2026-07-14T16:39:55.340049+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jalna/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jalpaiguri",
+      "url": "https://www.policybazaar.com/gold-rate/jalpaiguri/",
+      "fetched_at": "2026-07-14T16:39:55.342692+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jalpaiguri/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jammu",
+      "url": "https://www.policybazaar.com/gold-rate/jammu/",
+      "fetched_at": "2026-07-14T16:39:55.343457+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jammu/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jamnagar",
+      "url": "https://www.policybazaar.com/gold-rate/jamnagar/",
+      "fetched_at": "2026-07-14T16:39:55.345907+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jamnagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jamshedpur",
+      "url": "https://www.policybazaar.com/gold-rate/jamshedpur/",
+      "fetched_at": "2026-07-14T16:39:55.347898+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jamshedpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jhansi",
+      "url": "https://www.policybazaar.com/gold-rate/jhansi/",
+      "fetched_at": "2026-07-14T16:39:55.355945+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jhansi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jind",
+      "url": "https://www.policybazaar.com/gold-rate/jind/",
+      "fetched_at": "2026-07-14T16:39:55.364071+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jind/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jodhpur",
+      "url": "https://www.policybazaar.com/gold-rate/jodhpur/",
+      "fetched_at": "2026-07-14T16:39:55.367540+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jodhpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Junagadh",
+      "url": "https://www.policybazaar.com/gold-rate/junagadh/",
+      "fetched_at": "2026-07-14T16:39:55.370238+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/junagadh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kadapa",
+      "url": "https://www.policybazaar.com/gold-rate/kadapa/",
+      "fetched_at": "2026-07-14T16:39:55.374078+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kadapa/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kaithal",
+      "url": "https://www.policybazaar.com/gold-rate/kaithal/",
+      "fetched_at": "2026-07-14T16:39:55.377626+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kaithal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kakinada",
+      "url": "https://www.policybazaar.com/gold-rate/kakinada/",
+      "fetched_at": "2026-07-14T16:39:55.382316+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kakinada/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kanpur",
+      "url": "https://www.policybazaar.com/gold-rate/kanpur/",
+      "fetched_at": "2026-07-14T16:39:55.386069+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kanpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Karimnagar",
+      "url": "https://www.policybazaar.com/gold-rate/karimnagar/",
+      "fetched_at": "2026-07-14T16:39:55.390584+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/karimnagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Karnal",
+      "url": "https://www.policybazaar.com/gold-rate/karnal/",
+      "fetched_at": "2026-07-14T16:39:55.392951+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/karnal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Khammam",
+      "url": "https://www.policybazaar.com/gold-rate/khammam/",
+      "fetched_at": "2026-07-14T16:39:55.396554+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/khammam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Khandwa",
+      "url": "https://www.policybazaar.com/gold-rate/khandwa/",
+      "fetched_at": "2026-07-14T16:39:55.399870+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/khandwa/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Khanna",
+      "url": "https://www.policybazaar.com/gold-rate/khanna/",
+      "fetched_at": "2026-07-14T16:39:55.403484+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/khanna/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kharagpur",
+      "url": "https://www.policybazaar.com/gold-rate/kharagpur/",
+      "fetched_at": "2026-07-14T16:39:55.409725+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kharagpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Khargone",
+      "url": "https://www.policybazaar.com/gold-rate/khargone/",
+      "fetched_at": "2026-07-14T16:39:55.413231+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/khargone/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kochi",
+      "url": "https://www.policybazaar.com/gold-rate/kochi/",
+      "fetched_at": "2026-07-14T16:39:55.414768+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kochi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kolar",
+      "url": "https://www.policybazaar.com/gold-rate/kolar/",
+      "fetched_at": "2026-07-14T16:39:55.417266+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kolar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kolhapur",
+      "url": "https://www.policybazaar.com/gold-rate/kolhapur/",
+      "fetched_at": "2026-07-14T16:39:55.418951+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kolhapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kolkata",
+      "url": "https://www.policybazaar.com/gold-rate/kolkata/",
+      "fetched_at": "2026-07-14T16:39:55.423236+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kolkata/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kollam",
+      "url": "https://www.policybazaar.com/gold-rate/kollam/",
+      "fetched_at": "2026-07-14T16:39:55.424911+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kollam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Korba",
+      "url": "https://www.policybazaar.com/gold-rate/korba/",
+      "fetched_at": "2026-07-14T16:39:55.428000+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/korba/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kota",
+      "url": "https://www.policybazaar.com/gold-rate/kota/",
+      "fetched_at": "2026-07-14T16:39:55.429785+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kota/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kozhikode",
+      "url": "https://www.policybazaar.com/gold-rate/kozhikode/",
+      "fetched_at": "2026-07-14T16:39:55.431178+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kozhikode/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kumbakonam",
+      "url": "https://www.policybazaar.com/gold-rate/kumbakonam/",
+      "fetched_at": "2026-07-14T16:39:55.442017+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kumbakonam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Kurnool",
+      "url": "https://www.policybazaar.com/gold-rate/kurnool/",
+      "fetched_at": "2026-07-14T16:39:55.449783+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/kurnool/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Latur",
+      "url": "https://www.policybazaar.com/gold-rate/latur/",
+      "fetched_at": "2026-07-14T16:39:55.451435+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/latur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Lucknow",
+      "url": "https://www.policybazaar.com/gold-rate/lucknow/",
+      "fetched_at": "2026-07-14T16:39:55.452250+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/lucknow/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ludhiana",
+      "url": "https://www.policybazaar.com/gold-rate/ludhiana/",
+      "fetched_at": "2026-07-14T16:39:55.458616+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ludhiana/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Machilipatnam",
+      "url": "https://www.policybazaar.com/gold-rate/machilipatnam/",
+      "fetched_at": "2026-07-14T16:39:55.461605+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/machilipatnam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Madanapalle",
+      "url": "https://www.policybazaar.com/gold-rate/madanapalle/",
+      "fetched_at": "2026-07-14T16:39:55.463238+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/madanapalle/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Madurai",
+      "url": "https://www.policybazaar.com/gold-rate/madurai/",
+      "fetched_at": "2026-07-14T16:39:55.465323+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/madurai/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Maheshtala",
+      "url": "https://www.policybazaar.com/gold-rate/maheshtala/",
+      "fetched_at": "2026-07-14T16:39:55.467186+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/maheshtala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Malegaon",
+      "url": "https://www.policybazaar.com/gold-rate/malegaon/",
+      "fetched_at": "2026-07-14T16:39:55.470003+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/malegaon/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Malerkotla",
+      "url": "https://www.policybazaar.com/gold-rate/malerkotla/",
+      "fetched_at": "2026-07-14T16:39:55.479197+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/malerkotla/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Mandsaur",
+      "url": "https://www.policybazaar.com/gold-rate/mandsaur/",
+      "fetched_at": "2026-07-14T16:39:55.482288+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/mandsaur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Mandya",
+      "url": "https://www.policybazaar.com/gold-rate/mandya/",
+      "fetched_at": "2026-07-14T16:39:55.485095+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/mandya/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Mangalore",
+      "url": "https://www.policybazaar.com/gold-rate/mangalore/",
+      "fetched_at": "2026-07-14T16:39:55.493240+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/mangalore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Mathura",
+      "url": "https://www.policybazaar.com/gold-rate/mathura/",
+      "fetched_at": "2026-07-14T16:39:55.496046+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/mathura/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Meerut",
+      "url": "https://www.policybazaar.com/gold-rate/meerut/",
+      "fetched_at": "2026-07-14T16:39:55.499030+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/meerut/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Miryalaguda",
+      "url": "https://www.policybazaar.com/gold-rate/miryalaguda/",
+      "fetched_at": "2026-07-14T16:39:55.500868+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/miryalaguda/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Moga",
+      "url": "https://www.policybazaar.com/gold-rate/moga/",
+      "fetched_at": "2026-07-14T16:39:55.504323+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/moga/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Moradabad",
+      "url": "https://www.policybazaar.com/gold-rate/moradabad/",
+      "fetched_at": "2026-07-14T16:39:55.506025+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/moradabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Morena",
+      "url": "https://www.policybazaar.com/gold-rate/morena/",
+      "fetched_at": "2026-07-14T16:39:55.513797+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/morena/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Murwara",
+      "url": "https://www.policybazaar.com/gold-rate/murwara/",
+      "fetched_at": "2026-07-14T16:39:55.516413+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/murwara/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Muzaffarnagar",
+      "url": "https://www.policybazaar.com/gold-rate/muzaffarnagar/",
+      "fetched_at": "2026-07-14T16:39:55.517104+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/muzaffarnagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Muzaffarpur",
+      "url": "https://www.policybazaar.com/gold-rate/muzaffarpur/",
+      "fetched_at": "2026-07-14T16:39:55.520154+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/muzaffarpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Mysore",
+      "url": "https://www.policybazaar.com/gold-rate/mysore/",
+      "fetched_at": "2026-07-14T16:39:55.523109+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/mysore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nadiad",
+      "url": "https://www.policybazaar.com/gold-rate/nadiad/",
+      "fetched_at": "2026-07-14T16:39:55.528176+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nadiad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nagapattinam",
+      "url": "https://www.policybazaar.com/gold-rate/nagapattinam/",
+      "fetched_at": "2026-07-14T16:39:55.536806+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nagapattinam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nagercoil",
+      "url": "https://www.policybazaar.com/gold-rate/nagercoil/",
+      "fetched_at": "2026-07-14T16:39:55.538060+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nagercoil/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nagpur",
+      "url": "https://www.policybazaar.com/gold-rate/nagpur/",
+      "fetched_at": "2026-07-14T16:39:55.540020+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nagpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nalgonda",
+      "url": "https://www.policybazaar.com/gold-rate/nalgonda/",
+      "fetched_at": "2026-07-14T16:39:55.543893+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nalgonda/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nandurbar",
+      "url": "https://www.policybazaar.com/gold-rate/nandurbar/",
+      "fetched_at": "2026-07-14T16:39:55.548132+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nandurbar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nandyal",
+      "url": "https://www.policybazaar.com/gold-rate/nandyal/",
+      "fetched_at": "2026-07-14T16:39:55.551916+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nandyal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nashik",
+      "url": "https://www.policybazaar.com/gold-rate/nashik/",
+      "fetched_at": "2026-07-14T16:39:55.553589+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nashik/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Navsari",
+      "url": "https://www.policybazaar.com/gold-rate/navsari/",
+      "fetched_at": "2026-07-14T16:39:55.557259+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/navsari/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Neemuch",
+      "url": "https://www.policybazaar.com/gold-rate/neemuch/",
+      "fetched_at": "2026-07-14T16:39:55.558749+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/neemuch/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nellore",
+      "url": "https://www.policybazaar.com/gold-rate/nellore/",
+      "fetched_at": "2026-07-14T16:39:55.569806+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nellore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Neyveli",
+      "url": "https://www.policybazaar.com/gold-rate/neyveli/",
+      "fetched_at": "2026-07-14T16:39:55.572271+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/neyveli/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nizamabad",
+      "url": "https://www.policybazaar.com/gold-rate/nizamabad/",
+      "fetched_at": "2026-07-14T16:39:55.573840+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nizamabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Noida",
+      "url": "https://www.policybazaar.com/gold-rate/noida/",
+      "fetched_at": "2026-07-14T16:39:55.580511+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/noida/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ongole",
+      "url": "https://www.policybazaar.com/gold-rate/ongole/",
+      "fetched_at": "2026-07-14T16:39:55.586236+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ongole/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Osmanabad",
+      "url": "https://www.policybazaar.com/gold-rate/osmanabad/",
+      "fetched_at": "2026-07-14T16:39:55.588260+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/osmanabad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Palanpur",
+      "url": "https://www.policybazaar.com/gold-rate/palanpur/",
+      "fetched_at": "2026-07-14T16:39:55.589854+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/palanpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Palwal",
+      "url": "https://www.policybazaar.com/gold-rate/palwal/",
+      "fetched_at": "2026-07-14T16:39:55.592073+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/palwal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Panchkula",
+      "url": "https://www.policybazaar.com/gold-rate/panchkula/",
+      "fetched_at": "2026-07-14T16:39:55.593076+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/panchkula/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Panipat",
+      "url": "https://www.policybazaar.com/gold-rate/panipat/",
+      "fetched_at": "2026-07-14T16:39:55.595219+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/panipat/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Panvel",
+      "url": "https://www.policybazaar.com/gold-rate/panvel/",
+      "fetched_at": "2026-07-14T16:39:55.604694+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/panvel/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Parbhani",
+      "url": "https://www.policybazaar.com/gold-rate/parbhani/",
+      "fetched_at": "2026-07-14T16:39:55.606967+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/parbhani/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Patan",
+      "url": "https://www.policybazaar.com/gold-rate/patan/",
+      "fetched_at": "2026-07-14T16:39:55.609345+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/patan/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Pathankot",
+      "url": "https://www.policybazaar.com/gold-rate/pathankot/",
+      "fetched_at": "2026-07-14T16:39:55.612777+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/pathankot/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Patiala",
+      "url": "https://www.policybazaar.com/gold-rate/patiala/",
+      "fetched_at": "2026-07-14T16:39:55.622036+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/patiala/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Patna",
+      "url": "https://www.policybazaar.com/gold-rate/patna/",
+      "fetched_at": "2026-07-14T16:39:55.625992+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/patna/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Porbandar",
+      "url": "https://www.policybazaar.com/gold-rate/porbandar/",
+      "fetched_at": "2026-07-14T16:39:55.628273+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/porbandar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Proddatur",
+      "url": "https://www.policybazaar.com/gold-rate/proddatur/",
+      "fetched_at": "2026-07-14T16:39:55.631261+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/proddatur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Pudukkottai",
+      "url": "https://www.policybazaar.com/gold-rate/pudukkottai/",
+      "fetched_at": "2026-07-14T16:39:55.632730+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/pudukkottai/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Pune",
+      "url": "https://www.policybazaar.com/gold-rate/pune/",
+      "fetched_at": "2026-07-14T16:39:55.639782+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/pune/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Puri",
+      "url": "https://www.policybazaar.com/gold-rate/puri/",
+      "fetched_at": "2026-07-14T16:39:55.641880+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/puri/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Purnia",
+      "url": "https://www.policybazaar.com/gold-rate/purnia/",
+      "fetched_at": "2026-07-14T16:39:55.644118+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/purnia/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Raichur",
+      "url": "https://www.policybazaar.com/gold-rate/raichur/",
+      "fetched_at": "2026-07-14T16:39:55.645816+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/raichur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Raiganj",
+      "url": "https://www.policybazaar.com/gold-rate/raiganj/",
+      "fetched_at": "2026-07-14T16:39:55.649442+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/raiganj/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Raigarh",
+      "url": "https://www.policybazaar.com/gold-rate/raigarh/",
+      "fetched_at": "2026-07-14T16:39:55.655844+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/raigarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Raipur",
+      "url": "https://www.policybazaar.com/gold-rate/raipur/",
+      "fetched_at": "2026-07-14T16:39:55.658647+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/raipur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rajahmundry",
+      "url": "https://www.policybazaar.com/gold-rate/rajahmundry/",
+      "fetched_at": "2026-07-14T16:39:55.659879+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rajahmundry/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rajapalayam",
+      "url": "https://www.policybazaar.com/gold-rate/rajapalayam/",
+      "fetched_at": "2026-07-14T16:39:55.669333+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rajapalayam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rajkot",
+      "url": "https://www.policybazaar.com/gold-rate/rajkot/",
+      "fetched_at": "2026-07-14T16:39:55.672142+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rajkot/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rajnandgaon",
+      "url": "https://www.policybazaar.com/gold-rate/rajnandgaon/",
+      "fetched_at": "2026-07-14T16:39:55.673889+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rajnandgaon/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ramagundam",
+      "url": "https://www.policybazaar.com/gold-rate/ramagundam/",
+      "fetched_at": "2026-07-14T16:39:55.676976+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ramagundam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rampur",
+      "url": "https://www.policybazaar.com/gold-rate/rampur/",
+      "fetched_at": "2026-07-14T16:39:55.682627+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rampur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ranchi",
+      "url": "https://www.policybazaar.com/gold-rate/ranchi/",
+      "fetched_at": "2026-07-14T16:39:55.687014+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ranchi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ratlam",
+      "url": "https://www.policybazaar.com/gold-rate/ratlam/",
+      "fetched_at": "2026-07-14T16:39:55.687806+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ratlam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rewa",
+      "url": "https://www.policybazaar.com/gold-rate/rewa/",
+      "fetched_at": "2026-07-14T16:39:55.689776+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rewa/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rewari",
+      "url": "https://www.policybazaar.com/gold-rate/rewari/",
+      "fetched_at": "2026-07-14T16:39:55.693070+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rewari/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rohtak",
+      "url": "https://www.policybazaar.com/gold-rate/rohtak/",
+      "fetched_at": "2026-07-14T16:39:55.697804+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rohtak/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Roorkee",
+      "url": "https://www.policybazaar.com/gold-rate/roorkee/",
+      "fetched_at": "2026-07-14T16:39:55.703847+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/roorkee/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Sagar",
+      "url": "https://www.policybazaar.com/gold-rate/sagar/",
+      "fetched_at": "2026-07-14T16:39:55.706612+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/sagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Saharanpur",
+      "url": "https://www.policybazaar.com/gold-rate/saharanpur/",
+      "fetched_at": "2026-07-14T16:39:55.710511+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/saharanpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Salem",
+      "url": "https://www.policybazaar.com/gold-rate/salem/",
+      "fetched_at": "2026-07-14T16:39:55.712571+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/salem/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Sambalpur",
+      "url": "https://www.policybazaar.com/gold-rate/sambalpur/",
+      "fetched_at": "2026-07-14T16:39:55.717469+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/sambalpur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Satara",
+      "url": "https://www.policybazaar.com/gold-rate/satara/",
+      "fetched_at": "2026-07-14T16:39:55.724703+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/satara/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Satna",
+      "url": "https://www.policybazaar.com/gold-rate/satna/",
+      "fetched_at": "2026-07-14T16:39:55.727519+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/satna/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Seoni",
+      "url": "https://www.policybazaar.com/gold-rate/seoni/",
+      "fetched_at": "2026-07-14T16:39:55.729219+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/seoni/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Shillong",
+      "url": "https://www.policybazaar.com/gold-rate/shillong/",
+      "fetched_at": "2026-07-14T16:39:55.733462+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/shillong/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Shimla",
+      "url": "https://www.policybazaar.com/gold-rate/shimla/",
+      "fetched_at": "2026-07-14T16:39:55.734656+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/shimla/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Shimoga",
+      "url": "https://www.policybazaar.com/gold-rate/shimoga/",
+      "fetched_at": "2026-07-14T16:39:55.739085+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/shimoga/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Sikar",
+      "url": "https://www.policybazaar.com/gold-rate/sikar/",
+      "fetched_at": "2026-07-14T16:39:55.741996+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/sikar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Silchar",
+      "url": "https://www.policybazaar.com/gold-rate/silchar/",
+      "fetched_at": "2026-07-14T16:39:55.743509+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/silchar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Siliguri",
+      "url": "https://www.policybazaar.com/gold-rate/siliguri/",
+      "fetched_at": "2026-07-14T16:39:55.748402+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/siliguri/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Singrauli",
+      "url": "https://www.policybazaar.com/gold-rate/singrauli/",
+      "fetched_at": "2026-07-14T16:39:55.753991+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/singrauli/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Sirsa",
+      "url": "https://www.policybazaar.com/gold-rate/sirsa/",
+      "fetched_at": "2026-07-14T16:39:55.758557+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/sirsa/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Solapur",
+      "url": "https://www.policybazaar.com/gold-rate/solapur/",
+      "fetched_at": "2026-07-14T16:39:55.762521+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/solapur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Srikakulam",
+      "url": "https://www.policybazaar.com/gold-rate/srikakulam/",
+      "fetched_at": "2026-07-14T16:39:55.766274+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/srikakulam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Srinagar",
+      "url": "https://www.policybazaar.com/gold-rate/srinagar/",
+      "fetched_at": "2026-07-14T16:39:55.770866+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/srinagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Surat",
+      "url": "https://www.policybazaar.com/gold-rate/surat/",
+      "fetched_at": "2026-07-14T16:39:55.774136+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/surat/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Suryapet",
+      "url": "https://www.policybazaar.com/gold-rate/suryapet/",
+      "fetched_at": "2026-07-14T16:39:55.774900+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/suryapet/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tadepalligudem",
+      "url": "https://www.policybazaar.com/gold-rate/tadepalligudem/",
+      "fetched_at": "2026-07-14T16:39:55.777160+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tadepalligudem/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tenali",
+      "url": "https://www.policybazaar.com/gold-rate/tenali/",
+      "fetched_at": "2026-07-14T16:39:55.779526+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tenali/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Thane",
+      "url": "https://www.policybazaar.com/gold-rate/thane/",
+      "fetched_at": "2026-07-14T16:39:55.781588+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/thane/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Thanjavur",
+      "url": "https://www.policybazaar.com/gold-rate/thanjavur/",
+      "fetched_at": "2026-07-14T16:39:55.793554+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/thanjavur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Thrissur",
+      "url": "https://www.policybazaar.com/gold-rate/thrissur/",
+      "fetched_at": "2026-07-14T16:39:55.795443+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/thrissur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tirunelveli",
+      "url": "https://www.policybazaar.com/gold-rate/tirunelveli/",
+      "fetched_at": "2026-07-14T16:39:55.799419+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tirunelveli/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tirupati",
+      "url": "https://www.policybazaar.com/gold-rate/tirupati/",
+      "fetched_at": "2026-07-14T16:39:55.801797+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tirupati/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tiruppur",
+      "url": "https://www.policybazaar.com/gold-rate/tiruppur/",
+      "fetched_at": "2026-07-14T16:39:55.809268+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tiruppur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tiruvannamalai",
+      "url": "https://www.policybazaar.com/gold-rate/tiruvannamalai/",
+      "fetched_at": "2026-07-14T16:39:55.810953+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tiruvannamalai/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Udaipur",
+      "url": "https://www.policybazaar.com/gold-rate/udaipur/",
+      "fetched_at": "2026-07-14T16:39:55.813421+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/udaipur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Udgir",
+      "url": "https://www.policybazaar.com/gold-rate/udgir/",
+      "fetched_at": "2026-07-14T16:39:55.815056+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/udgir/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Udupi",
+      "url": "https://www.policybazaar.com/gold-rate/udupi/",
+      "fetched_at": "2026-07-14T16:39:55.823921+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/udupi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ujjain",
+      "url": "https://www.policybazaar.com/gold-rate/ujjain/",
+      "fetched_at": "2026-07-14T16:39:55.826298+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ujjain/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Ulhasnagar",
+      "url": "https://www.policybazaar.com/gold-rate/ulhasnagar/",
+      "fetched_at": "2026-07-14T16:39:55.828207+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/ulhasnagar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Vadodara",
+      "url": "https://www.policybazaar.com/gold-rate/vadodara/",
+      "fetched_at": "2026-07-14T16:39:55.829123+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/vadodara/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Valsad",
+      "url": "https://www.policybazaar.com/gold-rate/valsad/",
+      "fetched_at": "2026-07-14T16:39:55.832788+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/valsad/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Varanasi",
+      "url": "https://www.policybazaar.com/gold-rate/varanasi/",
+      "fetched_at": "2026-07-14T16:39:55.837561+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/varanasi/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Vellore",
+      "url": "https://www.policybazaar.com/gold-rate/vellore/",
+      "fetched_at": "2026-07-14T16:39:55.840734+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/vellore/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Vidisha",
+      "url": "https://www.policybazaar.com/gold-rate/vidisha/",
+      "fetched_at": "2026-07-14T16:39:55.844527+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/vidisha/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Vijayawada",
+      "url": "https://www.policybazaar.com/gold-rate/vijayawada/",
+      "fetched_at": "2026-07-14T16:39:55.846601+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/vijayawada/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Visakhapatnam",
+      "url": "https://www.policybazaar.com/gold-rate/visakhapatnam/",
+      "fetched_at": "2026-07-14T16:39:55.856177+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/visakhapatnam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Vizianagaram",
+      "url": "https://www.policybazaar.com/gold-rate/vizianagaram/",
+      "fetched_at": "2026-07-14T16:39:55.859986+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/vizianagaram/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Warangal",
+      "url": "https://www.policybazaar.com/gold-rate/warangal/",
+      "fetched_at": "2026-07-14T16:39:55.862522+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/warangal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Wardha",
+      "url": "https://www.policybazaar.com/gold-rate/wardha/",
+      "fetched_at": "2026-07-14T16:39:55.863973+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/wardha/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Yavatmal",
+      "url": "https://www.policybazaar.com/gold-rate/yavatmal/",
+      "fetched_at": "2026-07-14T16:39:55.871126+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/yavatmal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Haryana",
+      "url": "https://www.policybazaar.com/gold-rate/haryana/",
+      "fetched_at": "2026-07-14T16:39:55.873851+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/haryana/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Andhra Pradesh",
+      "url": "https://www.policybazaar.com/gold-rate/andhra-pradesh/",
+      "fetched_at": "2026-07-14T16:39:55.876614+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/andhra-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Odisha",
+      "url": "https://www.policybazaar.com/gold-rate/odisha/",
+      "fetched_at": "2026-07-14T16:39:55.885645+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/odisha/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Maharashtra",
+      "url": "https://www.policybazaar.com/gold-rate/maharashtra/",
+      "fetched_at": "2026-07-14T16:39:55.888263+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/maharashtra/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Rajasthan",
+      "url": "https://www.policybazaar.com/gold-rate/rajasthan/",
+      "fetched_at": "2026-07-14T16:39:55.889788+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/rajasthan/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Bihar",
+      "url": "https://www.policybazaar.com/gold-rate/bihar/",
+      "fetched_at": "2026-07-14T16:39:55.891391+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/bihar/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Himachal Pradesh",
+      "url": "https://www.policybazaar.com/gold-rate/himachal-pradesh/",
+      "fetched_at": "2026-07-14T16:39:55.893312+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/himachal-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Telangana",
+      "url": "https://www.policybazaar.com/gold-rate/telangana/",
+      "fetched_at": "2026-07-14T16:39:55.896065+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/telangana/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "West Bengal",
+      "url": "https://www.policybazaar.com/gold-rate/west-bengal/",
+      "fetched_at": "2026-07-14T16:39:55.897733+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/west-bengal/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Jharkhand",
+      "url": "https://www.policybazaar.com/gold-rate/jharkhand/",
+      "fetched_at": "2026-07-14T16:39:55.900102+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/jharkhand/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Assam",
+      "url": "https://www.policybazaar.com/gold-rate/assam/",
+      "fetched_at": "2026-07-14T16:39:55.910609+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/assam/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Uttar Pradesh",
+      "url": "https://www.policybazaar.com/gold-rate/uttar-pradesh/",
+      "fetched_at": "2026-07-14T16:39:55.915282+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/uttar-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Uttarakhand",
+      "url": "https://www.policybazaar.com/gold-rate/uttarakhand/",
+      "fetched_at": "2026-07-14T16:39:55.918339+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/uttarakhand/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tamil Nadu",
+      "url": "https://www.policybazaar.com/gold-rate/tamil-nadu/",
+      "fetched_at": "2026-07-14T16:39:55.923946+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tamil-nadu/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Chhattisgarh",
+      "url": "https://www.policybazaar.com/gold-rate/chhattisgarh/",
+      "fetched_at": "2026-07-14T16:39:55.928769+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/chhattisgarh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Tripura",
+      "url": "https://www.policybazaar.com/gold-rate/tripura/",
+      "fetched_at": "2026-07-14T16:39:55.931189+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/tripura/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Madhya Pradesh",
+      "url": "https://www.policybazaar.com/gold-rate/madhya-pradesh/",
+      "fetched_at": "2026-07-14T16:39:55.932136+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/madhya-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Sikkim",
+      "url": "https://www.policybazaar.com/gold-rate/sikkim/",
+      "fetched_at": "2026-07-14T16:39:55.935206+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/sikkim/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Manipur",
+      "url": "https://www.policybazaar.com/gold-rate/manipur/",
+      "fetched_at": "2026-07-14T16:39:55.940354+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/manipur/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Arunachal Pradesh",
+      "url": "https://www.policybazaar.com/gold-rate/arunachal-pradesh/",
+      "fetched_at": "2026-07-14T16:39:55.944312+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/arunachal-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Nagaland",
+      "url": "https://www.policybazaar.com/gold-rate/nagaland/",
+      "fetched_at": "2026-07-14T16:39:55.946826+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/nagaland/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Meghalaya",
+      "url": "https://www.policybazaar.com/gold-rate/meghalaya/",
+      "fetched_at": "2026-07-14T16:39:55.949220+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/meghalaya/",
+      "data": null
+    },
+    {
+      "metal": "Gold",
+      "city": "Mizoram",
+      "url": "https://www.policybazaar.com/gold-rate/mizoram/",
+      "fetched_at": "2026-07-14T16:39:55.953539+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/gold-rate/mizoram/",
+      "data": null
+    }
+  ]
+}

@@ -1,0 +1,2701 @@
+{
+  "generated_at": "2026-07-14T16:39:50.580908+05:30",
+  "rates": [
+    {
+      "metal": "Silver",
+      "city": "Ahmedabad",
+      "url": "https://www.policybazaar.com/silver-rate/ahmedabad/",
+      "fetched_at": "2026-07-14T16:39:55.956771+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ahmedabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ahmednagar",
+      "url": "https://www.policybazaar.com/silver-rate/ahmednagar/",
+      "fetched_at": "2026-07-14T16:39:55.965944+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ahmednagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ayodhya",
+      "url": "https://www.policybazaar.com/silver-rate/ayodhya/",
+      "fetched_at": "2026-07-14T16:39:55.967944+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ayodhya/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Balangir",
+      "url": "https://www.policybazaar.com/silver-rate/balangir/",
+      "fetched_at": "2026-07-14T16:39:55.970062+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/balangir/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Balasore",
+      "url": "https://www.policybazaar.com/silver-rate/balasore/",
+      "fetched_at": "2026-07-14T16:39:55.971951+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/balasore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Baripada",
+      "url": "https://www.policybazaar.com/silver-rate/baripada/",
+      "fetched_at": "2026-07-14T16:39:55.973822+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/baripada/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Berhampur",
+      "url": "https://www.policybazaar.com/silver-rate/berhampur/",
+      "fetched_at": "2026-07-14T16:39:55.975960+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/berhampur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chhatarpur",
+      "url": "https://www.policybazaar.com/silver-rate/chhatarpur/",
+      "fetched_at": "2026-07-14T16:39:55.983380+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chhatarpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chirala",
+      "url": "https://www.policybazaar.com/silver-rate/chirala/",
+      "fetched_at": "2026-07-14T16:39:55.987759+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chirala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Darjeeling",
+      "url": "https://www.policybazaar.com/silver-rate/darjeeling/",
+      "fetched_at": "2026-07-14T16:39:55.990477+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/darjeeling/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dharamshala",
+      "url": "https://www.policybazaar.com/silver-rate/dharamshala/",
+      "fetched_at": "2026-07-14T16:39:55.997887+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dharamshala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dispur",
+      "url": "https://www.policybazaar.com/silver-rate/dispur/",
+      "fetched_at": "2026-07-14T16:39:56.002532+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dispur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Faridkot",
+      "url": "https://www.policybazaar.com/silver-rate/faridkot/",
+      "fetched_at": "2026-07-14T16:39:56.005102+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/faridkot/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Farrukhabad",
+      "url": "https://www.policybazaar.com/silver-rate/farrukhabad/",
+      "fetched_at": "2026-07-14T16:39:56.008274+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/farrukhabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gangavathi",
+      "url": "https://www.policybazaar.com/silver-rate/gangavathi/",
+      "fetched_at": "2026-07-14T16:39:56.011252+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gangavathi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gangtok",
+      "url": "https://www.policybazaar.com/silver-rate/gangtok/",
+      "fetched_at": "2026-07-14T16:39:56.020125+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gangtok/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ghaziabad",
+      "url": "https://www.policybazaar.com/silver-rate/ghaziabad/",
+      "fetched_at": "2026-07-14T16:39:56.022598+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ghaziabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gondia",
+      "url": "https://www.policybazaar.com/silver-rate/gondia/",
+      "fetched_at": "2026-07-14T16:39:56.023537+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gondia/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gudiyatham",
+      "url": "https://www.policybazaar.com/silver-rate/gudiyatham/",
+      "fetched_at": "2026-07-14T16:39:56.025956+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gudiyatham/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hazaribagh",
+      "url": "https://www.policybazaar.com/silver-rate/hazaribagh/",
+      "fetched_at": "2026-07-14T16:39:56.028374+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hazaribagh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Howrah",
+      "url": "https://www.policybazaar.com/silver-rate/howrah/",
+      "fetched_at": "2026-07-14T16:39:56.030826+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/howrah/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Itarsi",
+      "url": "https://www.policybazaar.com/silver-rate/itarsi/",
+      "fetched_at": "2026-07-14T16:39:56.033050+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/itarsi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jagtial",
+      "url": "https://www.policybazaar.com/silver-rate/jagtial/",
+      "fetched_at": "2026-07-14T16:39:56.039061+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jagtial/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jorhat",
+      "url": "https://www.policybazaar.com/silver-rate/jorhat/",
+      "fetched_at": "2026-07-14T16:39:56.041235+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jorhat/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kadiri",
+      "url": "https://www.policybazaar.com/silver-rate/kadiri/",
+      "fetched_at": "2026-07-14T16:39:56.046429+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kadiri/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kalyan",
+      "url": "https://www.policybazaar.com/silver-rate/kalyan/",
+      "fetched_at": "2026-07-14T16:39:56.055131+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kalyan/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kanchipuram",
+      "url": "https://www.policybazaar.com/silver-rate/kanchipuram/",
+      "fetched_at": "2026-07-14T16:39:56.058472+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kanchipuram/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kannur",
+      "url": "https://www.policybazaar.com/silver-rate/kannur/",
+      "fetched_at": "2026-07-14T16:39:56.060349+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kannur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kapurthala",
+      "url": "https://www.policybazaar.com/silver-rate/kapurthala/",
+      "fetched_at": "2026-07-14T16:39:56.062565+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kapurthala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Karaikudi",
+      "url": "https://www.policybazaar.com/silver-rate/karaikudi/",
+      "fetched_at": "2026-07-14T16:39:56.068314+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/karaikudi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Karur",
+      "url": "https://www.policybazaar.com/silver-rate/karur/",
+      "fetched_at": "2026-07-14T16:39:56.073339+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/karur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kavali",
+      "url": "https://www.policybazaar.com/silver-rate/kavali/",
+      "fetched_at": "2026-07-14T16:39:56.078884+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kavali/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kavaratti",
+      "url": "https://www.policybazaar.com/silver-rate/kavaratti/",
+      "fetched_at": "2026-07-14T16:39:56.081970+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kavaratti/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kohima",
+      "url": "https://www.policybazaar.com/silver-rate/kohima/",
+      "fetched_at": "2026-07-14T16:39:56.088308+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kohima/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Malappuram",
+      "url": "https://www.policybazaar.com/silver-rate/malappuram/",
+      "fetched_at": "2026-07-14T16:39:56.089557+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/malappuram/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mangalagiri",
+      "url": "https://www.policybazaar.com/silver-rate/mangalagiri/",
+      "fetched_at": "2026-07-14T16:39:56.093083+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mangalagiri/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mirzapur",
+      "url": "https://www.policybazaar.com/silver-rate/mirzapur/",
+      "fetched_at": "2026-07-14T16:39:56.094147+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mirzapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Morbi",
+      "url": "https://www.policybazaar.com/silver-rate/morbi/",
+      "fetched_at": "2026-07-14T16:39:56.095471+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/morbi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nanded",
+      "url": "https://www.policybazaar.com/silver-rate/nanded/",
+      "fetched_at": "2026-07-14T16:39:56.102368+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nanded/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Phagwara",
+      "url": "https://www.policybazaar.com/silver-rate/phagwara/",
+      "fetched_at": "2026-07-14T16:39:56.105899+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/phagwara/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Pimpri Chinchwad",
+      "url": "https://www.policybazaar.com/silver-rate/pimpri-chinchwad/",
+      "fetched_at": "2026-07-14T16:39:56.110805+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/pimpri-chinchwad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ramanathapuram",
+      "url": "https://www.policybazaar.com/silver-rate/ramanathapuram/",
+      "fetched_at": "2026-07-14T16:39:56.112560+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ramanathapuram/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sangli",
+      "url": "https://www.policybazaar.com/silver-rate/sangli/",
+      "fetched_at": "2026-07-14T16:39:56.117799+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sangli/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Siddipet",
+      "url": "https://www.policybazaar.com/silver-rate/siddipet/",
+      "fetched_at": "2026-07-14T16:39:56.119633+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/siddipet/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sivakasi",
+      "url": "https://www.policybazaar.com/silver-rate/sivakasi/",
+      "fetched_at": "2026-07-14T16:39:56.128656+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sivakasi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Trivandrum",
+      "url": "https://www.policybazaar.com/silver-rate/trivandrum/",
+      "fetched_at": "2026-07-14T16:39:56.137247+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/trivandrum/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vapi",
+      "url": "https://www.policybazaar.com/silver-rate/vapi/",
+      "fetched_at": "2026-07-14T16:39:56.139340+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vapi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vasai",
+      "url": "https://www.policybazaar.com/silver-rate/vasai/",
+      "fetched_at": "2026-07-14T16:39:56.141184+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vasai/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vijayapura",
+      "url": "https://www.policybazaar.com/silver-rate/vijayapura/",
+      "fetched_at": "2026-07-14T16:39:56.142503+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vijayapura/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Punjab",
+      "url": "https://www.policybazaar.com/silver-rate/punjab/",
+      "fetched_at": "2026-07-14T16:39:56.145347+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/punjab/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hyderabad",
+      "url": "https://www.policybazaar.com/silver-rate/hyderabad/",
+      "fetched_at": "2026-07-14T16:39:56.145920+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hyderabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bangalore",
+      "url": "https://www.policybazaar.com/silver-rate/bangalore/",
+      "fetched_at": "2026-07-14T16:39:56.149683+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bangalore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mumbai",
+      "url": "https://www.policybazaar.com/silver-rate/mumbai/",
+      "fetched_at": "2026-07-14T16:39:56.151081+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mumbai/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gujarat",
+      "url": "https://www.policybazaar.com/silver-rate/gujarat/",
+      "fetched_at": "2026-07-14T16:39:56.153623+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gujarat/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhubaneswar",
+      "url": "https://www.policybazaar.com/silver-rate/bhubaneswar/",
+      "fetched_at": "2026-07-14T16:39:56.162538+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhubaneswar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Pondicherry",
+      "url": "https://www.policybazaar.com/silver-rate/pondicherry/",
+      "fetched_at": "2026-07-14T16:39:56.170819+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/pondicherry/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Goa",
+      "url": "https://www.policybazaar.com/silver-rate/goa/",
+      "fetched_at": "2026-07-14T16:39:56.175886+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/goa/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kerala",
+      "url": "https://www.policybazaar.com/silver-rate/kerala/",
+      "fetched_at": "2026-07-14T16:39:56.178978+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kerala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Karnataka",
+      "url": "https://www.policybazaar.com/silver-rate/karnataka/",
+      "fetched_at": "2026-07-14T16:39:56.181746+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/karnataka/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Abohar",
+      "url": "https://www.policybazaar.com/silver-rate/abohar/",
+      "fetched_at": "2026-07-14T16:39:56.183799+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/abohar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Adilabad",
+      "url": "https://www.policybazaar.com/silver-rate/adilabad/",
+      "fetched_at": "2026-07-14T16:39:56.185478+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/adilabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Adoni",
+      "url": "https://www.policybazaar.com/silver-rate/adoni/",
+      "fetched_at": "2026-07-14T16:39:56.188341+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/adoni/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Agartala",
+      "url": "https://www.policybazaar.com/silver-rate/agartala/",
+      "fetched_at": "2026-07-14T16:39:56.196323+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/agartala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Agra",
+      "url": "https://www.policybazaar.com/silver-rate/agra/",
+      "fetched_at": "2026-07-14T16:39:56.197971+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/agra/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Aizawl",
+      "url": "https://www.policybazaar.com/silver-rate/aizawl/",
+      "fetched_at": "2026-07-14T16:39:56.201003+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/aizawl/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ajmer",
+      "url": "https://www.policybazaar.com/silver-rate/ajmer/",
+      "fetched_at": "2026-07-14T16:39:56.204052+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ajmer/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Akola",
+      "url": "https://www.policybazaar.com/silver-rate/akola/",
+      "fetched_at": "2026-07-14T16:39:56.207645+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/akola/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Aligarh",
+      "url": "https://www.policybazaar.com/silver-rate/aligarh/",
+      "fetched_at": "2026-07-14T16:39:56.215674+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/aligarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Allahabad",
+      "url": "https://www.policybazaar.com/silver-rate/allahabad/",
+      "fetched_at": "2026-07-14T16:39:56.218514+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/allahabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Alwar",
+      "url": "https://www.policybazaar.com/silver-rate/alwar/",
+      "fetched_at": "2026-07-14T16:39:56.220587+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/alwar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ambala",
+      "url": "https://www.policybazaar.com/silver-rate/ambala/",
+      "fetched_at": "2026-07-14T16:39:56.222513+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ambala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ambarnath",
+      "url": "https://www.policybazaar.com/silver-rate/ambarnath/",
+      "fetched_at": "2026-07-14T16:39:56.230249+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ambarnath/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ambikapur",
+      "url": "https://www.policybazaar.com/silver-rate/ambikapur/",
+      "fetched_at": "2026-07-14T16:39:56.232387+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ambikapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ambur",
+      "url": "https://www.policybazaar.com/silver-rate/ambur/",
+      "fetched_at": "2026-07-14T16:39:56.234978+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ambur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Amravati",
+      "url": "https://www.policybazaar.com/silver-rate/amravati/",
+      "fetched_at": "2026-07-14T16:39:56.237645+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/amravati/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Amreli",
+      "url": "https://www.policybazaar.com/silver-rate/amreli/",
+      "fetched_at": "2026-07-14T16:39:56.246436+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/amreli/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Amritsar",
+      "url": "https://www.policybazaar.com/silver-rate/amritsar/",
+      "fetched_at": "2026-07-14T16:39:56.249797+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/amritsar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Anand",
+      "url": "https://www.policybazaar.com/silver-rate/anand/",
+      "fetched_at": "2026-07-14T16:39:56.251361+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/anand/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Anantapur",
+      "url": "https://www.policybazaar.com/silver-rate/anantapur/",
+      "fetched_at": "2026-07-14T16:39:56.254456+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/anantapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Asansol",
+      "url": "https://www.policybazaar.com/silver-rate/asansol/",
+      "fetched_at": "2026-07-14T16:39:56.257229+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/asansol/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Aurangabad",
+      "url": "https://www.policybazaar.com/silver-rate/aurangabad/",
+      "fetched_at": "2026-07-14T16:39:56.260044+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/aurangabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Badlapur",
+      "url": "https://www.policybazaar.com/silver-rate/badlapur/",
+      "fetched_at": "2026-07-14T16:39:56.264640+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/badlapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bagalkot",
+      "url": "https://www.policybazaar.com/silver-rate/bagalkot/",
+      "fetched_at": "2026-07-14T16:39:56.266590+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bagalkot/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bahadurgarh",
+      "url": "https://www.policybazaar.com/silver-rate/bahadurgarh/",
+      "fetched_at": "2026-07-14T16:39:56.271997+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bahadurgarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Balurghat",
+      "url": "https://www.policybazaar.com/silver-rate/balurghat/",
+      "fetched_at": "2026-07-14T16:39:56.275385+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/balurghat/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bankura",
+      "url": "https://www.policybazaar.com/silver-rate/bankura/",
+      "fetched_at": "2026-07-14T16:39:56.278117+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bankura/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bareilly",
+      "url": "https://www.policybazaar.com/silver-rate/bareilly/",
+      "fetched_at": "2026-07-14T16:39:56.280464+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bareilly/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Barnala",
+      "url": "https://www.policybazaar.com/silver-rate/barnala/",
+      "fetched_at": "2026-07-14T16:39:56.282440+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/barnala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Barshi",
+      "url": "https://www.policybazaar.com/silver-rate/barshi/",
+      "fetched_at": "2026-07-14T16:39:56.286703+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/barshi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Batala",
+      "url": "https://www.policybazaar.com/silver-rate/batala/",
+      "fetched_at": "2026-07-14T16:39:56.291935+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/batala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bathinda",
+      "url": "https://www.policybazaar.com/silver-rate/bathinda/",
+      "fetched_at": "2026-07-14T16:39:56.300066+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bathinda/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Beawar",
+      "url": "https://www.policybazaar.com/silver-rate/beawar/",
+      "fetched_at": "2026-07-14T16:39:56.303225+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/beawar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Belgaum",
+      "url": "https://www.policybazaar.com/silver-rate/belgaum/",
+      "fetched_at": "2026-07-14T16:39:56.308400+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/belgaum/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bellary",
+      "url": "https://www.policybazaar.com/silver-rate/bellary/",
+      "fetched_at": "2026-07-14T16:39:56.313437+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bellary/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Betul",
+      "url": "https://www.policybazaar.com/silver-rate/betul/",
+      "fetched_at": "2026-07-14T16:39:56.315237+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/betul/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhadrak",
+      "url": "https://www.policybazaar.com/silver-rate/bhadrak/",
+      "fetched_at": "2026-07-14T16:39:56.317198+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhadrak/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhagalpur",
+      "url": "https://www.policybazaar.com/silver-rate/bhagalpur/",
+      "fetched_at": "2026-07-14T16:39:56.318966+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhagalpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bharatpur",
+      "url": "https://www.policybazaar.com/silver-rate/bharatpur/",
+      "fetched_at": "2026-07-14T16:39:56.319825+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bharatpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bharuch",
+      "url": "https://www.policybazaar.com/silver-rate/bharuch/",
+      "fetched_at": "2026-07-14T16:39:56.321853+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bharuch/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhavnagar",
+      "url": "https://www.policybazaar.com/silver-rate/bhavnagar/",
+      "fetched_at": "2026-07-14T16:39:56.323581+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhavnagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhilwara",
+      "url": "https://www.policybazaar.com/silver-rate/bhilwara/",
+      "fetched_at": "2026-07-14T16:39:56.337979+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhilwara/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhimavaram",
+      "url": "https://www.policybazaar.com/silver-rate/bhimavaram/",
+      "fetched_at": "2026-07-14T16:39:56.340698+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhimavaram/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhind",
+      "url": "https://www.policybazaar.com/silver-rate/bhind/",
+      "fetched_at": "2026-07-14T16:39:56.342674+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhind/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhiwadi",
+      "url": "https://www.policybazaar.com/silver-rate/bhiwadi/",
+      "fetched_at": "2026-07-14T16:39:56.347327+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhiwadi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhiwandi",
+      "url": "https://www.policybazaar.com/silver-rate/bhiwandi/",
+      "fetched_at": "2026-07-14T16:39:56.351255+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhiwandi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhiwani",
+      "url": "https://www.policybazaar.com/silver-rate/bhiwani/",
+      "fetched_at": "2026-07-14T16:39:56.352950+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhiwani/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhopal",
+      "url": "https://www.policybazaar.com/silver-rate/bhopal/",
+      "fetched_at": "2026-07-14T16:39:56.357323+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhopal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhuj",
+      "url": "https://www.policybazaar.com/silver-rate/bhuj/",
+      "fetched_at": "2026-07-14T16:39:56.358922+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhuj/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bhusawal",
+      "url": "https://www.policybazaar.com/silver-rate/bhusawal/",
+      "fetched_at": "2026-07-14T16:39:56.361373+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bhusawal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bidar",
+      "url": "https://www.policybazaar.com/silver-rate/bidar/",
+      "fetched_at": "2026-07-14T16:39:56.363401+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bidar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bikaner",
+      "url": "https://www.policybazaar.com/silver-rate/bikaner/",
+      "fetched_at": "2026-07-14T16:39:56.371912+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bikaner/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bilaspur",
+      "url": "https://www.policybazaar.com/silver-rate/bilaspur/",
+      "fetched_at": "2026-07-14T16:39:56.374701+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bilaspur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Budaun",
+      "url": "https://www.policybazaar.com/silver-rate/budaun/",
+      "fetched_at": "2026-07-14T16:39:56.380073+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/budaun/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Burhanpur",
+      "url": "https://www.policybazaar.com/silver-rate/burhanpur/",
+      "fetched_at": "2026-07-14T16:39:56.385483+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/burhanpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chandigarh",
+      "url": "https://www.policybazaar.com/silver-rate/chandigarh/",
+      "fetched_at": "2026-07-14T16:39:56.387361+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chandigarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chandrapur",
+      "url": "https://www.policybazaar.com/silver-rate/chandrapur/",
+      "fetched_at": "2026-07-14T16:39:56.389374+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chandrapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chennai",
+      "url": "https://www.policybazaar.com/silver-rate/chennai/",
+      "fetched_at": "2026-07-14T16:39:56.393190+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chennai/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chhindwara",
+      "url": "https://www.policybazaar.com/silver-rate/chhindwara/",
+      "fetched_at": "2026-07-14T16:39:56.396747+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chhindwara/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chikmagalur",
+      "url": "https://www.policybazaar.com/silver-rate/chikmagalur/",
+      "fetched_at": "2026-07-14T16:39:56.399442+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chikmagalur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chilakaluripet",
+      "url": "https://www.policybazaar.com/silver-rate/chilakaluripet/",
+      "fetched_at": "2026-07-14T16:39:56.401354+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chilakaluripet/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chitradurga",
+      "url": "https://www.policybazaar.com/silver-rate/chitradurga/",
+      "fetched_at": "2026-07-14T16:39:56.403214+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chitradurga/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chittoor",
+      "url": "https://www.policybazaar.com/silver-rate/chittoor/",
+      "fetched_at": "2026-07-14T16:39:56.405746+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chittoor/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Coimbatore",
+      "url": "https://www.policybazaar.com/silver-rate/coimbatore/",
+      "fetched_at": "2026-07-14T16:39:56.413646+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/coimbatore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Cuddalore",
+      "url": "https://www.policybazaar.com/silver-rate/cuddalore/",
+      "fetched_at": "2026-07-14T16:39:56.419881+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/cuddalore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Cuttack",
+      "url": "https://www.policybazaar.com/silver-rate/cuttack/",
+      "fetched_at": "2026-07-14T16:39:56.424669+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/cuttack/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Deesa",
+      "url": "https://www.policybazaar.com/silver-rate/deesa/",
+      "fetched_at": "2026-07-14T16:39:56.426984+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/deesa/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dehradun",
+      "url": "https://www.policybazaar.com/silver-rate/dehradun/",
+      "fetched_at": "2026-07-14T16:39:56.429927+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dehradun/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Delhi",
+      "url": "https://www.policybazaar.com/silver-rate/delhi/",
+      "fetched_at": "2026-07-14T16:39:56.434363+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/delhi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Deoghar",
+      "url": "https://www.policybazaar.com/silver-rate/deoghar/",
+      "fetched_at": "2026-07-14T16:39:56.438796+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/deoghar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dewas",
+      "url": "https://www.policybazaar.com/silver-rate/dewas/",
+      "fetched_at": "2026-07-14T16:39:56.442326+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dewas/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dhanbad",
+      "url": "https://www.policybazaar.com/silver-rate/dhanbad/",
+      "fetched_at": "2026-07-14T16:39:56.444436+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dhanbad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dharmavaram",
+      "url": "https://www.policybazaar.com/silver-rate/dharmavaram/",
+      "fetched_at": "2026-07-14T16:39:56.450704+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dharmavaram/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dhule",
+      "url": "https://www.policybazaar.com/silver-rate/dhule/",
+      "fetched_at": "2026-07-14T16:39:56.455164+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dhule/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dibrugarh",
+      "url": "https://www.policybazaar.com/silver-rate/dibrugarh/",
+      "fetched_at": "2026-07-14T16:39:56.457864+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dibrugarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Dindigul",
+      "url": "https://www.policybazaar.com/silver-rate/dindigul/",
+      "fetched_at": "2026-07-14T16:39:56.459709+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/dindigul/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Durgapur",
+      "url": "https://www.policybazaar.com/silver-rate/durgapur/",
+      "fetched_at": "2026-07-14T16:39:56.463214+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/durgapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Eluru",
+      "url": "https://www.policybazaar.com/silver-rate/eluru/",
+      "fetched_at": "2026-07-14T16:39:56.466487+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/eluru/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Erode",
+      "url": "https://www.policybazaar.com/silver-rate/erode/",
+      "fetched_at": "2026-07-14T16:39:56.468680+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/erode/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Faridabad",
+      "url": "https://www.policybazaar.com/silver-rate/faridabad/",
+      "fetched_at": "2026-07-14T16:39:56.470980+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/faridabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Firozabad",
+      "url": "https://www.policybazaar.com/silver-rate/firozabad/",
+      "fetched_at": "2026-07-14T16:39:56.480334+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/firozabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gandhidham",
+      "url": "https://www.policybazaar.com/silver-rate/gandhidham/",
+      "fetched_at": "2026-07-14T16:39:56.482416+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gandhidham/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gandhinagar",
+      "url": "https://www.policybazaar.com/silver-rate/gandhinagar/",
+      "fetched_at": "2026-07-14T16:39:56.488275+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gandhinagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gaya",
+      "url": "https://www.policybazaar.com/silver-rate/gaya/",
+      "fetched_at": "2026-07-14T16:39:56.492238+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gaya/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Giridih",
+      "url": "https://www.policybazaar.com/silver-rate/giridih/",
+      "fetched_at": "2026-07-14T16:39:56.494001+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/giridih/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Godhra",
+      "url": "https://www.policybazaar.com/silver-rate/godhra/",
+      "fetched_at": "2026-07-14T16:39:56.497869+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/godhra/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gorakhpur",
+      "url": "https://www.policybazaar.com/silver-rate/gorakhpur/",
+      "fetched_at": "2026-07-14T16:39:56.501487+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gorakhpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gudivada",
+      "url": "https://www.policybazaar.com/silver-rate/gudivada/",
+      "fetched_at": "2026-07-14T16:39:56.504165+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gudivada/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Guna",
+      "url": "https://www.policybazaar.com/silver-rate/guna/",
+      "fetched_at": "2026-07-14T16:39:56.504951+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/guna/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Guntakal",
+      "url": "https://www.policybazaar.com/silver-rate/guntakal/",
+      "fetched_at": "2026-07-14T16:39:56.508768+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/guntakal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Guntur",
+      "url": "https://www.policybazaar.com/silver-rate/guntur/",
+      "fetched_at": "2026-07-14T16:39:56.512431+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/guntur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gurgaon",
+      "url": "https://www.policybazaar.com/silver-rate/gurgaon/",
+      "fetched_at": "2026-07-14T16:39:56.514368+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gurgaon/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Guwahati",
+      "url": "https://www.policybazaar.com/silver-rate/guwahati/",
+      "fetched_at": "2026-07-14T16:39:56.521758+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/guwahati/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Gwalior",
+      "url": "https://www.policybazaar.com/silver-rate/gwalior/",
+      "fetched_at": "2026-07-14T16:39:56.525034+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/gwalior/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hanumangarh",
+      "url": "https://www.policybazaar.com/silver-rate/hanumangarh/",
+      "fetched_at": "2026-07-14T16:39:56.528838+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hanumangarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hassan",
+      "url": "https://www.policybazaar.com/silver-rate/hassan/",
+      "fetched_at": "2026-07-14T16:39:56.532348+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hassan/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hindupur",
+      "url": "https://www.policybazaar.com/silver-rate/hindupur/",
+      "fetched_at": "2026-07-14T16:39:56.533806+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hindupur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hinganghat",
+      "url": "https://www.policybazaar.com/silver-rate/hinganghat/",
+      "fetched_at": "2026-07-14T16:39:56.542221+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hinganghat/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hisar",
+      "url": "https://www.policybazaar.com/silver-rate/hisar/",
+      "fetched_at": "2026-07-14T16:39:56.544735+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hisar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hoshiarpur",
+      "url": "https://www.policybazaar.com/silver-rate/hoshiarpur/",
+      "fetched_at": "2026-07-14T16:39:56.545631+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hoshiarpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hospet",
+      "url": "https://www.policybazaar.com/silver-rate/hospet/",
+      "fetched_at": "2026-07-14T16:39:56.548578+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hospet/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Hosur",
+      "url": "https://www.policybazaar.com/silver-rate/hosur/",
+      "fetched_at": "2026-07-14T16:39:56.550459+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/hosur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ichalkaranji",
+      "url": "https://www.policybazaar.com/silver-rate/ichalkaranji/",
+      "fetched_at": "2026-07-14T16:39:56.552114+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ichalkaranji/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Imphal",
+      "url": "https://www.policybazaar.com/silver-rate/imphal/",
+      "fetched_at": "2026-07-14T16:39:56.559352+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/imphal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Indore",
+      "url": "https://www.policybazaar.com/silver-rate/indore/",
+      "fetched_at": "2026-07-14T16:39:56.564182+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/indore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jabalpur",
+      "url": "https://www.policybazaar.com/silver-rate/jabalpur/",
+      "fetched_at": "2026-07-14T16:39:56.568977+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jabalpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jagdalpur",
+      "url": "https://www.policybazaar.com/silver-rate/jagdalpur/",
+      "fetched_at": "2026-07-14T16:39:56.574454+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jagdalpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jaipur",
+      "url": "https://www.policybazaar.com/silver-rate/jaipur/",
+      "fetched_at": "2026-07-14T16:39:56.575766+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jaipur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jalandhar",
+      "url": "https://www.policybazaar.com/silver-rate/jalandhar/",
+      "fetched_at": "2026-07-14T16:39:56.581925+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jalandhar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jalgaon",
+      "url": "https://www.policybazaar.com/silver-rate/jalgaon/",
+      "fetched_at": "2026-07-14T16:39:56.589988+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jalgaon/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jalna",
+      "url": "https://www.policybazaar.com/silver-rate/jalna/",
+      "fetched_at": "2026-07-14T16:39:56.591574+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jalna/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jalpaiguri",
+      "url": "https://www.policybazaar.com/silver-rate/jalpaiguri/",
+      "fetched_at": "2026-07-14T16:39:56.593433+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jalpaiguri/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jammu",
+      "url": "https://www.policybazaar.com/silver-rate/jammu/",
+      "fetched_at": "2026-07-14T16:39:56.595340+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jammu/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jamnagar",
+      "url": "https://www.policybazaar.com/silver-rate/jamnagar/",
+      "fetched_at": "2026-07-14T16:39:56.596705+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jamnagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jamshedpur",
+      "url": "https://www.policybazaar.com/silver-rate/jamshedpur/",
+      "fetched_at": "2026-07-14T16:39:56.605151+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jamshedpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jhansi",
+      "url": "https://www.policybazaar.com/silver-rate/jhansi/",
+      "fetched_at": "2026-07-14T16:39:56.608738+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jhansi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jind",
+      "url": "https://www.policybazaar.com/silver-rate/jind/",
+      "fetched_at": "2026-07-14T16:39:56.611295+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jind/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jodhpur",
+      "url": "https://www.policybazaar.com/silver-rate/jodhpur/",
+      "fetched_at": "2026-07-14T16:39:56.614969+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jodhpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Junagadh",
+      "url": "https://www.policybazaar.com/silver-rate/junagadh/",
+      "fetched_at": "2026-07-14T16:39:56.621218+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/junagadh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kadapa",
+      "url": "https://www.policybazaar.com/silver-rate/kadapa/",
+      "fetched_at": "2026-07-14T16:39:56.628149+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kadapa/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kaithal",
+      "url": "https://www.policybazaar.com/silver-rate/kaithal/",
+      "fetched_at": "2026-07-14T16:39:56.630084+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kaithal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kakinada",
+      "url": "https://www.policybazaar.com/silver-rate/kakinada/",
+      "fetched_at": "2026-07-14T16:39:56.632095+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kakinada/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kanpur",
+      "url": "https://www.policybazaar.com/silver-rate/kanpur/",
+      "fetched_at": "2026-07-14T16:39:56.632989+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kanpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Karimnagar",
+      "url": "https://www.policybazaar.com/silver-rate/karimnagar/",
+      "fetched_at": "2026-07-14T16:39:56.635454+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/karimnagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Karnal",
+      "url": "https://www.policybazaar.com/silver-rate/karnal/",
+      "fetched_at": "2026-07-14T16:39:56.644129+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/karnal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Khammam",
+      "url": "https://www.policybazaar.com/silver-rate/khammam/",
+      "fetched_at": "2026-07-14T16:39:56.645887+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/khammam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Khandwa",
+      "url": "https://www.policybazaar.com/silver-rate/khandwa/",
+      "fetched_at": "2026-07-14T16:39:56.647995+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/khandwa/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Khanna",
+      "url": "https://www.policybazaar.com/silver-rate/khanna/",
+      "fetched_at": "2026-07-14T16:39:56.650066+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/khanna/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kharagpur",
+      "url": "https://www.policybazaar.com/silver-rate/kharagpur/",
+      "fetched_at": "2026-07-14T16:39:56.652427+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kharagpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Khargone",
+      "url": "https://www.policybazaar.com/silver-rate/khargone/",
+      "fetched_at": "2026-07-14T16:39:56.654586+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/khargone/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kochi",
+      "url": "https://www.policybazaar.com/silver-rate/kochi/",
+      "fetched_at": "2026-07-14T16:39:56.658593+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kochi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kolar",
+      "url": "https://www.policybazaar.com/silver-rate/kolar/",
+      "fetched_at": "2026-07-14T16:39:56.664952+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kolar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kolhapur",
+      "url": "https://www.policybazaar.com/silver-rate/kolhapur/",
+      "fetched_at": "2026-07-14T16:39:56.671230+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kolhapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kolkata",
+      "url": "https://www.policybazaar.com/silver-rate/kolkata/",
+      "fetched_at": "2026-07-14T16:39:56.673096+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kolkata/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kollam",
+      "url": "https://www.policybazaar.com/silver-rate/kollam/",
+      "fetched_at": "2026-07-14T16:39:56.675178+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kollam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Korba",
+      "url": "https://www.policybazaar.com/silver-rate/korba/",
+      "fetched_at": "2026-07-14T16:39:56.677503+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/korba/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kota",
+      "url": "https://www.policybazaar.com/silver-rate/kota/",
+      "fetched_at": "2026-07-14T16:39:56.680344+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kota/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kozhikode",
+      "url": "https://www.policybazaar.com/silver-rate/kozhikode/",
+      "fetched_at": "2026-07-14T16:39:56.686362+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kozhikode/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kumbakonam",
+      "url": "https://www.policybazaar.com/silver-rate/kumbakonam/",
+      "fetched_at": "2026-07-14T16:39:56.689770+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kumbakonam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Kurnool",
+      "url": "https://www.policybazaar.com/silver-rate/kurnool/",
+      "fetched_at": "2026-07-14T16:39:56.690534+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/kurnool/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Latur",
+      "url": "https://www.policybazaar.com/silver-rate/latur/",
+      "fetched_at": "2026-07-14T16:39:56.693670+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/latur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Lucknow",
+      "url": "https://www.policybazaar.com/silver-rate/lucknow/",
+      "fetched_at": "2026-07-14T16:39:56.700957+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/lucknow/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ludhiana",
+      "url": "https://www.policybazaar.com/silver-rate/ludhiana/",
+      "fetched_at": "2026-07-14T16:39:56.703520+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ludhiana/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Machilipatnam",
+      "url": "https://www.policybazaar.com/silver-rate/machilipatnam/",
+      "fetched_at": "2026-07-14T16:39:56.705885+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/machilipatnam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Madanapalle",
+      "url": "https://www.policybazaar.com/silver-rate/madanapalle/",
+      "fetched_at": "2026-07-14T16:39:56.708755+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/madanapalle/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Madurai",
+      "url": "https://www.policybazaar.com/silver-rate/madurai/",
+      "fetched_at": "2026-07-14T16:39:56.711209+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/madurai/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Maheshtala",
+      "url": "https://www.policybazaar.com/silver-rate/maheshtala/",
+      "fetched_at": "2026-07-14T16:39:56.719749+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/maheshtala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Malegaon",
+      "url": "https://www.policybazaar.com/silver-rate/malegaon/",
+      "fetched_at": "2026-07-14T16:39:56.722747+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/malegaon/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Malerkotla",
+      "url": "https://www.policybazaar.com/silver-rate/malerkotla/",
+      "fetched_at": "2026-07-14T16:39:56.724364+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/malerkotla/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mandsaur",
+      "url": "https://www.policybazaar.com/silver-rate/mandsaur/",
+      "fetched_at": "2026-07-14T16:39:56.727714+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mandsaur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mandya",
+      "url": "https://www.policybazaar.com/silver-rate/mandya/",
+      "fetched_at": "2026-07-14T16:39:56.729256+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mandya/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mangalore",
+      "url": "https://www.policybazaar.com/silver-rate/mangalore/",
+      "fetched_at": "2026-07-14T16:39:56.732476+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mangalore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mathura",
+      "url": "https://www.policybazaar.com/silver-rate/mathura/",
+      "fetched_at": "2026-07-14T16:39:56.734097+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mathura/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Meerut",
+      "url": "https://www.policybazaar.com/silver-rate/meerut/",
+      "fetched_at": "2026-07-14T16:39:56.739840+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/meerut/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Miryalaguda",
+      "url": "https://www.policybazaar.com/silver-rate/miryalaguda/",
+      "fetched_at": "2026-07-14T16:39:56.744911+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/miryalaguda/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Moga",
+      "url": "https://www.policybazaar.com/silver-rate/moga/",
+      "fetched_at": "2026-07-14T16:39:56.746814+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/moga/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Moradabad",
+      "url": "https://www.policybazaar.com/silver-rate/moradabad/",
+      "fetched_at": "2026-07-14T16:39:56.753738+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/moradabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Morena",
+      "url": "https://www.policybazaar.com/silver-rate/morena/",
+      "fetched_at": "2026-07-14T16:39:56.760140+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/morena/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Murwara",
+      "url": "https://www.policybazaar.com/silver-rate/murwara/",
+      "fetched_at": "2026-07-14T16:39:56.762201+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/murwara/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Muzaffarnagar",
+      "url": "https://www.policybazaar.com/silver-rate/muzaffarnagar/",
+      "fetched_at": "2026-07-14T16:39:56.763491+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/muzaffarnagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Muzaffarpur",
+      "url": "https://www.policybazaar.com/silver-rate/muzaffarpur/",
+      "fetched_at": "2026-07-14T16:39:56.765131+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/muzaffarpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mysore",
+      "url": "https://www.policybazaar.com/silver-rate/mysore/",
+      "fetched_at": "2026-07-14T16:39:56.767519+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mysore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nadiad",
+      "url": "https://www.policybazaar.com/silver-rate/nadiad/",
+      "fetched_at": "2026-07-14T16:39:56.777973+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nadiad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nagapattinam",
+      "url": "https://www.policybazaar.com/silver-rate/nagapattinam/",
+      "fetched_at": "2026-07-14T16:39:56.780101+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nagapattinam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nagercoil",
+      "url": "https://www.policybazaar.com/silver-rate/nagercoil/",
+      "fetched_at": "2026-07-14T16:39:56.783917+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nagercoil/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nagpur",
+      "url": "https://www.policybazaar.com/silver-rate/nagpur/",
+      "fetched_at": "2026-07-14T16:39:56.786483+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nagpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nalgonda",
+      "url": "https://www.policybazaar.com/silver-rate/nalgonda/",
+      "fetched_at": "2026-07-14T16:39:56.789306+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nalgonda/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nandurbar",
+      "url": "https://www.policybazaar.com/silver-rate/nandurbar/",
+      "fetched_at": "2026-07-14T16:39:56.799778+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nandurbar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nandyal",
+      "url": "https://www.policybazaar.com/silver-rate/nandyal/",
+      "fetched_at": "2026-07-14T16:39:56.800327+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nandyal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nashik",
+      "url": "https://www.policybazaar.com/silver-rate/nashik/",
+      "fetched_at": "2026-07-14T16:39:56.800898+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nashik/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Navsari",
+      "url": "https://www.policybazaar.com/silver-rate/navsari/",
+      "fetched_at": "2026-07-14T16:39:56.801365+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/navsari/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Neemuch",
+      "url": "https://www.policybazaar.com/silver-rate/neemuch/",
+      "fetched_at": "2026-07-14T16:39:56.805808+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/neemuch/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nellore",
+      "url": "https://www.policybazaar.com/silver-rate/nellore/",
+      "fetched_at": "2026-07-14T16:39:56.813646+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nellore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Neyveli",
+      "url": "https://www.policybazaar.com/silver-rate/neyveli/",
+      "fetched_at": "2026-07-14T16:39:56.815229+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/neyveli/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nizamabad",
+      "url": "https://www.policybazaar.com/silver-rate/nizamabad/",
+      "fetched_at": "2026-07-14T16:39:56.818848+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nizamabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Noida",
+      "url": "https://www.policybazaar.com/silver-rate/noida/",
+      "fetched_at": "2026-07-14T16:39:56.821289+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/noida/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ongole",
+      "url": "https://www.policybazaar.com/silver-rate/ongole/",
+      "fetched_at": "2026-07-14T16:39:56.822136+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ongole/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Osmanabad",
+      "url": "https://www.policybazaar.com/silver-rate/osmanabad/",
+      "fetched_at": "2026-07-14T16:39:56.836036+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/osmanabad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Palanpur",
+      "url": "https://www.policybazaar.com/silver-rate/palanpur/",
+      "fetched_at": "2026-07-14T16:39:56.839331+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/palanpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Palwal",
+      "url": "https://www.policybazaar.com/silver-rate/palwal/",
+      "fetched_at": "2026-07-14T16:39:56.845615+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/palwal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Panchkula",
+      "url": "https://www.policybazaar.com/silver-rate/panchkula/",
+      "fetched_at": "2026-07-14T16:39:56.847677+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/panchkula/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Panipat",
+      "url": "https://www.policybazaar.com/silver-rate/panipat/",
+      "fetched_at": "2026-07-14T16:39:56.849776+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/panipat/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Panvel",
+      "url": "https://www.policybazaar.com/silver-rate/panvel/",
+      "fetched_at": "2026-07-14T16:39:56.852246+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/panvel/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Parbhani",
+      "url": "https://www.policybazaar.com/silver-rate/parbhani/",
+      "fetched_at": "2026-07-14T16:39:56.853799+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/parbhani/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Patan",
+      "url": "https://www.policybazaar.com/silver-rate/patan/",
+      "fetched_at": "2026-07-14T16:39:56.863714+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/patan/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Pathankot",
+      "url": "https://www.policybazaar.com/silver-rate/pathankot/",
+      "fetched_at": "2026-07-14T16:39:56.865776+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/pathankot/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Patiala",
+      "url": "https://www.policybazaar.com/silver-rate/patiala/",
+      "fetched_at": "2026-07-14T16:39:56.868036+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/patiala/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Patna",
+      "url": "https://www.policybazaar.com/silver-rate/patna/",
+      "fetched_at": "2026-07-14T16:39:56.869772+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/patna/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Porbandar",
+      "url": "https://www.policybazaar.com/silver-rate/porbandar/",
+      "fetched_at": "2026-07-14T16:39:56.872663+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/porbandar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Proddatur",
+      "url": "https://www.policybazaar.com/silver-rate/proddatur/",
+      "fetched_at": "2026-07-14T16:39:56.876406+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/proddatur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Pudukkottai",
+      "url": "https://www.policybazaar.com/silver-rate/pudukkottai/",
+      "fetched_at": "2026-07-14T16:39:56.880106+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/pudukkottai/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Pune",
+      "url": "https://www.policybazaar.com/silver-rate/pune/",
+      "fetched_at": "2026-07-14T16:39:56.883525+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/pune/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Puri",
+      "url": "https://www.policybazaar.com/silver-rate/puri/",
+      "fetched_at": "2026-07-14T16:39:56.885623+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/puri/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Purnia",
+      "url": "https://www.policybazaar.com/silver-rate/purnia/",
+      "fetched_at": "2026-07-14T16:39:56.890038+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/purnia/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Raichur",
+      "url": "https://www.policybazaar.com/silver-rate/raichur/",
+      "fetched_at": "2026-07-14T16:39:56.893643+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/raichur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Raiganj",
+      "url": "https://www.policybazaar.com/silver-rate/raiganj/",
+      "fetched_at": "2026-07-14T16:39:56.899457+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/raiganj/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Raigarh",
+      "url": "https://www.policybazaar.com/silver-rate/raigarh/",
+      "fetched_at": "2026-07-14T16:39:56.903281+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/raigarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Raipur",
+      "url": "https://www.policybazaar.com/silver-rate/raipur/",
+      "fetched_at": "2026-07-14T16:39:56.908093+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/raipur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rajahmundry",
+      "url": "https://www.policybazaar.com/silver-rate/rajahmundry/",
+      "fetched_at": "2026-07-14T16:39:56.910025+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rajahmundry/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rajapalayam",
+      "url": "https://www.policybazaar.com/silver-rate/rajapalayam/",
+      "fetched_at": "2026-07-14T16:39:56.911177+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rajapalayam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rajkot",
+      "url": "https://www.policybazaar.com/silver-rate/rajkot/",
+      "fetched_at": "2026-07-14T16:39:56.913457+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rajkot/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rajnandgaon",
+      "url": "https://www.policybazaar.com/silver-rate/rajnandgaon/",
+      "fetched_at": "2026-07-14T16:39:56.916650+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rajnandgaon/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ramagundam",
+      "url": "https://www.policybazaar.com/silver-rate/ramagundam/",
+      "fetched_at": "2026-07-14T16:39:56.925789+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ramagundam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rampur",
+      "url": "https://www.policybazaar.com/silver-rate/rampur/",
+      "fetched_at": "2026-07-14T16:39:56.926893+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rampur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ranchi",
+      "url": "https://www.policybazaar.com/silver-rate/ranchi/",
+      "fetched_at": "2026-07-14T16:39:56.928209+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ranchi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ratlam",
+      "url": "https://www.policybazaar.com/silver-rate/ratlam/",
+      "fetched_at": "2026-07-14T16:39:56.932333+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ratlam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rewa",
+      "url": "https://www.policybazaar.com/silver-rate/rewa/",
+      "fetched_at": "2026-07-14T16:39:56.939887+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rewa/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rewari",
+      "url": "https://www.policybazaar.com/silver-rate/rewari/",
+      "fetched_at": "2026-07-14T16:39:56.941932+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rewari/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rohtak",
+      "url": "https://www.policybazaar.com/silver-rate/rohtak/",
+      "fetched_at": "2026-07-14T16:39:56.945514+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rohtak/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Roorkee",
+      "url": "https://www.policybazaar.com/silver-rate/roorkee/",
+      "fetched_at": "2026-07-14T16:39:56.950238+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/roorkee/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sagar",
+      "url": "https://www.policybazaar.com/silver-rate/sagar/",
+      "fetched_at": "2026-07-14T16:39:56.953526+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Saharanpur",
+      "url": "https://www.policybazaar.com/silver-rate/saharanpur/",
+      "fetched_at": "2026-07-14T16:39:56.954272+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/saharanpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Salem",
+      "url": "https://www.policybazaar.com/silver-rate/salem/",
+      "fetched_at": "2026-07-14T16:39:56.967907+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/salem/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sambalpur",
+      "url": "https://www.policybazaar.com/silver-rate/sambalpur/",
+      "fetched_at": "2026-07-14T16:39:56.970887+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sambalpur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Satara",
+      "url": "https://www.policybazaar.com/silver-rate/satara/",
+      "fetched_at": "2026-07-14T16:39:56.972262+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/satara/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Satna",
+      "url": "https://www.policybazaar.com/silver-rate/satna/",
+      "fetched_at": "2026-07-14T16:39:56.974317+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/satna/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Seoni",
+      "url": "https://www.policybazaar.com/silver-rate/seoni/",
+      "fetched_at": "2026-07-14T16:39:56.978481+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/seoni/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Shillong",
+      "url": "https://www.policybazaar.com/silver-rate/shillong/",
+      "fetched_at": "2026-07-14T16:39:56.982272+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/shillong/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Shimla",
+      "url": "https://www.policybazaar.com/silver-rate/shimla/",
+      "fetched_at": "2026-07-14T16:39:56.984648+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/shimla/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Shimoga",
+      "url": "https://www.policybazaar.com/silver-rate/shimoga/",
+      "fetched_at": "2026-07-14T16:39:56.986919+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/shimoga/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sikar",
+      "url": "https://www.policybazaar.com/silver-rate/sikar/",
+      "fetched_at": "2026-07-14T16:39:56.990866+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sikar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Silchar",
+      "url": "https://www.policybazaar.com/silver-rate/silchar/",
+      "fetched_at": "2026-07-14T16:39:56.992997+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/silchar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Siliguri",
+      "url": "https://www.policybazaar.com/silver-rate/siliguri/",
+      "fetched_at": "2026-07-14T16:39:57.001058+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/siliguri/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Singrauli",
+      "url": "https://www.policybazaar.com/silver-rate/singrauli/",
+      "fetched_at": "2026-07-14T16:39:57.003845+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/singrauli/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sirsa",
+      "url": "https://www.policybazaar.com/silver-rate/sirsa/",
+      "fetched_at": "2026-07-14T16:39:57.005211+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sirsa/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Solapur",
+      "url": "https://www.policybazaar.com/silver-rate/solapur/",
+      "fetched_at": "2026-07-14T16:39:57.013494+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/solapur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Srikakulam",
+      "url": "https://www.policybazaar.com/silver-rate/srikakulam/",
+      "fetched_at": "2026-07-14T16:39:57.017237+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/srikakulam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Srinagar",
+      "url": "https://www.policybazaar.com/silver-rate/srinagar/",
+      "fetched_at": "2026-07-14T16:39:57.019415+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/srinagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Surat",
+      "url": "https://www.policybazaar.com/silver-rate/surat/",
+      "fetched_at": "2026-07-14T16:39:57.021912+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/surat/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Suryapet",
+      "url": "https://www.policybazaar.com/silver-rate/suryapet/",
+      "fetched_at": "2026-07-14T16:39:57.023612+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/suryapet/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tadepalligudem",
+      "url": "https://www.policybazaar.com/silver-rate/tadepalligudem/",
+      "fetched_at": "2026-07-14T16:39:57.031106+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tadepalligudem/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tenali",
+      "url": "https://www.policybazaar.com/silver-rate/tenali/",
+      "fetched_at": "2026-07-14T16:39:57.035384+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tenali/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Thane",
+      "url": "https://www.policybazaar.com/silver-rate/thane/",
+      "fetched_at": "2026-07-14T16:39:57.041364+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/thane/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Thanjavur",
+      "url": "https://www.policybazaar.com/silver-rate/thanjavur/",
+      "fetched_at": "2026-07-14T16:39:57.044008+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/thanjavur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Thrissur",
+      "url": "https://www.policybazaar.com/silver-rate/thrissur/",
+      "fetched_at": "2026-07-14T16:39:57.048989+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/thrissur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tirunelveli",
+      "url": "https://www.policybazaar.com/silver-rate/tirunelveli/",
+      "fetched_at": "2026-07-14T16:39:57.052340+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tirunelveli/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tirupati",
+      "url": "https://www.policybazaar.com/silver-rate/tirupati/",
+      "fetched_at": "2026-07-14T16:39:57.054216+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tirupati/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tiruppur",
+      "url": "https://www.policybazaar.com/silver-rate/tiruppur/",
+      "fetched_at": "2026-07-14T16:39:57.057296+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tiruppur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tiruvannamalai",
+      "url": "https://www.policybazaar.com/silver-rate/tiruvannamalai/",
+      "fetched_at": "2026-07-14T16:39:57.059258+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tiruvannamalai/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Udaipur",
+      "url": "https://www.policybazaar.com/silver-rate/udaipur/",
+      "fetched_at": "2026-07-14T16:39:57.070624+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/udaipur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Udgir",
+      "url": "https://www.policybazaar.com/silver-rate/udgir/",
+      "fetched_at": "2026-07-14T16:39:57.072468+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/udgir/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Udupi",
+      "url": "https://www.policybazaar.com/silver-rate/udupi/",
+      "fetched_at": "2026-07-14T16:39:57.074562+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/udupi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ujjain",
+      "url": "https://www.policybazaar.com/silver-rate/ujjain/",
+      "fetched_at": "2026-07-14T16:39:57.076705+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ujjain/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Ulhasnagar",
+      "url": "https://www.policybazaar.com/silver-rate/ulhasnagar/",
+      "fetched_at": "2026-07-14T16:39:57.078400+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/ulhasnagar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vadodara",
+      "url": "https://www.policybazaar.com/silver-rate/vadodara/",
+      "fetched_at": "2026-07-14T16:39:57.079954+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vadodara/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Valsad",
+      "url": "https://www.policybazaar.com/silver-rate/valsad/",
+      "fetched_at": "2026-07-14T16:39:57.087586+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/valsad/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Varanasi",
+      "url": "https://www.policybazaar.com/silver-rate/varanasi/",
+      "fetched_at": "2026-07-14T16:39:57.089619+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/varanasi/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vellore",
+      "url": "https://www.policybazaar.com/silver-rate/vellore/",
+      "fetched_at": "2026-07-14T16:39:57.098146+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vellore/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vidisha",
+      "url": "https://www.policybazaar.com/silver-rate/vidisha/",
+      "fetched_at": "2026-07-14T16:39:57.104885+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vidisha/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vijayawada",
+      "url": "https://www.policybazaar.com/silver-rate/vijayawada/",
+      "fetched_at": "2026-07-14T16:39:57.106582+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vijayawada/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Visakhapatnam",
+      "url": "https://www.policybazaar.com/silver-rate/visakhapatnam/",
+      "fetched_at": "2026-07-14T16:39:57.108253+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/visakhapatnam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Vizianagaram",
+      "url": "https://www.policybazaar.com/silver-rate/vizianagaram/",
+      "fetched_at": "2026-07-14T16:39:57.110199+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/vizianagaram/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Warangal",
+      "url": "https://www.policybazaar.com/silver-rate/warangal/",
+      "fetched_at": "2026-07-14T16:39:57.111816+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/warangal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Wardha",
+      "url": "https://www.policybazaar.com/silver-rate/wardha/",
+      "fetched_at": "2026-07-14T16:39:57.113038+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/wardha/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Yavatmal",
+      "url": "https://www.policybazaar.com/silver-rate/yavatmal/",
+      "fetched_at": "2026-07-14T16:39:57.115250+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/yavatmal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Haryana",
+      "url": "https://www.policybazaar.com/silver-rate/haryana/",
+      "fetched_at": "2026-07-14T16:39:57.121375+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/haryana/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Andhra Pradesh",
+      "url": "https://www.policybazaar.com/silver-rate/andhra-pradesh/",
+      "fetched_at": "2026-07-14T16:39:57.125998+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/andhra-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Odisha",
+      "url": "https://www.policybazaar.com/silver-rate/odisha/",
+      "fetched_at": "2026-07-14T16:39:57.127349+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/odisha/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Maharashtra",
+      "url": "https://www.policybazaar.com/silver-rate/maharashtra/",
+      "fetched_at": "2026-07-14T16:39:57.138795+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/maharashtra/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Rajasthan",
+      "url": "https://www.policybazaar.com/silver-rate/rajasthan/",
+      "fetched_at": "2026-07-14T16:39:57.144188+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/rajasthan/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Bihar",
+      "url": "https://www.policybazaar.com/silver-rate/bihar/",
+      "fetched_at": "2026-07-14T16:39:57.146565+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/bihar/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Himachal Pradesh",
+      "url": "https://www.policybazaar.com/silver-rate/himachal-pradesh/",
+      "fetched_at": "2026-07-14T16:39:57.148336+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/himachal-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Telangana",
+      "url": "https://www.policybazaar.com/silver-rate/telangana/",
+      "fetched_at": "2026-07-14T16:39:57.150103+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/telangana/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "West Bengal",
+      "url": "https://www.policybazaar.com/silver-rate/west-bengal/",
+      "fetched_at": "2026-07-14T16:39:57.151910+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/west-bengal/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Jharkhand",
+      "url": "https://www.policybazaar.com/silver-rate/jharkhand/",
+      "fetched_at": "2026-07-14T16:39:57.154123+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/jharkhand/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Assam",
+      "url": "https://www.policybazaar.com/silver-rate/assam/",
+      "fetched_at": "2026-07-14T16:39:57.157039+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/assam/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Uttar Pradesh",
+      "url": "https://www.policybazaar.com/silver-rate/uttar-pradesh/",
+      "fetched_at": "2026-07-14T16:39:57.161416+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/uttar-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Uttarakhand",
+      "url": "https://www.policybazaar.com/silver-rate/uttarakhand/",
+      "fetched_at": "2026-07-14T16:39:57.171582+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/uttarakhand/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tamil Nadu",
+      "url": "https://www.policybazaar.com/silver-rate/tamil-nadu/",
+      "fetched_at": "2026-07-14T16:39:57.176141+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tamil-nadu/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Chhattisgarh",
+      "url": "https://www.policybazaar.com/silver-rate/chhattisgarh/",
+      "fetched_at": "2026-07-14T16:39:57.177826+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/chhattisgarh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Tripura",
+      "url": "https://www.policybazaar.com/silver-rate/tripura/",
+      "fetched_at": "2026-07-14T16:39:57.179941+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/tripura/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Madhya Pradesh",
+      "url": "https://www.policybazaar.com/silver-rate/madhya-pradesh/",
+      "fetched_at": "2026-07-14T16:39:57.181694+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/madhya-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Sikkim",
+      "url": "https://www.policybazaar.com/silver-rate/sikkim/",
+      "fetched_at": "2026-07-14T16:39:57.185701+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/sikkim/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Manipur",
+      "url": "https://www.policybazaar.com/silver-rate/manipur/",
+      "fetched_at": "2026-07-14T16:39:57.193062+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/manipur/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Arunachal Pradesh",
+      "url": "https://www.policybazaar.com/silver-rate/arunachal-pradesh/",
+      "fetched_at": "2026-07-14T16:39:57.196041+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/arunachal-pradesh/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Nagaland",
+      "url": "https://www.policybazaar.com/silver-rate/nagaland/",
+      "fetched_at": "2026-07-14T16:39:57.197483+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/nagaland/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Meghalaya",
+      "url": "https://www.policybazaar.com/silver-rate/meghalaya/",
+      "fetched_at": "2026-07-14T16:39:57.199359+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/meghalaya/",
+      "data": null
+    },
+    {
+      "metal": "Silver",
+      "city": "Mizoram",
+      "url": "https://www.policybazaar.com/silver-rate/mizoram/",
+      "fetched_at": "2026-07-14T16:39:57.205262+05:30",
+      "error": "403 Client Error: Forbidden for url: https://www.policybazaar.com/silver-rate/mizoram/",
+      "data": null
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import time
+import random
 import logging
 from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor
@@ -32,6 +34,61 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/120.0.0.0 Safari/537.36"
 )
+
+# Fuller, more browser-like header set. A bare User-Agent alone is a common
+# giveaway for basic bot/WAF detection; real browsers always send these too.
+REQUEST_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.policybazaar.com/",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+}
+
+# Retry configuration for transient blocks (403/429) — these are frequently
+# rate-limit/WAF responses rather than a permanent per-URL failure, especially
+# when scraping from shared datacenter IPs like GitHub Actions runners.
+RETRYABLE_STATUS_CODES = {403, 429}
+MAX_RETRIES = 3
+BASE_BACKOFF_SECONDS = 5
+
+def fetch_with_retry(url, session):
+    """
+    Fetches a URL with retry+backoff for transient 403/429 responses.
+    Raises the underlying requests exception if all retries are exhausted.
+    """
+    last_exception = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            # Small random pre-request delay to avoid bursts of simultaneous
+            # requests from concurrent threads looking bot-like to the WAF.
+            time.sleep(random.uniform(0.5, 2.0))
+            response = session.get(url, headers=REQUEST_HEADERS, timeout=15)
+            if response.status_code in RETRYABLE_STATUS_CODES:
+                wait = BASE_BACKOFF_SECONDS * attempt + random.uniform(0, 3)
+                logging.warning(
+                    f"Got {response.status_code} for {url} "
+                    f"(attempt {attempt}/{MAX_RETRIES}); retrying in {wait:.1f}s"
+                )
+                last_exception = requests.exceptions.HTTPError(
+                    f"{response.status_code} Client Error: "
+                    f"{'Forbidden' if response.status_code == 403 else 'Too Many Requests'} "
+                    f"for url: {url}"
+                )
+                time.sleep(wait)
+                continue
+            response.raise_for_status()
+            return response
+        except requests.exceptions.RequestException as e:
+            last_exception = e
+            wait = BASE_BACKOFF_SECONDS * attempt
+            logging.warning(
+                f"Request error for {url} (attempt {attempt}/{MAX_RETRIES}): {str(e)}; "
+                f"retrying in {wait:.1f}s"
+            )
+            time.sleep(wait)
+    raise last_exception
 
 def clean_and_parse_rate(text):
     """
@@ -95,13 +152,11 @@ def parse_date_details(title_text, ist_now):
 
     return dayMonYear, monYear, currentYear
 
-def scrape_gold_page(url, ist_now):
+def scrape_gold_page(url, ist_now, session):
     """
     Scrapes a PolicyBazaar Gold Rate page.
     """
-    headers = {"User-Agent": USER_AGENT}
-    response = requests.get(url, headers=headers, timeout=15)
-    response.raise_for_status()
+    response = fetch_with_retry(url, session)
 
     soup = BeautifulSoup(response.content, "lxml")
 
@@ -170,13 +225,11 @@ def scrape_gold_page(url, ist_now):
 
     return attributes
 
-def scrape_silver_page(url, ist_now):
+def scrape_silver_page(url, ist_now, session):
     """
     Scrapes a PolicyBazaar Silver Rate page.
     """
-    headers = {"User-Agent": USER_AGENT}
-    response = requests.get(url, headers=headers, timeout=15)
-    response.raise_for_status()
+    response = fetch_with_retry(url, session)
 
     soup = BeautifulSoup(response.content, "lxml")
 
@@ -232,10 +285,11 @@ def scrape_item(metal, url):
     logging.info(f"Starting scrape for {metal} in {city_name} via {url}")
 
     try:
-        if metal.lower() == "gold":
-            attributes = scrape_gold_page(url, ist_now)
-        else:
-            attributes = scrape_silver_page(url, ist_now)
+        with requests.Session() as session:
+            if metal.lower() == "gold":
+                attributes = scrape_gold_page(url, ist_now, session)
+            else:
+                attributes = scrape_silver_page(url, ist_now, session)
 
         logging.info(f"Successfully scraped {metal} for {city_name}")
         return attributes, None, fetched_at
@@ -244,7 +298,49 @@ def scrape_item(metal, url):
         logging.error(f"Error scraping {metal} for {city_name}: {error_msg}")
         return None, error_msg, fetched_at
 
-def main():
+def merge_with_previous(new_rates, existing_path):
+    """
+    Merges this run's results with the previously saved snapshot (if any).
+    For any entry that failed this run, falls back to the last successful
+    data for that city/URL instead of overwriting it with null — so a
+    transient block (e.g. WAF/rate-limit on the scraping IP) doesn't wipe
+    out previously known-good rates. Entries carried over this way are
+    marked with "stale": true and keep their original "fetched_at".
+    """
+    previous_by_url = {}
+    if os.path.exists(existing_path):
+        try:
+            with open(existing_path, "r") as f:
+                previous_snapshot = json.load(f)
+            for entry in previous_snapshot.get("rates", []):
+                previous_by_url[entry.get("url")] = entry
+        except Exception as e:
+            logging.warning(f"Could not read previous snapshot {existing_path}: {str(e)}")
+
+    merged = []
+    for entry in new_rates:
+        if entry.get("error") is None:
+            entry["stale"] = False
+            merged.append(entry)
+            continue
+
+        previous_entry = previous_by_url.get(entry.get("url"))
+        if previous_entry and previous_entry.get("error") is None:
+            # Fall back to last known-good data, but note this run's error
+            # and mark it stale so consumers know it wasn't refreshed now.
+            fallback = dict(previous_entry)
+            fallback["stale"] = True
+            fallback["last_error"] = entry.get("error")
+            fallback["last_error_at"] = entry.get("fetched_at")
+            merged.append(fallback)
+        else:
+            # No prior good data to fall back to — keep the failed entry as-is.
+            entry["stale"] = True
+            merged.append(entry)
+
+    return merged
+
+def run_once():
     if not os.path.exists(EXCEL_PATH):
         logging.critical(f"Input Excel file not found at: {EXCEL_PATH}")
         return
@@ -264,9 +360,12 @@ def main():
     silver_rates = []
     generated_at = datetime.now(IST_TZ).isoformat()
 
-    # We use a ThreadPoolExecutor with 10 workers for concurrent scraping
-    # This prevents blocking of the scraping process while maintaining safety against excessive rate limiting.
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    # We use a ThreadPoolExecutor with a modest worker count for concurrent
+    # scraping. Kept deliberately low (rather than 10) plus per-request jitter
+    # in fetch_with_retry, since high concurrent bursts to the same host are
+    # a common trigger for WAF/rate-limit blocks (403s), especially when
+    # scraping from shared datacenter IPs like GitHub Actions runners.
+    with ThreadPoolExecutor(max_workers=4) as executor:
         # Submit Gold tasks
         gold_tasks = []
         if "URLs" in gold_df.columns:
@@ -331,14 +430,19 @@ def main():
                     "data": None
                 })
 
+    # Merge with previous snapshot so a failed run falls back to last
+    # known-good data per city instead of wiping it out with null/error.
+    gold_rates_merged = merge_with_previous(gold_rates, GOLD_JSON_PATH)
+    silver_rates_merged = merge_with_previous(silver_rates, SILVER_JSON_PATH)
+
     # Prepare current run snapshots (one per metal)
     gold_snapshot = {
         "generated_at": generated_at,
-        "rates": gold_rates
+        "rates": gold_rates_merged
     }
     silver_snapshot = {
         "generated_at": generated_at,
-        "rates": silver_rates
+        "rates": silver_rates_merged
     }
 
     # Write gold snapshot (overwritten)
@@ -369,8 +473,10 @@ def main():
                 "error": r["error"]
             })
 
+    generated_at_dt = datetime.fromisoformat(generated_at)
     history_entry = {
-        "generated_at": generated_at,
+        "generated_date": generated_at_dt.strftime("%Y-%m-%d"),
+        "generated_time": generated_at_dt.strftime("%H:%M:%S"),
         "total_urls": len(all_rates),
         "successful_urls": len(all_rates) - len(errors),
         "failed_urls": len(errors),
@@ -384,6 +490,41 @@ def main():
         logging.info(f"Appended entry to {HISTORY_JSONL_PATH}")
     except Exception as e:
         logging.error(f"Failed to append to history.jsonl: {str(e)}")
+
+def seconds_until_next_hour(ist_now):
+    """
+    Returns how many seconds remain until the next top-of-the-hour in IST.
+    """
+    next_hour = (ist_now.replace(minute=0, second=0, microsecond=0)
+                 + timedelta(hours=1))
+    return max((next_hour - ist_now).total_seconds(), 0)
+
+def main():
+    """
+    Runs the scrape immediately on startup, then repeats every hour on the
+    hour (IST), forever. This lets the container run continuously (e.g.
+    via `docker run -d` or a compose service with `restart: unless-stopped`)
+    instead of exiting after a single scrape.
+    """
+    RUN_HOURLY = os.environ.get("RUN_HOURLY", "true").lower() != "false"
+
+    while True:
+        try:
+            run_once()
+        except Exception as e:
+            logging.error(f"Unhandled error during run_once(): {str(e)}")
+
+        if not RUN_HOURLY:
+            # Single-run mode, e.g. for manual/cron-triggered invocations
+            break
+
+        ist_now = datetime.now(IST_TZ)
+        sleep_seconds = seconds_until_next_hour(ist_now)
+        logging.info(
+            f"Sleeping {int(sleep_seconds)}s until next scheduled run "
+            f"at {(ist_now + timedelta(seconds=sleep_seconds)).isoformat()}"
+        )
+        time.sleep(sleep_seconds)
 
 if __name__ == "__main__":
     main()

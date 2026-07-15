@@ -25,6 +25,7 @@ jobs:
           docker run --rm \
             --name scraper \
             --entrypoint python \
+            -e RUN_HOURLY=false \
             -v ${{ github.workspace }}/data:/app/data \
             -v ${{ github.workspace }}/urls_final.xlsx:/app/urls_final.xlsx \
             gold-scraper /app/scraper.py

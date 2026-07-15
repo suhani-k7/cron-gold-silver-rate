@@ -1,15 +1,10 @@
 FROM python:3.11-slim
 
-# Set environment variable for Timezone
+# Set environment variable for Timezone (harmless to keep even though
+# scraper.py computes IST via a fixed UTC+5:30 offset internally;
+# this keeps container-level tooling/logs consistent with IST too).
 ENV TZ=Asia/Kolkata
-
-# Install system dependencies: cron, procps, and tzdata (for timezone support)
-RUN apt-get update && apt-get install -y \
-    cron \
-    procps \
-    tzdata \
-    && ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone \
-    && rm -rf /var/lib/apt/lists/*
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 # Set working directory
 WORKDIR /app
@@ -20,15 +15,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application files
 COPY scraper.py /app/
-COPY entrypoint.sh /app/
-COPY scraper.cron /app/
 
-# Setup permissions for the entrypoint script
-RUN chmod +x /app/entrypoint.sh
-
-# Configure cron job
-RUN cp /app/scraper.cron /etc/cron.d/scraper-cron && \
-    chmod 0644 /etc/cron.d/scraper-cron && \
-    mkdir -p /app/data
-# Define the entrypoint script to run on start
-ENTRYPOINT ["/app/entrypoint.sh"]
+# scraper.py's own main() loop handles hourly scheduling (sleeps until the
+# next hour, forever) when RUN_HOURLY is unset/true — no cron needed.
+# For one-shot CI runs, override with -e RUN_HOURLY=false.
+CMD ["python", "scraper.py"]

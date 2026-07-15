@@ -29,6 +29,12 @@ GOLD_JSON_PATH = os.path.join(DATA_DIR, "gold_rates.json")
 SILVER_JSON_PATH = os.path.join(DATA_DIR, "silver_rates.json")
 HISTORY_JSONL_PATH = os.path.join(DATA_DIR, "history.jsonl")
 
+# Per-hour snapshot archives, pruned to a rolling retention window so the
+# repo/working tree doesn't grow unbounded. Configurable via env var.
+GOLD_HISTORY_DIR = os.path.join(DATA_DIR, "history", "gold")
+SILVER_HISTORY_DIR = os.path.join(DATA_DIR, "history", "silver")
+HISTORY_RETENTION_DAYS = int(os.environ.get("HISTORY_RETENTION_DAYS", "7"))
+
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -340,6 +346,58 @@ def merge_with_previous(new_rates, existing_path):
 
     return merged
 
+def write_hourly_snapshot(snapshot, history_dir, prefix, generated_at_dt):
+    """
+    Writes a timestamped copy of a snapshot into the rolling history
+    archive, then prunes any files in that archive older than
+    HISTORY_RETENTION_DAYS.
+    """
+    os.makedirs(history_dir, exist_ok=True)
+    filename = f"{prefix}_{generated_at_dt.strftime('%Y%m%d_%H%M%S')}.json"
+    filepath = os.path.join(history_dir, filename)
+    try:
+        with open(filepath, "w") as f:
+            json.dump(snapshot, f, indent=2)
+        logging.info(f"Saved hourly snapshot to {filepath}")
+    except Exception as e:
+        logging.error(f"Failed to write hourly snapshot {filepath}: {str(e)}")
+        return
+
+    prune_old_history(history_dir, prefix)
+
+def prune_old_history(history_dir, prefix):
+    """
+    Deletes files in history_dir matching '{prefix}_YYYYMMDD_HHMMSS.json'
+    whose timestamp is older than HISTORY_RETENTION_DAYS.
+    """
+    cutoff = datetime.now(IST_TZ) - timedelta(days=HISTORY_RETENTION_DAYS)
+    pattern = re.compile(rf'^{re.escape(prefix)}_(\d{{8}})_(\d{{6}})\.json$')
+
+    try:
+        filenames = os.listdir(history_dir)
+    except Exception as e:
+        logging.error(f"Failed to list history dir {history_dir}: {str(e)}")
+        return
+
+    for fname in filenames:
+        match = pattern.match(fname)
+        if not match:
+            continue
+        date_part, time_part = match.groups()
+        try:
+            file_dt = datetime.strptime(
+                date_part + time_part, "%Y%m%d%H%M%S"
+            ).replace(tzinfo=IST_TZ)
+        except ValueError:
+            continue
+
+        if file_dt < cutoff:
+            try:
+                os.remove(os.path.join(history_dir, fname))
+                logging.info(f"Pruned old history file: {fname}")
+            except Exception as e:
+                logging.error(f"Failed to prune {fname}: {str(e)}")
+
 def run_once():
     if not os.path.exists(EXCEL_PATH):
         logging.critical(f"Input Excel file not found at: {EXCEL_PATH}")
@@ -461,6 +519,11 @@ def run_once():
     except Exception as e:
         logging.error(f"Failed to write silver_rates.json: {str(e)}")
 
+    # Also archive a timestamped copy of each snapshot (rolling retention window)
+    generated_at_dt = datetime.fromisoformat(generated_at)
+    write_hourly_snapshot(gold_snapshot, GOLD_HISTORY_DIR, "gold", generated_at_dt)
+    write_hourly_snapshot(silver_snapshot, SILVER_HISTORY_DIR, "silver", generated_at_dt)
+
     # Compile lightweight history entry with timestamp and errors only
     all_rates = gold_rates + silver_rates
     errors = []
@@ -473,7 +536,6 @@ def run_once():
                 "error": r["error"]
             })
 
-    generated_at_dt = datetime.fromisoformat(generated_at)
     history_entry = {
         "generated_date": generated_at_dt.strftime("%Y-%m-%d"),
         "generated_time": generated_at_dt.strftime("%H:%M:%S"),

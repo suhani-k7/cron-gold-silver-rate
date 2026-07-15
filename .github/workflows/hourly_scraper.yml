@@ -26,6 +26,7 @@ jobs:
             --name scraper \
             --entrypoint python \
             -e RUN_HOURLY=false \
+            -e HISTORY_RETENTION_DAYS=14 \
             -v ${{ github.workspace }}/data:/app/data \
             -v ${{ github.workspace }}/urls_final.xlsx:/app/urls_final.xlsx \
             gold-scraper /app/scraper.py

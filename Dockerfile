@@ -15,6 +15,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application files
 COPY scraper.py /app/
+COPY urls_final.xlsx /app/
 
 # scraper.py's own main() loop handles hourly scheduling (sleeps until the
 # next hour, forever) when RUN_HOURLY is unset/true — no cron needed.

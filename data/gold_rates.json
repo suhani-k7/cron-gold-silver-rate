@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T04:07:32.328620+05:30",
+  "generated_at": "2026-11-14T08:44:53.795461+05:30",
   "rates": [
     {
       "metal": "Gold",
       "city": "Ahmedabad",
       "url": "https://www.policybazaar.com/gold-rate/ahmedabad/",
-      "fetched_at": "2026-11-14T04:07:32.329348+05:30",
+      "fetched_at": "2026-11-14T08:44:53.796051+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13775.0,
@@ -31,7 +31,7 @@
       "metal": "Gold",
       "city": "Ahmednagar",
       "url": "https://www.policybazaar.com/gold-rate/ahmednagar/",
-      "fetched_at": "2026-11-14T04:07:32.329780+05:30",
+      "fetched_at": "2026-11-14T08:44:53.796332+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -57,7 +57,7 @@
       "metal": "Gold",
       "city": "Ayodhya",
       "url": "https://www.policybazaar.com/gold-rate/ayodhya/",
-      "fetched_at": "2026-11-14T04:07:32.330160+05:30",
+      "fetched_at": "2026-11-14T08:44:53.796676+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -83,7 +83,7 @@
       "metal": "Gold",
       "city": "Balangir",
       "url": "https://www.policybazaar.com/gold-rate/balangir/",
-      "fetched_at": "2026-11-14T04:07:32.330474+05:30",
+      "fetched_at": "2026-11-14T08:44:53.797110+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -109,7 +109,7 @@
       "metal": "Gold",
       "city": "Balasore",
       "url": "https://www.policybazaar.com/gold-rate/balasore/",
-      "fetched_at": "2026-11-14T04:07:33.380345+05:30",
+      "fetched_at": "2026-11-14T08:44:55.122802+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -135,7 +135,7 @@
       "metal": "Gold",
       "city": "Baripada",
       "url": "https://www.policybazaar.com/gold-rate/baripada/",
-      "fetched_at": "2026-11-14T04:07:33.403166+05:30",
+      "fetched_at": "2026-11-14T08:44:55.551244+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -161,7 +161,7 @@
       "metal": "Gold",
       "city": "Berhampur",
       "url": "https://www.policybazaar.com/gold-rate/berhampur/",
-      "fetched_at": "2026-11-14T04:07:33.934686+05:30",
+      "fetched_at": "2026-11-14T08:44:55.727997+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -187,7 +187,7 @@
       "metal": "Gold",
       "city": "Chhatarpur",
       "url": "https://www.policybazaar.com/gold-rate/chhatarpur/",
-      "fetched_at": "2026-11-14T04:07:34.646566+05:30",
+      "fetched_at": "2026-11-14T08:44:56.260987+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -213,7 +213,7 @@
       "metal": "Gold",
       "city": "Chirala",
       "url": "https://www.policybazaar.com/gold-rate/chirala/",
-      "fetched_at": "2026-11-14T04:07:34.904141+05:30",
+      "fetched_at": "2026-11-14T08:44:56.819876+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -239,7 +239,7 @@
       "metal": "Gold",
       "city": "Darjeeling",
       "url": "https://www.policybazaar.com/gold-rate/darjeeling/",
-      "fetched_at": "2026-11-14T04:07:34.988038+05:30",
+      "fetched_at": "2026-11-14T08:44:57.436828+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -265,7 +265,7 @@
       "metal": "Gold",
       "city": "Dharamshala",
       "url": "https://www.policybazaar.com/gold-rate/dharamshala/",
-      "fetched_at": "2026-11-14T04:07:35.164789+05:30",
+      "fetched_at": "2026-11-14T08:44:57.492564+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -291,7 +291,7 @@
       "metal": "Gold",
       "city": "Dispur",
       "url": "https://www.policybazaar.com/gold-rate/dispur/",
-      "fetched_at": "2026-11-14T04:07:35.783062+05:30",
+      "fetched_at": "2026-11-14T08:44:57.658427+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -317,7 +317,7 @@
       "metal": "Gold",
       "city": "Faridkot",
       "url": "https://www.policybazaar.com/gold-rate/faridkot/",
-      "fetched_at": "2026-11-14T04:07:36.100658+05:30",
+      "fetched_at": "2026-11-14T08:44:57.973187+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -343,7 +343,7 @@
       "metal": "Gold",
       "city": "Farrukhabad",
       "url": "https://www.policybazaar.com/gold-rate/farrukhabad/",
-      "fetched_at": "2026-11-14T04:07:36.433378+05:30",
+      "fetched_at": "2026-11-14T08:44:59.272926+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -369,7 +369,7 @@
       "metal": "Gold",
       "city": "Gangavathi",
       "url": "https://www.policybazaar.com/gold-rate/gangavathi/",
-      "fetched_at": "2026-11-14T04:07:37.228697+05:30",
+      "fetched_at": "2026-11-14T08:44:59.331429+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -395,7 +395,7 @@
       "metal": "Gold",
       "city": "Gangtok",
       "url": "https://www.policybazaar.com/gold-rate/gangtok/",
-      "fetched_at": "2026-11-14T04:07:37.354623+05:30",
+      "fetched_at": "2026-11-14T08:44:59.668674+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -421,7 +421,7 @@
       "metal": "Gold",
       "city": "Ghaziabad",
       "url": "https://www.policybazaar.com/gold-rate/ghaziabad/",
-      "fetched_at": "2026-11-14T04:07:38.294614+05:30",
+      "fetched_at": "2026-11-14T08:44:59.714719+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -447,7 +447,7 @@
       "metal": "Gold",
       "city": "Gondia",
       "url": "https://www.policybazaar.com/gold-rate/gondia/",
-      "fetched_at": "2026-11-14T04:07:38.462661+05:30",
+      "fetched_at": "2026-11-14T08:45:00.458376+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -473,7 +473,7 @@
       "metal": "Gold",
       "city": "Gudiyatham",
       "url": "https://www.policybazaar.com/gold-rate/gudiyatham/",
-      "fetched_at": "2026-11-14T04:07:38.672137+05:30",
+      "fetched_at": "2026-11-14T08:45:00.700983+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -499,7 +499,7 @@
       "metal": "Gold",
       "city": "Hazaribagh",
       "url": "https://www.policybazaar.com/gold-rate/hazaribagh/",
-      "fetched_at": "2026-11-14T04:07:39.368465+05:30",
+      "fetched_at": "2026-11-14T08:45:00.921775+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -525,7 +525,7 @@
       "metal": "Gold",
       "city": "Howrah",
       "url": "https://www.policybazaar.com/gold-rate/howrah/",
-      "fetched_at": "2026-11-14T04:07:40.034354+05:30",
+      "fetched_at": "2026-11-14T08:45:01.211528+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -551,7 +551,7 @@
       "metal": "Gold",
       "city": "Itarsi",
       "url": "https://www.policybazaar.com/gold-rate/itarsi/",
-      "fetched_at": "2026-11-14T04:07:40.450379+05:30",
+      "fetched_at": "2026-11-14T08:45:02.397093+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -577,7 +577,7 @@
       "metal": "Gold",
       "city": "Jagtial",
       "url": "https://www.policybazaar.com/gold-rate/jagtial/",
-      "fetched_at": "2026-11-14T04:07:40.494747+05:30",
+      "fetched_at": "2026-11-14T08:45:02.765838+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -603,7 +603,7 @@
       "metal": "Gold",
       "city": "Jorhat",
       "url": "https://www.policybazaar.com/gold-rate/jorhat/",
-      "fetched_at": "2026-11-14T04:07:40.711140+05:30",
+      "fetched_at": "2026-11-14T08:45:02.946066+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -629,7 +629,7 @@
       "metal": "Gold",
       "city": "Kadiri",
       "url": "https://www.policybazaar.com/gold-rate/kadiri/",
-      "fetched_at": "2026-11-14T04:07:41.548445+05:30",
+      "fetched_at": "2026-11-14T08:45:03.060936+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -655,7 +655,7 @@
       "metal": "Gold",
       "city": "Kalyan",
       "url": "https://www.policybazaar.com/gold-rate/kalyan/",
-      "fetched_at": "2026-11-14T04:07:42.149839+05:30",
+      "fetched_at": "2026-11-14T08:45:03.896402+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -681,7 +681,7 @@
       "metal": "Gold",
       "city": "Kanchipuram",
       "url": "https://www.policybazaar.com/gold-rate/kanchipuram/",
-      "fetched_at": "2026-11-14T04:07:42.171822+05:30",
+      "fetched_at": "2026-11-14T08:45:04.931154+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -707,7 +707,7 @@
       "metal": "Gold",
       "city": "Kannur",
       "url": "https://www.policybazaar.com/gold-rate/kannur/",
-      "fetched_at": "2026-11-14T04:07:42.394461+05:30",
+      "fetched_at": "2026-11-14T08:45:05.037943+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -733,7 +733,7 @@
       "metal": "Gold",
       "city": "Kapurthala",
       "url": "https://www.policybazaar.com/gold-rate/kapurthala/",
-      "fetched_at": "2026-11-14T04:07:43.268541+05:30",
+      "fetched_at": "2026-11-14T08:45:05.422690+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -759,7 +759,7 @@
       "metal": "Gold",
       "city": "Karaikudi",
       "url": "https://www.policybazaar.com/gold-rate/karaikudi/",
-      "fetched_at": "2026-11-14T04:07:43.415137+05:30",
+      "fetched_at": "2026-11-14T08:45:05.919538+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -785,7 +785,7 @@
       "metal": "Gold",
       "city": "Karur",
       "url": "https://www.policybazaar.com/gold-rate/karur/",
-      "fetched_at": "2026-11-14T04:07:44.064279+05:30",
+      "fetched_at": "2026-11-14T08:45:07.185424+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -811,7 +811,7 @@
       "metal": "Gold",
       "city": "Kavali",
       "url": "https://www.policybazaar.com/gold-rate/kavali/",
-      "fetched_at": "2026-11-14T04:07:44.714997+05:30",
+      "fetched_at": "2026-11-14T08:45:07.707726+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -837,7 +837,7 @@
       "metal": "Gold",
       "city": "Kavaratti",
       "url": "https://www.policybazaar.com/gold-rate/kavaratti/",
-      "fetched_at": "2026-11-14T04:07:44.801975+05:30",
+      "fetched_at": "2026-11-14T08:45:07.960622+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -863,7 +863,7 @@
       "metal": "Gold",
       "city": "Kohima",
       "url": "https://www.policybazaar.com/gold-rate/kohima/",
-      "fetched_at": "2026-11-14T04:07:45.348029+05:30",
+      "fetched_at": "2026-11-14T08:45:07.964750+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -889,7 +889,7 @@
       "metal": "Gold",
       "city": "Malappuram",
       "url": "https://www.policybazaar.com/gold-rate/malappuram/",
-      "fetched_at": "2026-11-14T04:07:45.506311+05:30",
+      "fetched_at": "2026-11-14T08:45:09.450677+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -915,7 +915,7 @@
       "metal": "Gold",
       "city": "Mangalagiri",
       "url": "https://www.policybazaar.com/gold-rate/mangalagiri/",
-      "fetched_at": "2026-11-14T04:07:46.392082+05:30",
+      "fetched_at": "2026-11-14T08:45:09.735529+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -941,7 +941,7 @@
       "metal": "Gold",
       "city": "Mirzapur",
       "url": "https://www.policybazaar.com/gold-rate/mirzapur/",
-      "fetched_at": "2026-11-14T04:07:46.532859+05:30",
+      "fetched_at": "2026-11-14T08:45:09.983495+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -967,7 +967,7 @@
       "metal": "Gold",
       "city": "Morbi",
       "url": "https://www.policybazaar.com/gold-rate/morbi/",
-      "fetched_at": "2026-11-14T04:07:46.616444+05:30",
+      "fetched_at": "2026-11-14T08:45:10.386527+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -993,7 +993,7 @@
       "metal": "Gold",
       "city": "Nanded",
       "url": "https://www.policybazaar.com/gold-rate/nanded/",
-      "fetched_at": "2026-11-14T04:07:47.668356+05:30",
+      "fetched_at": "2026-11-14T08:45:11.103596+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1019,7 +1019,7 @@
       "metal": "Gold",
       "city": "Phagwara",
       "url": "https://www.policybazaar.com/gold-rate/phagwara/",
-      "fetched_at": "2026-11-14T04:07:48.209814+05:30",
+      "fetched_at": "2026-11-14T08:45:11.129625+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1045,7 +1045,7 @@
       "metal": "Gold",
       "city": "Pimpri Chinchwad",
       "url": "https://www.policybazaar.com/gold-rate/pimpri-chinchwad/",
-      "fetched_at": "2026-11-14T04:07:48.417564+05:30",
+      "fetched_at": "2026-11-14T08:45:11.589810+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13718.0,
@@ -1071,7 +1071,7 @@
       "metal": "Gold",
       "city": "Ramanathapuram",
       "url": "https://www.policybazaar.com/gold-rate/ramanathapuram/",
-      "fetched_at": "2026-11-14T04:07:49.005062+05:30",
+      "fetched_at": "2026-11-14T08:45:11.846142+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1097,7 +1097,7 @@
       "metal": "Gold",
       "city": "Sangli",
       "url": "https://www.policybazaar.com/gold-rate/sangli/",
-      "fetched_at": "2026-11-14T04:07:49.257035+05:30",
+      "fetched_at": "2026-11-14T08:45:12.087360+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1123,7 +1123,7 @@
       "metal": "Gold",
       "city": "Siddipet",
       "url": "https://www.policybazaar.com/gold-rate/siddipet/",
-      "fetched_at": "2026-11-14T04:07:49.380954+05:30",
+      "fetched_at": "2026-11-14T08:45:12.449080+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1149,7 +1149,7 @@
       "metal": "Gold",
       "city": "Sivakasi",
       "url": "https://www.policybazaar.com/gold-rate/sivakasi/",
-      "fetched_at": "2026-11-14T04:07:49.400727+05:30",
+      "fetched_at": "2026-11-14T08:45:13.021043+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1175,7 +1175,7 @@
       "metal": "Gold",
       "city": "Trivandrum",
       "url": "https://www.policybazaar.com/gold-rate/trivandrum/",
-      "fetched_at": "2026-11-14T04:07:50.621122+05:30",
+      "fetched_at": "2026-11-14T08:45:13.940641+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1201,7 +1201,7 @@
       "metal": "Gold",
       "city": "Vapi",
       "url": "https://www.policybazaar.com/gold-rate/vapi/",
-      "fetched_at": "2026-11-14T04:07:50.907818+05:30",
+      "fetched_at": "2026-11-14T08:45:14.421136+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -1227,7 +1227,7 @@
       "metal": "Gold",
       "city": "Vasai",
       "url": "https://www.policybazaar.com/gold-rate/vasai/",
-      "fetched_at": "2026-11-14T04:07:51.115144+05:30",
+      "fetched_at": "2026-11-14T08:45:14.546227+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1253,7 +1253,7 @@
       "metal": "Gold",
       "city": "Vijayapura",
       "url": "https://www.policybazaar.com/gold-rate/vijayapura/",
-      "fetched_at": "2026-11-14T04:07:51.344037+05:30",
+      "fetched_at": "2026-11-14T08:45:14.570623+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -1279,7 +1279,7 @@
       "metal": "Gold",
       "city": "Punjab",
       "url": "https://www.policybazaar.com/gold-rate/punjab/",
-      "fetched_at": "2026-11-14T04:07:51.939478+05:30",
+      "fetched_at": "2026-11-14T08:45:15.806830+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1305,7 +1305,7 @@
       "metal": "Gold",
       "city": "Hyderabad",
       "url": "https://www.policybazaar.com/gold-rate/hyderabad/",
-      "fetched_at": "2026-11-14T04:07:52.149245+05:30",
+      "fetched_at": "2026-11-14T08:45:16.109035+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1331,7 +1331,7 @@
       "metal": "Gold",
       "city": "Bangalore",
       "url": "https://www.policybazaar.com/gold-rate/bangalore/",
-      "fetched_at": "2026-11-14T04:07:52.571805+05:30",
+      "fetched_at": "2026-11-14T08:45:16.209043+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -1357,7 +1357,7 @@
       "metal": "Gold",
       "city": "Mumbai",
       "url": "https://www.policybazaar.com/gold-rate/mumbai/",
-      "fetched_at": "2026-11-14T04:07:52.966703+05:30",
+      "fetched_at": "2026-11-14T08:45:16.802264+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1383,7 +1383,7 @@
       "metal": "Gold",
       "city": "Gujarat",
       "url": "https://www.policybazaar.com/gold-rate/gujarat/",
-      "fetched_at": "2026-11-14T04:07:53.411953+05:30",
+      "fetched_at": "2026-11-14T08:45:17.218901+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -1409,7 +1409,7 @@
       "metal": "Gold",
       "city": "Bhubaneswar",
       "url": "https://www.policybazaar.com/gold-rate/bhubaneswar/",
-      "fetched_at": "2026-11-14T04:07:53.866986+05:30",
+      "fetched_at": "2026-11-14T08:45:17.593915+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -1435,7 +1435,7 @@
       "metal": "Gold",
       "city": "Pondicherry",
       "url": "https://www.policybazaar.com/gold-rate/pondicherry/",
-      "fetched_at": "2026-11-14T04:07:54.230249+05:30",
+      "fetched_at": "2026-11-14T08:45:17.698764+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1461,7 +1461,7 @@
       "metal": "Gold",
       "city": "Goa",
       "url": "https://www.policybazaar.com/gold-rate/goa/",
-      "fetched_at": "2026-11-14T04:07:54.417824+05:30",
+      "fetched_at": "2026-11-14T08:45:18.235420+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -1487,7 +1487,7 @@
       "metal": "Gold",
       "city": "Kerala",
       "url": "https://www.policybazaar.com/gold-rate/kerala/",
-      "fetched_at": "2026-11-14T04:07:55.800879+05:30",
+      "fetched_at": "2026-11-14T08:45:18.663095+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1513,7 +1513,7 @@
       "metal": "Gold",
       "city": "Karnataka",
       "url": "https://www.policybazaar.com/gold-rate/karnataka/",
-      "fetched_at": "2026-11-14T04:07:55.922132+05:30",
+      "fetched_at": "2026-11-14T08:45:18.745997+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -1539,7 +1539,7 @@
       "metal": "Gold",
       "city": "Abohar",
       "url": "https://www.policybazaar.com/gold-rate/abohar/",
-      "fetched_at": "2026-11-14T04:07:55.972627+05:30",
+      "fetched_at": "2026-11-14T08:45:19.765203+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1565,7 +1565,7 @@
       "metal": "Gold",
       "city": "Adilabad",
       "url": "https://www.policybazaar.com/gold-rate/adilabad/",
-      "fetched_at": "2026-11-14T04:07:56.699194+05:30",
+      "fetched_at": "2026-11-14T08:45:20.252614+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1591,7 +1591,7 @@
       "metal": "Gold",
       "city": "Adoni",
       "url": "https://www.policybazaar.com/gold-rate/adoni/",
-      "fetched_at": "2026-11-14T04:07:57.161539+05:30",
+      "fetched_at": "2026-11-14T08:45:20.513184+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1617,7 +1617,7 @@
       "metal": "Gold",
       "city": "Agartala",
       "url": "https://www.policybazaar.com/gold-rate/agartala/",
-      "fetched_at": "2026-11-14T04:07:57.721761+05:30",
+      "fetched_at": "2026-11-14T08:45:20.686872+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -1643,7 +1643,7 @@
       "metal": "Gold",
       "city": "Agra",
       "url": "https://www.policybazaar.com/gold-rate/agra/",
-      "fetched_at": "2026-11-14T04:07:58.270013+05:30",
+      "fetched_at": "2026-11-14T08:45:20.980322+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1669,7 +1669,7 @@
       "metal": "Gold",
       "city": "Aizawl",
       "url": "https://www.policybazaar.com/gold-rate/aizawl/",
-      "fetched_at": "2026-11-14T04:07:58.282289+05:30",
+      "fetched_at": "2026-11-14T08:45:21.597916+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -1695,7 +1695,7 @@
       "metal": "Gold",
       "city": "Ajmer",
       "url": "https://www.policybazaar.com/gold-rate/ajmer/",
-      "fetched_at": "2026-11-14T04:07:58.844769+05:30",
+      "fetched_at": "2026-11-14T08:45:22.158454+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -1721,7 +1721,7 @@
       "metal": "Gold",
       "city": "Akola",
       "url": "https://www.policybazaar.com/gold-rate/akola/",
-      "fetched_at": "2026-11-14T04:07:59.328087+05:30",
+      "fetched_at": "2026-11-14T08:45:22.422460+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1747,7 +1747,7 @@
       "metal": "Gold",
       "city": "Aligarh",
       "url": "https://www.policybazaar.com/gold-rate/aligarh/",
-      "fetched_at": "2026-11-14T04:08:00.181629+05:30",
+      "fetched_at": "2026-11-14T08:45:23.179239+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1773,7 +1773,7 @@
       "metal": "Gold",
       "city": "Allahabad",
       "url": "https://www.policybazaar.com/gold-rate/allahabad/",
-      "fetched_at": "2026-11-14T04:08:00.263538+05:30",
+      "fetched_at": "2026-11-14T08:45:23.185173+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1799,7 +1799,7 @@
       "metal": "Gold",
       "city": "Alwar",
       "url": "https://www.policybazaar.com/gold-rate/alwar/",
-      "fetched_at": "2026-11-14T04:08:00.502440+05:30",
+      "fetched_at": "2026-11-14T08:45:23.654285+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -1825,7 +1825,7 @@
       "metal": "Gold",
       "city": "Ambala",
       "url": "https://www.policybazaar.com/gold-rate/ambala/",
-      "fetched_at": "2026-11-14T04:08:01.470037+05:30",
+      "fetched_at": "2026-11-14T08:45:24.422435+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -1851,7 +1851,7 @@
       "metal": "Gold",
       "city": "Ambarnath",
       "url": "https://www.policybazaar.com/gold-rate/ambarnath/",
-      "fetched_at": "2026-11-14T04:08:01.871672+05:30",
+      "fetched_at": "2026-11-14T08:45:24.805509+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1877,7 +1877,7 @@
       "metal": "Gold",
       "city": "Ambikapur",
       "url": "https://www.policybazaar.com/gold-rate/ambikapur/",
-      "fetched_at": "2026-11-14T04:08:01.891304+05:30",
+      "fetched_at": "2026-11-14T08:45:24.921594+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1903,7 +1903,7 @@
       "metal": "Gold",
       "city": "Ambur",
       "url": "https://www.policybazaar.com/gold-rate/ambur/",
-      "fetched_at": "2026-11-14T04:08:02.858478+05:30",
+      "fetched_at": "2026-11-14T08:45:26.052082+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -1929,7 +1929,7 @@
       "metal": "Gold",
       "city": "Amravati",
       "url": "https://www.policybazaar.com/gold-rate/amravati/",
-      "fetched_at": "2026-11-14T04:08:03.161716+05:30",
+      "fetched_at": "2026-11-14T08:45:26.271596+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -1955,7 +1955,7 @@
       "metal": "Gold",
       "city": "Amreli",
       "url": "https://www.policybazaar.com/gold-rate/amreli/",
-      "fetched_at": "2026-11-14T04:08:03.213597+05:30",
+      "fetched_at": "2026-11-14T08:45:26.319167+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -1981,7 +1981,7 @@
       "metal": "Gold",
       "city": "Amritsar",
       "url": "https://www.policybazaar.com/gold-rate/amritsar/",
-      "fetched_at": "2026-11-14T04:08:03.774100+05:30",
+      "fetched_at": "2026-11-14T08:45:27.337587+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2007,7 +2007,7 @@
       "metal": "Gold",
       "city": "Anand",
       "url": "https://www.policybazaar.com/gold-rate/anand/",
-      "fetched_at": "2026-11-14T04:08:04.369557+05:30",
+      "fetched_at": "2026-11-14T08:45:27.478234+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2033,7 +2033,7 @@
       "metal": "Gold",
       "city": "Anantapur",
       "url": "https://www.policybazaar.com/gold-rate/anantapur/",
-      "fetched_at": "2026-11-14T04:08:04.612880+05:30",
+      "fetched_at": "2026-11-14T08:45:28.215387+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -2059,7 +2059,7 @@
       "metal": "Gold",
       "city": "Asansol",
       "url": "https://www.policybazaar.com/gold-rate/asansol/",
-      "fetched_at": "2026-11-14T04:08:04.968114+05:30",
+      "fetched_at": "2026-11-14T08:45:28.796118+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -2085,7 +2085,7 @@
       "metal": "Gold",
       "city": "Aurangabad",
       "url": "https://www.policybazaar.com/gold-rate/aurangabad/",
-      "fetched_at": "2026-11-14T04:08:05.760158+05:30",
+      "fetched_at": "2026-11-14T08:45:29.105246+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2111,7 +2111,7 @@
       "metal": "Gold",
       "city": "Badlapur",
       "url": "https://www.policybazaar.com/gold-rate/badlapur/",
-      "fetched_at": "2026-11-14T04:08:06.264088+05:30",
+      "fetched_at": "2026-11-14T08:45:29.679896+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2137,7 +2137,7 @@
       "metal": "Gold",
       "city": "Bagalkot",
       "url": "https://www.policybazaar.com/gold-rate/bagalkot/",
-      "fetched_at": "2026-11-14T04:08:06.269567+05:30",
+      "fetched_at": "2026-11-14T08:45:29.854441+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -2163,7 +2163,7 @@
       "metal": "Gold",
       "city": "Bahadurgarh",
       "url": "https://www.policybazaar.com/gold-rate/bahadurgarh/",
-      "fetched_at": "2026-11-14T04:08:06.738896+05:30",
+      "fetched_at": "2026-11-14T08:45:30.036514+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2189,7 +2189,7 @@
       "metal": "Gold",
       "city": "Balurghat",
       "url": "https://www.policybazaar.com/gold-rate/balurghat/",
-      "fetched_at": "2026-11-14T04:08:07.312322+05:30",
+      "fetched_at": "2026-11-14T08:45:30.805728+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -2215,7 +2215,7 @@
       "metal": "Gold",
       "city": "Bankura",
       "url": "https://www.policybazaar.com/gold-rate/bankura/",
-      "fetched_at": "2026-11-14T04:08:07.480758+05:30",
+      "fetched_at": "2026-11-14T08:45:30.976827+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -2241,7 +2241,7 @@
       "metal": "Gold",
       "city": "Bareilly",
       "url": "https://www.policybazaar.com/gold-rate/bareilly/",
-      "fetched_at": "2026-11-14T04:08:07.847644+05:30",
+      "fetched_at": "2026-11-14T08:45:31.212458+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2267,7 +2267,7 @@
       "metal": "Gold",
       "city": "Barnala",
       "url": "https://www.policybazaar.com/gold-rate/barnala/",
-      "fetched_at": "2026-11-14T04:08:08.322625+05:30",
+      "fetched_at": "2026-11-14T08:45:32.092969+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2293,7 +2293,7 @@
       "metal": "Gold",
       "city": "Barshi",
       "url": "https://www.policybazaar.com/gold-rate/barshi/",
-      "fetched_at": "2026-11-14T04:08:08.665486+05:30",
+      "fetched_at": "2026-11-14T08:45:32.731681+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2319,7 +2319,7 @@
       "metal": "Gold",
       "city": "Batala",
       "url": "https://www.policybazaar.com/gold-rate/batala/",
-      "fetched_at": "2026-11-14T04:08:09.295738+05:30",
+      "fetched_at": "2026-11-14T08:45:32.971815+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2345,7 +2345,7 @@
       "metal": "Gold",
       "city": "Bathinda",
       "url": "https://www.policybazaar.com/gold-rate/bathinda/",
-      "fetched_at": "2026-11-14T04:08:09.600934+05:30",
+      "fetched_at": "2026-11-14T08:45:33.581729+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2371,7 +2371,7 @@
       "metal": "Gold",
       "city": "Beawar",
       "url": "https://www.policybazaar.com/gold-rate/beawar/",
-      "fetched_at": "2026-11-14T04:08:10.372003+05:30",
+      "fetched_at": "2026-11-14T08:45:34.264708+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2397,7 +2397,7 @@
       "metal": "Gold",
       "city": "Belgaum",
       "url": "https://www.policybazaar.com/gold-rate/belgaum/",
-      "fetched_at": "2026-11-14T04:08:10.514981+05:30",
+      "fetched_at": "2026-11-14T08:45:34.542476+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -2423,7 +2423,7 @@
       "metal": "Gold",
       "city": "Bellary",
       "url": "https://www.policybazaar.com/gold-rate/bellary/",
-      "fetched_at": "2026-11-14T04:08:10.604093+05:30",
+      "fetched_at": "2026-11-14T08:45:34.971163+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -2449,7 +2449,7 @@
       "metal": "Gold",
       "city": "Betul",
       "url": "https://www.policybazaar.com/gold-rate/betul/",
-      "fetched_at": "2026-11-14T04:08:11.942796+05:30",
+      "fetched_at": "2026-11-14T08:45:35.031961+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2475,7 +2475,7 @@
       "metal": "Gold",
       "city": "Bhadrak",
       "url": "https://www.policybazaar.com/gold-rate/bhadrak/",
-      "fetched_at": "2026-11-14T04:08:11.990540+05:30",
+      "fetched_at": "2026-11-14T08:45:36.270329+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -2501,7 +2501,7 @@
       "metal": "Gold",
       "city": "Bhagalpur",
       "url": "https://www.policybazaar.com/gold-rate/bhagalpur/",
-      "fetched_at": "2026-11-14T04:08:12.858570+05:30",
+      "fetched_at": "2026-11-14T08:45:36.628816+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -2527,7 +2527,7 @@
       "metal": "Gold",
       "city": "Bharatpur",
       "url": "https://www.policybazaar.com/gold-rate/bharatpur/",
-      "fetched_at": "2026-11-14T04:08:12.870710+05:30",
+      "fetched_at": "2026-11-14T08:45:36.975591+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2553,7 +2553,7 @@
       "metal": "Gold",
       "city": "Bharuch",
       "url": "https://www.policybazaar.com/gold-rate/bharuch/",
-      "fetched_at": "2026-11-14T04:08:14.067267+05:30",
+      "fetched_at": "2026-11-14T08:45:37.130647+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2579,7 +2579,7 @@
       "metal": "Gold",
       "city": "Bhavnagar",
       "url": "https://www.policybazaar.com/gold-rate/bhavnagar/",
-      "fetched_at": "2026-11-14T04:08:14.300245+05:30",
+      "fetched_at": "2026-11-14T08:45:37.306213+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2605,7 +2605,7 @@
       "metal": "Gold",
       "city": "Bhilwara",
       "url": "https://www.policybazaar.com/gold-rate/bhilwara/",
-      "fetched_at": "2026-11-14T04:08:14.431971+05:30",
+      "fetched_at": "2026-11-14T08:45:38.141001+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2631,7 +2631,7 @@
       "metal": "Gold",
       "city": "Bhimavaram",
       "url": "https://www.policybazaar.com/gold-rate/bhimavaram/",
-      "fetched_at": "2026-11-14T04:08:14.492472+05:30",
+      "fetched_at": "2026-11-14T08:45:38.173645+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -2657,7 +2657,7 @@
       "metal": "Gold",
       "city": "Bhind",
       "url": "https://www.policybazaar.com/gold-rate/bhind/",
-      "fetched_at": "2026-11-14T04:08:15.493343+05:30",
+      "fetched_at": "2026-11-14T08:45:38.255508+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2683,7 +2683,7 @@
       "metal": "Gold",
       "city": "Bhiwadi",
       "url": "https://www.policybazaar.com/gold-rate/bhiwadi/",
-      "fetched_at": "2026-11-14T04:08:15.512252+05:30",
+      "fetched_at": "2026-11-14T08:45:39.323494+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2709,7 +2709,7 @@
       "metal": "Gold",
       "city": "Bhiwandi",
       "url": "https://www.policybazaar.com/gold-rate/bhiwandi/",
-      "fetched_at": "2026-11-14T04:08:15.565089+05:30",
+      "fetched_at": "2026-11-14T08:45:39.458523+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2735,7 +2735,7 @@
       "metal": "Gold",
       "city": "Bhiwani",
       "url": "https://www.policybazaar.com/gold-rate/bhiwani/",
-      "fetched_at": "2026-11-14T04:08:16.227700+05:30",
+      "fetched_at": "2026-11-14T08:45:39.507116+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2761,7 +2761,7 @@
       "metal": "Gold",
       "city": "Bhopal",
       "url": "https://www.policybazaar.com/gold-rate/bhopal/",
-      "fetched_at": "2026-11-14T04:08:16.918437+05:30",
+      "fetched_at": "2026-11-14T08:45:40.543584+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2787,7 +2787,7 @@
       "metal": "Gold",
       "city": "Bhuj",
       "url": "https://www.policybazaar.com/gold-rate/bhuj/",
-      "fetched_at": "2026-11-14T04:08:17.890131+05:30",
+      "fetched_at": "2026-11-14T08:45:40.901015+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2813,7 +2813,7 @@
       "metal": "Gold",
       "city": "Bhusawal",
       "url": "https://www.policybazaar.com/gold-rate/bhusawal/",
-      "fetched_at": "2026-11-14T04:08:17.990056+05:30",
+      "fetched_at": "2026-11-14T08:45:40.903918+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2839,7 +2839,7 @@
       "metal": "Gold",
       "city": "Bidar",
       "url": "https://www.policybazaar.com/gold-rate/bidar/",
-      "fetched_at": "2026-11-14T04:08:18.491064+05:30",
+      "fetched_at": "2026-11-14T08:45:40.987962+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -2865,7 +2865,7 @@
       "metal": "Gold",
       "city": "Bikaner",
       "url": "https://www.policybazaar.com/gold-rate/bikaner/",
-      "fetched_at": "2026-11-14T04:08:19.121044+05:30",
+      "fetched_at": "2026-11-14T08:45:42.698927+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -2891,7 +2891,7 @@
       "metal": "Gold",
       "city": "Bilaspur",
       "url": "https://www.policybazaar.com/gold-rate/bilaspur/",
-      "fetched_at": "2026-11-14T04:08:19.215391+05:30",
+      "fetched_at": "2026-11-14T08:45:42.760513+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2917,7 +2917,7 @@
       "metal": "Gold",
       "city": "Budaun",
       "url": "https://www.policybazaar.com/gold-rate/budaun/",
-      "fetched_at": "2026-11-14T04:08:19.566524+05:30",
+      "fetched_at": "2026-11-14T08:45:42.871164+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2943,7 +2943,7 @@
       "metal": "Gold",
       "city": "Burhanpur",
       "url": "https://www.policybazaar.com/gold-rate/burhanpur/",
-      "fetched_at": "2026-11-14T04:08:20.213981+05:30",
+      "fetched_at": "2026-11-14T08:45:43.291827+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -2969,7 +2969,7 @@
       "metal": "Gold",
       "city": "Chandigarh",
       "url": "https://www.policybazaar.com/gold-rate/chandigarh/",
-      "fetched_at": "2026-11-14T04:08:20.259234+05:30",
+      "fetched_at": "2026-11-14T08:45:43.945996+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -2995,7 +2995,7 @@
       "metal": "Gold",
       "city": "Chandrapur",
       "url": "https://www.policybazaar.com/gold-rate/chandrapur/",
-      "fetched_at": "2026-11-14T04:08:20.527288+05:30",
+      "fetched_at": "2026-11-14T08:45:44.536655+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -3021,7 +3021,7 @@
       "metal": "Gold",
       "city": "Chennai",
       "url": "https://www.policybazaar.com/gold-rate/chennai/",
-      "fetched_at": "2026-11-14T04:08:21.230657+05:30",
+      "fetched_at": "2026-11-14T08:45:45.143822+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3047,7 +3047,7 @@
       "metal": "Gold",
       "city": "Chhindwara",
       "url": "https://www.policybazaar.com/gold-rate/chhindwara/",
-      "fetched_at": "2026-11-14T04:08:21.370096+05:30",
+      "fetched_at": "2026-11-14T08:45:45.169936+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -3073,7 +3073,7 @@
       "metal": "Gold",
       "city": "Chikmagalur",
       "url": "https://www.policybazaar.com/gold-rate/chikmagalur/",
-      "fetched_at": "2026-11-14T04:08:22.188941+05:30",
+      "fetched_at": "2026-11-14T08:45:45.718241+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -3099,7 +3099,7 @@
       "metal": "Gold",
       "city": "Chilakaluripet",
       "url": "https://www.policybazaar.com/gold-rate/chilakaluripet/",
-      "fetched_at": "2026-11-14T04:08:22.265931+05:30",
+      "fetched_at": "2026-11-14T08:45:46.173192+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3125,7 +3125,7 @@
       "metal": "Gold",
       "city": "Chitradurga",
       "url": "https://www.policybazaar.com/gold-rate/chitradurga/",
-      "fetched_at": "2026-11-14T04:08:22.981491+05:30",
+      "fetched_at": "2026-11-14T08:45:46.638579+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -3151,7 +3151,7 @@
       "metal": "Gold",
       "city": "Chittoor",
       "url": "https://www.policybazaar.com/gold-rate/chittoor/",
-      "fetched_at": "2026-11-14T04:08:23.409425+05:30",
+      "fetched_at": "2026-11-14T08:45:47.111581+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3177,7 +3177,7 @@
       "metal": "Gold",
       "city": "Coimbatore",
       "url": "https://www.policybazaar.com/gold-rate/coimbatore/",
-      "fetched_at": "2026-11-14T04:08:23.789826+05:30",
+      "fetched_at": "2026-11-14T08:45:47.853223+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3203,7 +3203,7 @@
       "metal": "Gold",
       "city": "Cuddalore",
       "url": "https://www.policybazaar.com/gold-rate/cuddalore/",
-      "fetched_at": "2026-11-14T04:08:24.392370+05:30",
+      "fetched_at": "2026-11-14T08:45:47.885871+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3229,7 +3229,7 @@
       "metal": "Gold",
       "city": "Cuttack",
       "url": "https://www.policybazaar.com/gold-rate/cuttack/",
-      "fetched_at": "2026-11-14T04:08:24.612537+05:30",
+      "fetched_at": "2026-11-14T08:45:48.285827+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3255,7 +3255,7 @@
       "metal": "Gold",
       "city": "Deesa",
       "url": "https://www.policybazaar.com/gold-rate/deesa/",
-      "fetched_at": "2026-11-14T04:08:25.156599+05:30",
+      "fetched_at": "2026-11-14T08:45:48.531235+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -3281,7 +3281,7 @@
       "metal": "Gold",
       "city": "Dehradun",
       "url": "https://www.policybazaar.com/gold-rate/dehradun/",
-      "fetched_at": "2026-11-14T04:08:26.029007+05:30",
+      "fetched_at": "2026-11-14T08:45:48.978806+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -3307,7 +3307,7 @@
       "metal": "Gold",
       "city": "Delhi",
       "url": "https://www.policybazaar.com/gold-rate/delhi/",
-      "fetched_at": "2026-11-14T04:08:26.335482+05:30",
+      "fetched_at": "2026-11-14T08:45:49.005084+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -3333,7 +3333,7 @@
       "metal": "Gold",
       "city": "Deoghar",
       "url": "https://www.policybazaar.com/gold-rate/deoghar/",
-      "fetched_at": "2026-11-14T04:08:26.658971+05:30",
+      "fetched_at": "2026-11-14T08:45:50.023496+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3359,7 +3359,7 @@
       "metal": "Gold",
       "city": "Dewas",
       "url": "https://www.policybazaar.com/gold-rate/dewas/",
-      "fetched_at": "2026-11-14T04:08:26.875891+05:30",
+      "fetched_at": "2026-11-14T08:45:50.221694+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -3385,7 +3385,7 @@
       "metal": "Gold",
       "city": "Dhanbad",
       "url": "https://www.policybazaar.com/gold-rate/dhanbad/",
-      "fetched_at": "2026-11-14T04:08:27.849443+05:30",
+      "fetched_at": "2026-11-14T08:45:50.260660+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3411,7 +3411,7 @@
       "metal": "Gold",
       "city": "Dharmavaram",
       "url": "https://www.policybazaar.com/gold-rate/dharmavaram/",
-      "fetched_at": "2026-11-14T04:08:28.527285+05:30",
+      "fetched_at": "2026-11-14T08:45:51.166541+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3437,7 +3437,7 @@
       "metal": "Gold",
       "city": "Dhule",
       "url": "https://www.policybazaar.com/gold-rate/dhule/",
-      "fetched_at": "2026-11-14T04:08:28.535573+05:30",
+      "fetched_at": "2026-11-14T08:45:51.621419+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -3463,7 +3463,7 @@
       "metal": "Gold",
       "city": "Dibrugarh",
       "url": "https://www.policybazaar.com/gold-rate/dibrugarh/",
-      "fetched_at": "2026-11-14T04:08:29.242080+05:30",
+      "fetched_at": "2026-11-14T08:45:51.740564+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3489,7 +3489,7 @@
       "metal": "Gold",
       "city": "Dindigul",
       "url": "https://www.policybazaar.com/gold-rate/dindigul/",
-      "fetched_at": "2026-11-14T04:08:29.944007+05:30",
+      "fetched_at": "2026-11-14T08:45:51.964216+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3515,7 +3515,7 @@
       "metal": "Gold",
       "city": "Durgapur",
       "url": "https://www.policybazaar.com/gold-rate/durgapur/",
-      "fetched_at": "2026-11-14T04:08:30.173076+05:30",
+      "fetched_at": "2026-11-14T08:45:52.254712+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3541,7 +3541,7 @@
       "metal": "Gold",
       "city": "Eluru",
       "url": "https://www.policybazaar.com/gold-rate/eluru/",
-      "fetched_at": "2026-11-14T04:08:30.965526+05:30",
+      "fetched_at": "2026-11-14T08:45:53.765145+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3567,7 +3567,7 @@
       "metal": "Gold",
       "city": "Erode",
       "url": "https://www.policybazaar.com/gold-rate/erode/",
-      "fetched_at": "2026-11-14T04:08:31.710159+05:30",
+      "fetched_at": "2026-11-14T08:45:54.137406+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3593,7 +3593,7 @@
       "metal": "Gold",
       "city": "Faridabad",
       "url": "https://www.policybazaar.com/gold-rate/faridabad/",
-      "fetched_at": "2026-11-14T04:08:31.861433+05:30",
+      "fetched_at": "2026-11-14T08:45:54.275967+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -3619,7 +3619,7 @@
       "metal": "Gold",
       "city": "Firozabad",
       "url": "https://www.policybazaar.com/gold-rate/firozabad/",
-      "fetched_at": "2026-11-14T04:08:32.400171+05:30",
+      "fetched_at": "2026-11-14T08:45:54.525358+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -3645,7 +3645,7 @@
       "metal": "Gold",
       "city": "Gandhidham",
       "url": "https://www.policybazaar.com/gold-rate/gandhidham/",
-      "fetched_at": "2026-11-14T04:08:32.501892+05:30",
+      "fetched_at": "2026-11-14T08:45:55.898157+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -3671,7 +3671,7 @@
       "metal": "Gold",
       "city": "Gandhinagar",
       "url": "https://www.policybazaar.com/gold-rate/gandhinagar/",
-      "fetched_at": "2026-11-14T04:08:33.186106+05:30",
+      "fetched_at": "2026-11-14T08:45:55.988899+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -3697,7 +3697,7 @@
       "metal": "Gold",
       "city": "Gaya",
       "url": "https://www.policybazaar.com/gold-rate/gaya/",
-      "fetched_at": "2026-11-14T04:08:33.326934+05:30",
+      "fetched_at": "2026-11-14T08:45:56.371854+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3723,7 +3723,7 @@
       "metal": "Gold",
       "city": "Giridih",
       "url": "https://www.policybazaar.com/gold-rate/giridih/",
-      "fetched_at": "2026-11-14T04:08:33.691808+05:30",
+      "fetched_at": "2026-11-14T08:45:57.039069+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3749,7 +3749,7 @@
       "metal": "Gold",
       "city": "Godhra",
       "url": "https://www.policybazaar.com/gold-rate/godhra/",
-      "fetched_at": "2026-11-14T04:08:34.200602+05:30",
+      "fetched_at": "2026-11-14T08:45:57.430749+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -3775,7 +3775,7 @@
       "metal": "Gold",
       "city": "Gorakhpur",
       "url": "https://www.policybazaar.com/gold-rate/gorakhpur/",
-      "fetched_at": "2026-11-14T04:08:35.275813+05:30",
+      "fetched_at": "2026-11-14T08:45:57.656549+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -3801,7 +3801,7 @@
       "metal": "Gold",
       "city": "Gudivada",
       "url": "https://www.policybazaar.com/gold-rate/gudivada/",
-      "fetched_at": "2026-11-14T04:08:35.513542+05:30",
+      "fetched_at": "2026-11-14T08:45:58.134933+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3827,7 +3827,7 @@
       "metal": "Gold",
       "city": "Guna",
       "url": "https://www.policybazaar.com/gold-rate/guna/",
-      "fetched_at": "2026-11-14T04:08:35.819129+05:30",
+      "fetched_at": "2026-11-14T08:45:59.052206+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -3853,7 +3853,7 @@
       "metal": "Gold",
       "city": "Guntakal",
       "url": "https://www.policybazaar.com/gold-rate/guntakal/",
-      "fetched_at": "2026-11-14T04:08:36.502353+05:30",
+      "fetched_at": "2026-11-14T08:45:59.239102+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3879,7 +3879,7 @@
       "metal": "Gold",
       "city": "Guntur",
       "url": "https://www.policybazaar.com/gold-rate/guntur/",
-      "fetched_at": "2026-11-14T04:08:37.601911+05:30",
+      "fetched_at": "2026-11-14T08:45:59.590933+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -3905,7 +3905,7 @@
       "metal": "Gold",
       "city": "Gurgaon",
       "url": "https://www.policybazaar.com/gold-rate/gurgaon/",
-      "fetched_at": "2026-11-14T04:08:37.709953+05:30",
+      "fetched_at": "2026-11-14T08:45:59.622462+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -3931,7 +3931,7 @@
       "metal": "Gold",
       "city": "Guwahati",
       "url": "https://www.policybazaar.com/gold-rate/guwahati/",
-      "fetched_at": "2026-11-14T04:08:37.968903+05:30",
+      "fetched_at": "2026-11-14T08:46:00.446156+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -3957,7 +3957,7 @@
       "metal": "Gold",
       "city": "Gwalior",
       "url": "https://www.policybazaar.com/gold-rate/gwalior/",
-      "fetched_at": "2026-11-14T04:08:38.356699+05:30",
+      "fetched_at": "2026-11-14T08:46:00.608991+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -3983,7 +3983,7 @@
       "metal": "Gold",
       "city": "Hanumangarh",
       "url": "https://www.policybazaar.com/gold-rate/hanumangarh/",
-      "fetched_at": "2026-11-14T04:08:38.802765+05:30",
+      "fetched_at": "2026-11-14T08:46:00.961485+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -4009,7 +4009,7 @@
       "metal": "Gold",
       "city": "Hassan",
       "url": "https://www.policybazaar.com/gold-rate/hassan/",
-      "fetched_at": "2026-11-14T04:08:38.892358+05:30",
+      "fetched_at": "2026-11-14T08:46:01.508555+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -4035,7 +4035,7 @@
       "metal": "Gold",
       "city": "Hindupur",
       "url": "https://www.policybazaar.com/gold-rate/hindupur/",
-      "fetched_at": "2026-11-14T04:08:39.120522+05:30",
+      "fetched_at": "2026-11-14T08:46:02.126841+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4061,7 +4061,7 @@
       "metal": "Gold",
       "city": "Hinganghat",
       "url": "https://www.policybazaar.com/gold-rate/hinganghat/",
-      "fetched_at": "2026-11-14T04:08:39.943864+05:30",
+      "fetched_at": "2026-11-14T08:46:02.957898+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4087,7 +4087,7 @@
       "metal": "Gold",
       "city": "Hisar",
       "url": "https://www.policybazaar.com/gold-rate/hisar/",
-      "fetched_at": "2026-11-14T04:08:40.091216+05:30",
+      "fetched_at": "2026-11-14T08:46:02.961783+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4113,7 +4113,7 @@
       "metal": "Gold",
       "city": "Hoshiarpur",
       "url": "https://www.policybazaar.com/gold-rate/hoshiarpur/",
-      "fetched_at": "2026-11-14T04:08:40.761028+05:30",
+      "fetched_at": "2026-11-14T08:46:03.666142+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4139,7 +4139,7 @@
       "metal": "Gold",
       "city": "Hospet",
       "url": "https://www.policybazaar.com/gold-rate/hospet/",
-      "fetched_at": "2026-11-14T04:08:40.886072+05:30",
+      "fetched_at": "2026-11-14T08:46:03.697743+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -4165,7 +4165,7 @@
       "metal": "Gold",
       "city": "Hosur",
       "url": "https://www.policybazaar.com/gold-rate/hosur/",
-      "fetched_at": "2026-11-14T04:08:41.926078+05:30",
+      "fetched_at": "2026-11-14T08:46:04.503844+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4191,7 +4191,7 @@
       "metal": "Gold",
       "city": "Ichalkaranji",
       "url": "https://www.policybazaar.com/gold-rate/ichalkaranji/",
-      "fetched_at": "2026-11-14T04:08:42.082061+05:30",
+      "fetched_at": "2026-11-14T08:46:04.555700+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4217,7 +4217,7 @@
       "metal": "Gold",
       "city": "Imphal",
       "url": "https://www.policybazaar.com/gold-rate/imphal/",
-      "fetched_at": "2026-11-14T04:08:42.223826+05:30",
+      "fetched_at": "2026-11-14T08:46:04.821084+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -4243,7 +4243,7 @@
       "metal": "Gold",
       "city": "Indore",
       "url": "https://www.policybazaar.com/gold-rate/indore/",
-      "fetched_at": "2026-11-14T04:08:43.318714+05:30",
+      "fetched_at": "2026-11-14T08:46:05.191525+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4269,7 +4269,7 @@
       "metal": "Gold",
       "city": "Jabalpur",
       "url": "https://www.policybazaar.com/gold-rate/jabalpur/",
-      "fetched_at": "2026-11-14T04:08:43.609754+05:30",
+      "fetched_at": "2026-11-14T08:46:05.808151+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4295,7 +4295,7 @@
       "metal": "Gold",
       "city": "Jagdalpur",
       "url": "https://www.policybazaar.com/gold-rate/jagdalpur/",
-      "fetched_at": "2026-11-14T04:08:44.021318+05:30",
+      "fetched_at": "2026-11-14T08:46:06.165704+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4321,7 +4321,7 @@
       "metal": "Gold",
       "city": "Jaipur",
       "url": "https://www.policybazaar.com/gold-rate/jaipur/",
-      "fetched_at": "2026-11-14T04:08:44.298650+05:30",
+      "fetched_at": "2026-11-14T08:46:06.212361+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -4347,7 +4347,7 @@
       "metal": "Gold",
       "city": "Jalandhar",
       "url": "https://www.policybazaar.com/gold-rate/jalandhar/",
-      "fetched_at": "2026-11-14T04:08:45.026036+05:30",
+      "fetched_at": "2026-11-14T08:46:07.351653+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4373,7 +4373,7 @@
       "metal": "Gold",
       "city": "Jalgaon",
       "url": "https://www.policybazaar.com/gold-rate/jalgaon/",
-      "fetched_at": "2026-11-14T04:08:45.270458+05:30",
+      "fetched_at": "2026-11-14T08:46:07.390543+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4399,7 +4399,7 @@
       "metal": "Gold",
       "city": "Jalna",
       "url": "https://www.policybazaar.com/gold-rate/jalna/",
-      "fetched_at": "2026-11-14T04:08:45.825413+05:30",
+      "fetched_at": "2026-11-14T08:46:07.801407+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4425,7 +4425,7 @@
       "metal": "Gold",
       "city": "Jalpaiguri",
       "url": "https://www.policybazaar.com/gold-rate/jalpaiguri/",
-      "fetched_at": "2026-11-14T04:08:46.380116+05:30",
+      "fetched_at": "2026-11-14T08:46:08.632517+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -4451,7 +4451,7 @@
       "metal": "Gold",
       "city": "Jammu",
       "url": "https://www.policybazaar.com/gold-rate/jammu/",
-      "fetched_at": "2026-11-14T04:08:46.560184+05:30",
+      "fetched_at": "2026-11-14T08:46:09.585975+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4477,7 +4477,7 @@
       "metal": "Gold",
       "city": "Jamnagar",
       "url": "https://www.policybazaar.com/gold-rate/jamnagar/",
-      "fetched_at": "2026-11-14T04:08:46.730532+05:30",
+      "fetched_at": "2026-11-14T08:46:09.610110+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -4503,7 +4503,7 @@
       "metal": "Gold",
       "city": "Jamshedpur",
       "url": "https://www.policybazaar.com/gold-rate/jamshedpur/",
-      "fetched_at": "2026-11-14T04:08:47.524708+05:30",
+      "fetched_at": "2026-11-14T08:46:09.786051+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -4529,7 +4529,7 @@
       "metal": "Gold",
       "city": "Jhansi",
       "url": "https://www.policybazaar.com/gold-rate/jhansi/",
-      "fetched_at": "2026-11-14T04:08:47.671999+05:30",
+      "fetched_at": "2026-11-14T08:46:09.862751+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4555,7 +4555,7 @@
       "metal": "Gold",
       "city": "Jind",
       "url": "https://www.policybazaar.com/gold-rate/jind/",
-      "fetched_at": "2026-11-14T04:08:48.224187+05:30",
+      "fetched_at": "2026-11-14T08:46:11.451432+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4581,7 +4581,7 @@
       "metal": "Gold",
       "city": "Jodhpur",
       "url": "https://www.policybazaar.com/gold-rate/jodhpur/",
-      "fetched_at": "2026-11-14T04:08:48.328055+05:30",
+      "fetched_at": "2026-11-14T08:46:11.647537+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -4607,7 +4607,7 @@
       "metal": "Gold",
       "city": "Junagadh",
       "url": "https://www.policybazaar.com/gold-rate/junagadh/",
-      "fetched_at": "2026-11-14T04:08:48.741519+05:30",
+      "fetched_at": "2026-11-14T08:46:11.844021+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -4633,7 +4633,7 @@
       "metal": "Gold",
       "city": "Kadapa",
       "url": "https://www.policybazaar.com/gold-rate/kadapa/",
-      "fetched_at": "2026-11-14T04:08:48.899255+05:30",
+      "fetched_at": "2026-11-14T08:46:11.878889+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4659,7 +4659,7 @@
       "metal": "Gold",
       "city": "Kaithal",
       "url": "https://www.policybazaar.com/gold-rate/kaithal/",
-      "fetched_at": "2026-11-14T04:08:49.239949+05:30",
+      "fetched_at": "2026-11-14T08:46:13.368228+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4685,7 +4685,7 @@
       "metal": "Gold",
       "city": "Kakinada",
       "url": "https://www.policybazaar.com/gold-rate/kakinada/",
-      "fetched_at": "2026-11-14T04:08:49.547448+05:30",
+      "fetched_at": "2026-11-14T08:46:13.505243+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4711,7 +4711,7 @@
       "metal": "Gold",
       "city": "Kanpur",
       "url": "https://www.policybazaar.com/gold-rate/kanpur/",
-      "fetched_at": "2026-11-14T04:08:50.199604+05:30",
+      "fetched_at": "2026-11-14T08:46:13.876283+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4737,7 +4737,7 @@
       "metal": "Gold",
       "city": "Karimnagar",
       "url": "https://www.policybazaar.com/gold-rate/karimnagar/",
-      "fetched_at": "2026-11-14T04:08:50.260430+05:30",
+      "fetched_at": "2026-11-14T08:46:14.178442+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4763,7 +4763,7 @@
       "metal": "Gold",
       "city": "Karnal",
       "url": "https://www.policybazaar.com/gold-rate/karnal/",
-      "fetched_at": "2026-11-14T04:08:50.742325+05:30",
+      "fetched_at": "2026-11-14T08:46:15.051467+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4789,7 +4789,7 @@
       "metal": "Gold",
       "city": "Khammam",
       "url": "https://www.policybazaar.com/gold-rate/khammam/",
-      "fetched_at": "2026-11-14T04:08:51.927570+05:30",
+      "fetched_at": "2026-11-14T08:46:15.370205+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4815,7 +4815,7 @@
       "metal": "Gold",
       "city": "Khandwa",
       "url": "https://www.policybazaar.com/gold-rate/khandwa/",
-      "fetched_at": "2026-11-14T04:08:51.944240+05:30",
+      "fetched_at": "2026-11-14T08:46:15.917050+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4841,7 +4841,7 @@
       "metal": "Gold",
       "city": "Khanna",
       "url": "https://www.policybazaar.com/gold-rate/khanna/",
-      "fetched_at": "2026-11-14T04:08:52.340411+05:30",
+      "fetched_at": "2026-11-14T08:46:15.948405+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -4867,7 +4867,7 @@
       "metal": "Gold",
       "city": "Kharagpur",
       "url": "https://www.policybazaar.com/gold-rate/kharagpur/",
-      "fetched_at": "2026-11-14T04:08:52.380974+05:30",
+      "fetched_at": "2026-11-14T08:46:16.377644+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -4893,7 +4893,7 @@
       "metal": "Gold",
       "city": "Khargone",
       "url": "https://www.policybazaar.com/gold-rate/khargone/",
-      "fetched_at": "2026-11-14T04:08:53.254377+05:30",
+      "fetched_at": "2026-11-14T08:46:17.521401+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4919,7 +4919,7 @@
       "metal": "Gold",
       "city": "Kochi",
       "url": "https://www.policybazaar.com/gold-rate/kochi/",
-      "fetched_at": "2026-11-14T04:08:53.699605+05:30",
+      "fetched_at": "2026-11-14T08:46:17.740581+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -4945,7 +4945,7 @@
       "metal": "Gold",
       "city": "Kolar",
       "url": "https://www.policybazaar.com/gold-rate/kolar/",
-      "fetched_at": "2026-11-14T04:08:54.224907+05:30",
+      "fetched_at": "2026-11-14T08:46:17.764507+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -4971,7 +4971,7 @@
       "metal": "Gold",
       "city": "Kolhapur",
       "url": "https://www.policybazaar.com/gold-rate/kolhapur/",
-      "fetched_at": "2026-11-14T04:08:54.447025+05:30",
+      "fetched_at": "2026-11-14T08:46:18.228830+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -4997,7 +4997,7 @@
       "metal": "Gold",
       "city": "Kolkata",
       "url": "https://www.policybazaar.com/gold-rate/kolkata/",
-      "fetched_at": "2026-11-14T04:08:54.977809+05:30",
+      "fetched_at": "2026-11-14T08:46:19.143443+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -5023,7 +5023,7 @@
       "metal": "Gold",
       "city": "Kollam",
       "url": "https://www.policybazaar.com/gold-rate/kollam/",
-      "fetched_at": "2026-11-14T04:08:55.807258+05:30",
+      "fetched_at": "2026-11-14T08:46:19.211324+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5049,7 +5049,7 @@
       "metal": "Gold",
       "city": "Korba",
       "url": "https://www.policybazaar.com/gold-rate/korba/",
-      "fetched_at": "2026-11-14T04:08:55.853271+05:30",
+      "fetched_at": "2026-11-14T08:46:19.378044+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5075,7 +5075,7 @@
       "metal": "Gold",
       "city": "Kota",
       "url": "https://www.policybazaar.com/gold-rate/kota/",
-      "fetched_at": "2026-11-14T04:08:55.909347+05:30",
+      "fetched_at": "2026-11-14T08:46:20.150999+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -5101,7 +5101,7 @@
       "metal": "Gold",
       "city": "Kozhikode",
       "url": "https://www.policybazaar.com/gold-rate/kozhikode/",
-      "fetched_at": "2026-11-14T04:08:57.137324+05:30",
+      "fetched_at": "2026-11-14T08:46:20.422080+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5127,7 +5127,7 @@
       "metal": "Gold",
       "city": "Kumbakonam",
       "url": "https://www.policybazaar.com/gold-rate/kumbakonam/",
-      "fetched_at": "2026-11-14T04:08:57.197301+05:30",
+      "fetched_at": "2026-11-14T08:46:21.297583+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5153,7 +5153,7 @@
       "metal": "Gold",
       "city": "Kurnool",
       "url": "https://www.policybazaar.com/gold-rate/kurnool/",
-      "fetched_at": "2026-11-14T04:08:58.078681+05:30",
+      "fetched_at": "2026-11-14T08:46:21.668784+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5179,7 +5179,7 @@
       "metal": "Gold",
       "city": "Latur",
       "url": "https://www.policybazaar.com/gold-rate/latur/",
-      "fetched_at": "2026-11-14T04:08:58.247223+05:30",
+      "fetched_at": "2026-11-14T08:46:21.671672+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5205,7 +5205,7 @@
       "metal": "Gold",
       "city": "Lucknow",
       "url": "https://www.policybazaar.com/gold-rate/lucknow/",
-      "fetched_at": "2026-11-14T04:08:58.315236+05:30",
+      "fetched_at": "2026-11-14T08:46:22.260331+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5231,7 +5231,7 @@
       "metal": "Gold",
       "city": "Ludhiana",
       "url": "https://www.policybazaar.com/gold-rate/ludhiana/",
-      "fetched_at": "2026-11-14T04:08:59.382371+05:30",
+      "fetched_at": "2026-11-14T08:46:22.443877+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5257,7 +5257,7 @@
       "metal": "Gold",
       "city": "Machilipatnam",
       "url": "https://www.policybazaar.com/gold-rate/machilipatnam/",
-      "fetched_at": "2026-11-14T04:08:59.570396+05:30",
+      "fetched_at": "2026-11-14T08:46:22.783323+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5283,7 +5283,7 @@
       "metal": "Gold",
       "city": "Madanapalle",
       "url": "https://www.policybazaar.com/gold-rate/madanapalle/",
-      "fetched_at": "2026-11-14T04:09:00.365044+05:30",
+      "fetched_at": "2026-11-14T08:46:23.035323+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5309,7 +5309,7 @@
       "metal": "Gold",
       "city": "Madurai",
       "url": "https://www.policybazaar.com/gold-rate/madurai/",
-      "fetched_at": "2026-11-14T04:09:00.717705+05:30",
+      "fetched_at": "2026-11-14T08:46:23.496642+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5335,7 +5335,7 @@
       "metal": "Gold",
       "city": "Maheshtala",
       "url": "https://www.policybazaar.com/gold-rate/maheshtala/",
-      "fetched_at": "2026-11-14T04:09:01.437466+05:30",
+      "fetched_at": "2026-11-14T08:46:24.501745+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -5361,7 +5361,7 @@
       "metal": "Gold",
       "city": "Malegaon",
       "url": "https://www.policybazaar.com/gold-rate/malegaon/",
-      "fetched_at": "2026-11-14T04:09:01.671904+05:30",
+      "fetched_at": "2026-11-14T08:46:24.681710+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5387,7 +5387,7 @@
       "metal": "Gold",
       "city": "Malerkotla",
       "url": "https://www.policybazaar.com/gold-rate/malerkotla/",
-      "fetched_at": "2026-11-14T04:09:01.729831+05:30",
+      "fetched_at": "2026-11-14T08:46:24.796074+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5413,7 +5413,7 @@
       "metal": "Gold",
       "city": "Mandsaur",
       "url": "https://www.policybazaar.com/gold-rate/mandsaur/",
-      "fetched_at": "2026-11-14T04:09:02.551414+05:30",
+      "fetched_at": "2026-11-14T08:46:25.966842+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5439,7 +5439,7 @@
       "metal": "Gold",
       "city": "Mandya",
       "url": "https://www.policybazaar.com/gold-rate/mandya/",
-      "fetched_at": "2026-11-14T04:09:02.909390+05:30",
+      "fetched_at": "2026-11-14T08:46:26.424495+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -5465,7 +5465,7 @@
       "metal": "Gold",
       "city": "Mangalore",
       "url": "https://www.policybazaar.com/gold-rate/mangalore/",
-      "fetched_at": "2026-11-14T04:09:03.009580+05:30",
+      "fetched_at": "2026-11-14T08:46:26.436659+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -5491,7 +5491,7 @@
       "metal": "Gold",
       "city": "Mathura",
       "url": "https://www.policybazaar.com/gold-rate/mathura/",
-      "fetched_at": "2026-11-14T04:09:03.166238+05:30",
+      "fetched_at": "2026-11-14T08:46:27.170379+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5517,7 +5517,7 @@
       "metal": "Gold",
       "city": "Meerut",
       "url": "https://www.policybazaar.com/gold-rate/meerut/",
-      "fetched_at": "2026-11-14T04:09:03.922053+05:30",
+      "fetched_at": "2026-11-14T08:46:27.223249+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5543,7 +5543,7 @@
       "metal": "Gold",
       "city": "Miryalaguda",
       "url": "https://www.policybazaar.com/gold-rate/miryalaguda/",
-      "fetched_at": "2026-11-14T04:09:04.454510+05:30",
+      "fetched_at": "2026-11-14T08:46:28.019137+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5569,7 +5569,7 @@
       "metal": "Gold",
       "city": "Moga",
       "url": "https://www.policybazaar.com/gold-rate/moga/",
-      "fetched_at": "2026-11-14T04:09:05.037539+05:30",
+      "fetched_at": "2026-11-14T08:46:28.479248+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5595,7 +5595,7 @@
       "metal": "Gold",
       "city": "Moradabad",
       "url": "https://www.policybazaar.com/gold-rate/moradabad/",
-      "fetched_at": "2026-11-14T04:09:05.239045+05:30",
+      "fetched_at": "2026-11-14T08:46:29.117868+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5621,7 +5621,7 @@
       "metal": "Gold",
       "city": "Morena",
       "url": "https://www.policybazaar.com/gold-rate/morena/",
-      "fetched_at": "2026-11-14T04:09:05.418922+05:30",
+      "fetched_at": "2026-11-14T08:46:29.169484+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5647,7 +5647,7 @@
       "metal": "Gold",
       "city": "Murwara",
       "url": "https://www.policybazaar.com/gold-rate/murwara/",
-      "fetched_at": "2026-11-14T04:09:05.758624+05:30",
+      "fetched_at": "2026-11-14T08:46:29.786154+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5673,7 +5673,7 @@
       "metal": "Gold",
       "city": "Muzaffarnagar",
       "url": "https://www.policybazaar.com/gold-rate/muzaffarnagar/",
-      "fetched_at": "2026-11-14T04:09:06.760963+05:30",
+      "fetched_at": "2026-11-14T08:46:29.875841+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -5699,7 +5699,7 @@
       "metal": "Gold",
       "city": "Muzaffarpur",
       "url": "https://www.policybazaar.com/gold-rate/muzaffarpur/",
-      "fetched_at": "2026-11-14T04:09:07.091155+05:30",
+      "fetched_at": "2026-11-14T08:46:31.471983+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -5725,7 +5725,7 @@
       "metal": "Gold",
       "city": "Mysore",
       "url": "https://www.policybazaar.com/gold-rate/mysore/",
-      "fetched_at": "2026-11-14T04:09:07.318023+05:30",
+      "fetched_at": "2026-11-14T08:46:31.477031+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -5751,7 +5751,7 @@
       "metal": "Gold",
       "city": "Nadiad",
       "url": "https://www.policybazaar.com/gold-rate/nadiad/",
-      "fetched_at": "2026-11-14T04:09:07.591013+05:30",
+      "fetched_at": "2026-11-14T08:46:31.610428+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -5777,7 +5777,7 @@
       "metal": "Gold",
       "city": "Nagapattinam",
       "url": "https://www.policybazaar.com/gold-rate/nagapattinam/",
-      "fetched_at": "2026-11-14T04:09:08.499846+05:30",
+      "fetched_at": "2026-11-14T08:46:31.639488+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5803,7 +5803,7 @@
       "metal": "Gold",
       "city": "Nagercoil",
       "url": "https://www.policybazaar.com/gold-rate/nagercoil/",
-      "fetched_at": "2026-11-14T04:09:08.731045+05:30",
+      "fetched_at": "2026-11-14T08:46:32.877592+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5829,7 +5829,7 @@
       "metal": "Gold",
       "city": "Nagpur",
       "url": "https://www.policybazaar.com/gold-rate/nagpur/",
-      "fetched_at": "2026-11-14T04:09:08.890942+05:30",
+      "fetched_at": "2026-11-14T08:46:33.548804+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5855,7 +5855,7 @@
       "metal": "Gold",
       "city": "Nalgonda",
       "url": "https://www.policybazaar.com/gold-rate/nalgonda/",
-      "fetched_at": "2026-11-14T04:09:09.113078+05:30",
+      "fetched_at": "2026-11-14T08:46:33.662934+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5881,7 +5881,7 @@
       "metal": "Gold",
       "city": "Nandurbar",
       "url": "https://www.policybazaar.com/gold-rate/nandurbar/",
-      "fetched_at": "2026-11-14T04:09:09.824961+05:30",
+      "fetched_at": "2026-11-14T08:46:34.024483+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5907,7 +5907,7 @@
       "metal": "Gold",
       "city": "Nandyal",
       "url": "https://www.policybazaar.com/gold-rate/nandyal/",
-      "fetched_at": "2026-11-14T04:09:10.302678+05:30",
+      "fetched_at": "2026-11-14T08:46:34.191878+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -5933,7 +5933,7 @@
       "metal": "Gold",
       "city": "Nashik",
       "url": "https://www.policybazaar.com/gold-rate/nashik/",
-      "fetched_at": "2026-11-14T04:09:10.772620+05:30",
+      "fetched_at": "2026-11-14T08:46:35.838985+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -5959,7 +5959,7 @@
       "metal": "Gold",
       "city": "Navsari",
       "url": "https://www.policybazaar.com/gold-rate/navsari/",
-      "fetched_at": "2026-11-14T04:09:10.783117+05:30",
+      "fetched_at": "2026-11-14T08:46:35.935099+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -5985,7 +5985,7 @@
       "metal": "Gold",
       "city": "Neemuch",
       "url": "https://www.policybazaar.com/gold-rate/neemuch/",
-      "fetched_at": "2026-11-14T04:09:11.379287+05:30",
+      "fetched_at": "2026-11-14T08:46:36.084575+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6011,7 +6011,7 @@
       "metal": "Gold",
       "city": "Nellore",
       "url": "https://www.policybazaar.com/gold-rate/nellore/",
-      "fetched_at": "2026-11-14T04:09:12.030933+05:30",
+      "fetched_at": "2026-11-14T08:46:36.147372+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6037,7 +6037,7 @@
       "metal": "Gold",
       "city": "Neyveli",
       "url": "https://www.policybazaar.com/gold-rate/neyveli/",
-      "fetched_at": "2026-11-14T04:09:12.291159+05:30",
+      "fetched_at": "2026-11-14T08:46:36.858166+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6063,7 +6063,7 @@
       "metal": "Gold",
       "city": "Nizamabad",
       "url": "https://www.policybazaar.com/gold-rate/nizamabad/",
-      "fetched_at": "2026-11-14T04:09:12.818601+05:30",
+      "fetched_at": "2026-11-14T08:46:37.251134+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6089,7 +6089,7 @@
       "metal": "Gold",
       "city": "Noida",
       "url": "https://www.policybazaar.com/gold-rate/noida/",
-      "fetched_at": "2026-11-14T04:09:13.313217+05:30",
+      "fetched_at": "2026-11-14T08:46:37.571565+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6115,7 +6115,7 @@
       "metal": "Gold",
       "city": "Ongole",
       "url": "https://www.policybazaar.com/gold-rate/ongole/",
-      "fetched_at": "2026-11-14T04:09:13.833624+05:30",
+      "fetched_at": "2026-11-14T08:46:38.323440+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6141,7 +6141,7 @@
       "metal": "Gold",
       "city": "Osmanabad",
       "url": "https://www.policybazaar.com/gold-rate/osmanabad/",
-      "fetched_at": "2026-11-14T04:09:13.859228+05:30",
+      "fetched_at": "2026-11-14T08:46:38.395702+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6167,7 +6167,7 @@
       "metal": "Gold",
       "city": "Palanpur",
       "url": "https://www.policybazaar.com/gold-rate/palanpur/",
-      "fetched_at": "2026-11-14T04:09:15.309418+05:30",
+      "fetched_at": "2026-11-14T08:46:38.479413+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -6193,7 +6193,7 @@
       "metal": "Gold",
       "city": "Palwal",
       "url": "https://www.policybazaar.com/gold-rate/palwal/",
-      "fetched_at": "2026-11-14T04:09:15.645604+05:30",
+      "fetched_at": "2026-11-14T08:46:39.444869+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6219,7 +6219,7 @@
       "metal": "Gold",
       "city": "Panchkula",
       "url": "https://www.policybazaar.com/gold-rate/panchkula/",
-      "fetched_at": "2026-11-14T04:09:15.688941+05:30",
+      "fetched_at": "2026-11-14T08:46:39.883517+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6245,7 +6245,7 @@
       "metal": "Gold",
       "city": "Panipat",
       "url": "https://www.policybazaar.com/gold-rate/panipat/",
-      "fetched_at": "2026-11-14T04:09:16.238091+05:30",
+      "fetched_at": "2026-11-14T08:46:39.957088+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6271,7 +6271,7 @@
       "metal": "Gold",
       "city": "Panvel",
       "url": "https://www.policybazaar.com/gold-rate/panvel/",
-      "fetched_at": "2026-11-14T04:09:17.731097+05:30",
+      "fetched_at": "2026-11-14T08:46:40.007376+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6297,7 +6297,7 @@
       "metal": "Gold",
       "city": "Parbhani",
       "url": "https://www.policybazaar.com/gold-rate/parbhani/",
-      "fetched_at": "2026-11-14T04:09:17.878111+05:30",
+      "fetched_at": "2026-11-14T08:46:40.978940+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6323,7 +6323,7 @@
       "metal": "Gold",
       "city": "Patan",
       "url": "https://www.policybazaar.com/gold-rate/patan/",
-      "fetched_at": "2026-11-14T04:09:18.050749+05:30",
+      "fetched_at": "2026-11-14T08:46:41.103454+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -6349,7 +6349,7 @@
       "metal": "Gold",
       "city": "Pathankot",
       "url": "https://www.policybazaar.com/gold-rate/pathankot/",
-      "fetched_at": "2026-11-14T04:09:18.213705+05:30",
+      "fetched_at": "2026-11-14T08:46:41.388115+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6375,7 +6375,7 @@
       "metal": "Gold",
       "city": "Patiala",
       "url": "https://www.policybazaar.com/gold-rate/patiala/",
-      "fetched_at": "2026-11-14T04:09:19.259110+05:30",
+      "fetched_at": "2026-11-14T08:46:42.287451+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6401,7 +6401,7 @@
       "metal": "Gold",
       "city": "Patna",
       "url": "https://www.policybazaar.com/gold-rate/patna/",
-      "fetched_at": "2026-11-14T04:09:19.464367+05:30",
+      "fetched_at": "2026-11-14T08:46:42.820212+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -6427,7 +6427,7 @@
       "metal": "Gold",
       "city": "Porbandar",
       "url": "https://www.policybazaar.com/gold-rate/porbandar/",
-      "fetched_at": "2026-11-14T04:09:19.779063+05:30",
+      "fetched_at": "2026-11-14T08:46:43.470726+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -6453,7 +6453,7 @@
       "metal": "Gold",
       "city": "Proddatur",
       "url": "https://www.policybazaar.com/gold-rate/proddatur/",
-      "fetched_at": "2026-11-14T04:09:20.499479+05:30",
+      "fetched_at": "2026-11-14T08:46:43.487064+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6479,7 +6479,7 @@
       "metal": "Gold",
       "city": "Pudukkottai",
       "url": "https://www.policybazaar.com/gold-rate/pudukkottai/",
-      "fetched_at": "2026-11-14T04:09:21.053577+05:30",
+      "fetched_at": "2026-11-14T08:46:43.671776+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6505,7 +6505,7 @@
       "metal": "Gold",
       "city": "Pune",
       "url": "https://www.policybazaar.com/gold-rate/pune/",
-      "fetched_at": "2026-11-14T04:09:21.243265+05:30",
+      "fetched_at": "2026-11-14T08:46:44.690512+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6531,7 +6531,7 @@
       "metal": "Gold",
       "city": "Puri",
       "url": "https://www.policybazaar.com/gold-rate/puri/",
-      "fetched_at": "2026-11-14T04:09:21.579004+05:30",
+      "fetched_at": "2026-11-14T08:46:45.091059+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -6557,7 +6557,7 @@
       "metal": "Gold",
       "city": "Purnia",
       "url": "https://www.policybazaar.com/gold-rate/purnia/",
-      "fetched_at": "2026-11-14T04:09:22.683269+05:30",
+      "fetched_at": "2026-11-14T08:46:45.586772+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -6583,7 +6583,7 @@
       "metal": "Gold",
       "city": "Raichur",
       "url": "https://www.policybazaar.com/gold-rate/raichur/",
-      "fetched_at": "2026-11-14T04:09:22.879345+05:30",
+      "fetched_at": "2026-11-14T08:46:45.713966+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -6609,7 +6609,7 @@
       "metal": "Gold",
       "city": "Raiganj",
       "url": "https://www.policybazaar.com/gold-rate/raiganj/",
-      "fetched_at": "2026-11-14T04:09:23.328998+05:30",
+      "fetched_at": "2026-11-14T08:46:46.252030+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -6635,7 +6635,7 @@
       "metal": "Gold",
       "city": "Raigarh",
       "url": "https://www.policybazaar.com/gold-rate/raigarh/",
-      "fetched_at": "2026-11-14T04:09:23.933533+05:30",
+      "fetched_at": "2026-11-14T08:46:46.690685+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6661,7 +6661,7 @@
       "metal": "Gold",
       "city": "Raipur",
       "url": "https://www.policybazaar.com/gold-rate/raipur/",
-      "fetched_at": "2026-11-14T04:09:24.779081+05:30",
+      "fetched_at": "2026-11-14T08:46:46.974934+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6687,7 +6687,7 @@
       "metal": "Gold",
       "city": "Rajahmundry",
       "url": "https://www.policybazaar.com/gold-rate/rajahmundry/",
-      "fetched_at": "2026-11-14T04:09:24.838155+05:30",
+      "fetched_at": "2026-11-14T08:46:47.339413+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6713,7 +6713,7 @@
       "metal": "Gold",
       "city": "Rajapalayam",
       "url": "https://www.policybazaar.com/gold-rate/rajapalayam/",
-      "fetched_at": "2026-11-14T04:09:25.343029+05:30",
+      "fetched_at": "2026-11-14T08:46:48.255890+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6739,7 +6739,7 @@
       "metal": "Gold",
       "city": "Rajkot",
       "url": "https://www.policybazaar.com/gold-rate/rajkot/",
-      "fetched_at": "2026-11-14T04:09:25.891289+05:30",
+      "fetched_at": "2026-11-14T08:46:48.818133+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -6765,7 +6765,7 @@
       "metal": "Gold",
       "city": "Rajnandgaon",
       "url": "https://www.policybazaar.com/gold-rate/rajnandgaon/",
-      "fetched_at": "2026-11-14T04:09:26.301881+05:30",
+      "fetched_at": "2026-11-14T08:46:49.064241+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6791,7 +6791,7 @@
       "metal": "Gold",
       "city": "Ramagundam",
       "url": "https://www.policybazaar.com/gold-rate/ramagundam/",
-      "fetched_at": "2026-11-14T04:09:26.379006+05:30",
+      "fetched_at": "2026-11-14T08:46:49.278437+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -6817,7 +6817,7 @@
       "metal": "Gold",
       "city": "Rampur",
       "url": "https://www.policybazaar.com/gold-rate/rampur/",
-      "fetched_at": "2026-11-14T04:09:26.967977+05:30",
+      "fetched_at": "2026-11-14T08:46:50.102920+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6843,7 +6843,7 @@
       "metal": "Gold",
       "city": "Ranchi",
       "url": "https://www.policybazaar.com/gold-rate/ranchi/",
-      "fetched_at": "2026-11-14T04:09:27.987135+05:30",
+      "fetched_at": "2026-11-14T08:46:50.431830+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -6869,7 +6869,7 @@
       "metal": "Gold",
       "city": "Ratlam",
       "url": "https://www.policybazaar.com/gold-rate/ratlam/",
-      "fetched_at": "2026-11-14T04:09:28.470342+05:30",
+      "fetched_at": "2026-11-14T08:46:51.094187+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6895,7 +6895,7 @@
       "metal": "Gold",
       "city": "Rewa",
       "url": "https://www.policybazaar.com/gold-rate/rewa/",
-      "fetched_at": "2026-11-14T04:09:28.497123+05:30",
+      "fetched_at": "2026-11-14T08:46:51.151079+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -6921,7 +6921,7 @@
       "metal": "Gold",
       "city": "Rewari",
       "url": "https://www.policybazaar.com/gold-rate/rewari/",
-      "fetched_at": "2026-11-14T04:09:29.348952+05:30",
+      "fetched_at": "2026-11-14T08:46:51.461829+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6947,7 +6947,7 @@
       "metal": "Gold",
       "city": "Rohtak",
       "url": "https://www.policybazaar.com/gold-rate/rohtak/",
-      "fetched_at": "2026-11-14T04:09:29.426810+05:30",
+      "fetched_at": "2026-11-14T08:46:51.911319+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6973,7 +6973,7 @@
       "metal": "Gold",
       "city": "Roorkee",
       "url": "https://www.policybazaar.com/gold-rate/roorkee/",
-      "fetched_at": "2026-11-14T04:09:29.857025+05:30",
+      "fetched_at": "2026-11-14T08:46:52.472346+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -6999,7 +6999,7 @@
       "metal": "Gold",
       "city": "Sagar",
       "url": "https://www.policybazaar.com/gold-rate/sagar/",
-      "fetched_at": "2026-11-14T04:09:30.184224+05:30",
+      "fetched_at": "2026-11-14T08:46:52.681036+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7025,7 +7025,7 @@
       "metal": "Gold",
       "city": "Saharanpur",
       "url": "https://www.policybazaar.com/gold-rate/saharanpur/",
-      "fetched_at": "2026-11-14T04:09:30.999886+05:30",
+      "fetched_at": "2026-11-14T08:46:53.123408+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -7051,7 +7051,7 @@
       "metal": "Gold",
       "city": "Salem",
       "url": "https://www.policybazaar.com/gold-rate/salem/",
-      "fetched_at": "2026-11-14T04:09:31.174365+05:30",
+      "fetched_at": "2026-11-14T08:46:53.414168+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7077,7 +7077,7 @@
       "metal": "Gold",
       "city": "Sambalpur",
       "url": "https://www.policybazaar.com/gold-rate/sambalpur/",
-      "fetched_at": "2026-11-14T04:09:31.621988+05:30",
+      "fetched_at": "2026-11-14T08:46:54.045093+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -7103,7 +7103,7 @@
       "metal": "Gold",
       "city": "Satara",
       "url": "https://www.policybazaar.com/gold-rate/satara/",
-      "fetched_at": "2026-11-14T04:09:32.110908+05:30",
+      "fetched_at": "2026-11-14T08:46:54.740824+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7129,7 +7129,7 @@
       "metal": "Gold",
       "city": "Satna",
       "url": "https://www.policybazaar.com/gold-rate/satna/",
-      "fetched_at": "2026-11-14T04:09:32.422554+05:30",
+      "fetched_at": "2026-11-14T08:46:55.528182+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7155,7 +7155,7 @@
       "metal": "Gold",
       "city": "Seoni",
       "url": "https://www.policybazaar.com/gold-rate/seoni/",
-      "fetched_at": "2026-11-14T04:09:32.770385+05:30",
+      "fetched_at": "2026-11-14T08:46:55.555265+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7181,7 +7181,7 @@
       "metal": "Gold",
       "city": "Shillong",
       "url": "https://www.policybazaar.com/gold-rate/shillong/",
-      "fetched_at": "2026-11-14T04:09:33.518553+05:30",
+      "fetched_at": "2026-11-14T08:46:56.116906+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -7207,7 +7207,7 @@
       "metal": "Gold",
       "city": "Shimla",
       "url": "https://www.policybazaar.com/gold-rate/shimla/",
-      "fetched_at": "2026-11-14T04:09:33.585933+05:30",
+      "fetched_at": "2026-11-14T08:46:56.703104+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -7233,7 +7233,7 @@
       "metal": "Gold",
       "city": "Shimoga",
       "url": "https://www.policybazaar.com/gold-rate/shimoga/",
-      "fetched_at": "2026-11-14T04:09:34.061445+05:30",
+      "fetched_at": "2026-11-14T08:46:57.006152+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -7259,7 +7259,7 @@
       "metal": "Gold",
       "city": "Sikar",
       "url": "https://www.policybazaar.com/gold-rate/sikar/",
-      "fetched_at": "2026-11-14T04:09:34.863877+05:30",
+      "fetched_at": "2026-11-14T08:46:57.167880+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -7285,7 +7285,7 @@
       "metal": "Gold",
       "city": "Silchar",
       "url": "https://www.policybazaar.com/gold-rate/silchar/",
-      "fetched_at": "2026-11-14T04:09:35.306932+05:30",
+      "fetched_at": "2026-11-14T08:46:57.476594+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -7311,7 +7311,7 @@
       "metal": "Gold",
       "city": "Siliguri",
       "url": "https://www.policybazaar.com/gold-rate/siliguri/",
-      "fetched_at": "2026-11-14T04:09:36.038242+05:30",
+      "fetched_at": "2026-11-14T08:46:58.533919+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -7337,7 +7337,7 @@
       "metal": "Gold",
       "city": "Singrauli",
       "url": "https://www.policybazaar.com/gold-rate/singrauli/",
-      "fetched_at": "2026-11-14T04:09:36.066452+05:30",
+      "fetched_at": "2026-11-14T08:46:58.550199+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7363,7 +7363,7 @@
       "metal": "Gold",
       "city": "Sirsa",
       "url": "https://www.policybazaar.com/gold-rate/sirsa/",
-      "fetched_at": "2026-11-14T04:09:36.533454+05:30",
+      "fetched_at": "2026-11-14T08:46:58.665178+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -7389,7 +7389,7 @@
       "metal": "Gold",
       "city": "Solapur",
       "url": "https://www.policybazaar.com/gold-rate/solapur/",
-      "fetched_at": "2026-11-14T04:09:37.223947+05:30",
+      "fetched_at": "2026-11-14T08:46:58.778998+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7415,7 +7415,7 @@
       "metal": "Gold",
       "city": "Srikakulam",
       "url": "https://www.policybazaar.com/gold-rate/srikakulam/",
-      "fetched_at": "2026-11-14T04:09:37.719633+05:30",
+      "fetched_at": "2026-11-14T08:47:00.312351+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7441,7 +7441,7 @@
       "metal": "Gold",
       "city": "Srinagar",
       "url": "https://www.policybazaar.com/gold-rate/srinagar/",
-      "fetched_at": "2026-11-14T04:09:37.786246+05:30",
+      "fetched_at": "2026-11-14T08:47:00.318816+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -7467,7 +7467,7 @@
       "metal": "Gold",
       "city": "Surat",
       "url": "https://www.policybazaar.com/gold-rate/surat/",
-      "fetched_at": "2026-11-14T04:09:38.675412+05:30",
+      "fetched_at": "2026-11-14T08:47:01.044630+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -7493,7 +7493,7 @@
       "metal": "Gold",
       "city": "Suryapet",
       "url": "https://www.policybazaar.com/gold-rate/suryapet/",
-      "fetched_at": "2026-11-14T04:09:38.923537+05:30",
+      "fetched_at": "2026-11-14T08:47:01.138802+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7519,7 +7519,7 @@
       "metal": "Gold",
       "city": "Tadepalligudem",
       "url": "https://www.policybazaar.com/gold-rate/tadepalligudem/",
-      "fetched_at": "2026-11-14T04:09:39.182501+05:30",
+      "fetched_at": "2026-11-14T08:47:02.082237+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7545,7 +7545,7 @@
       "metal": "Gold",
       "city": "Tenali",
       "url": "https://www.policybazaar.com/gold-rate/tenali/",
-      "fetched_at": "2026-11-14T04:09:39.535625+05:30",
+      "fetched_at": "2026-11-14T08:47:02.667951+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7571,7 +7571,7 @@
       "metal": "Gold",
       "city": "Thane",
       "url": "https://www.policybazaar.com/gold-rate/thane/",
-      "fetched_at": "2026-11-14T04:09:40.068048+05:30",
+      "fetched_at": "2026-11-14T08:47:02.796793+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7597,7 +7597,7 @@
       "metal": "Gold",
       "city": "Thanjavur",
       "url": "https://www.policybazaar.com/gold-rate/thanjavur/",
-      "fetched_at": "2026-11-14T04:09:40.197068+05:30",
+      "fetched_at": "2026-11-14T08:47:03.244242+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7623,7 +7623,7 @@
       "metal": "Gold",
       "city": "Thrissur",
       "url": "https://www.policybazaar.com/gold-rate/thrissur/",
-      "fetched_at": "2026-11-14T04:09:41.514794+05:30",
+      "fetched_at": "2026-11-14T08:47:03.975396+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7649,7 +7649,7 @@
       "metal": "Gold",
       "city": "Tirunelveli",
       "url": "https://www.policybazaar.com/gold-rate/tirunelveli/",
-      "fetched_at": "2026-11-14T04:09:41.520056+05:30",
+      "fetched_at": "2026-11-14T08:47:04.354693+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7675,7 +7675,7 @@
       "metal": "Gold",
       "city": "Tirupati",
       "url": "https://www.policybazaar.com/gold-rate/tirupati/",
-      "fetched_at": "2026-11-14T04:09:41.575478+05:30",
+      "fetched_at": "2026-11-14T08:47:05.060039+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7701,7 +7701,7 @@
       "metal": "Gold",
       "city": "Tiruppur",
       "url": "https://www.policybazaar.com/gold-rate/tiruppur/",
-      "fetched_at": "2026-11-14T04:09:41.581618+05:30",
+      "fetched_at": "2026-11-14T08:47:05.174909+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7727,7 +7727,7 @@
       "metal": "Gold",
       "city": "Tiruvannamalai",
       "url": "https://www.policybazaar.com/gold-rate/tiruvannamalai/",
-      "fetched_at": "2026-11-14T04:09:42.646190+05:30",
+      "fetched_at": "2026-11-14T08:47:06.273321+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7753,7 +7753,7 @@
       "metal": "Gold",
       "city": "Udaipur",
       "url": "https://www.policybazaar.com/gold-rate/udaipur/",
-      "fetched_at": "2026-11-14T04:09:42.781038+05:30",
+      "fetched_at": "2026-11-14T08:47:06.371667+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -7779,7 +7779,7 @@
       "metal": "Gold",
       "city": "Udgir",
       "url": "https://www.policybazaar.com/gold-rate/udgir/",
-      "fetched_at": "2026-11-14T04:09:43.397830+05:30",
+      "fetched_at": "2026-11-14T08:47:07.381326+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7805,7 +7805,7 @@
       "metal": "Gold",
       "city": "Udupi",
       "url": "https://www.policybazaar.com/gold-rate/udupi/",
-      "fetched_at": "2026-11-14T04:09:43.604111+05:30",
+      "fetched_at": "2026-11-14T08:47:07.717415+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13571.0,
@@ -7831,7 +7831,7 @@
       "metal": "Gold",
       "city": "Ujjain",
       "url": "https://www.policybazaar.com/gold-rate/ujjain/",
-      "fetched_at": "2026-11-14T04:09:44.568419+05:30",
+      "fetched_at": "2026-11-14T08:47:07.721871+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7857,7 +7857,7 @@
       "metal": "Gold",
       "city": "Ulhasnagar",
       "url": "https://www.policybazaar.com/gold-rate/ulhasnagar/",
-      "fetched_at": "2026-11-14T04:09:45.078045+05:30",
+      "fetched_at": "2026-11-14T08:47:08.599683+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -7883,7 +7883,7 @@
       "metal": "Gold",
       "city": "Vadodara",
       "url": "https://www.policybazaar.com/gold-rate/vadodara/",
-      "fetched_at": "2026-11-14T04:09:45.361064+05:30",
+      "fetched_at": "2026-11-14T08:47:09.158131+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -7909,7 +7909,7 @@
       "metal": "Gold",
       "city": "Valsad",
       "url": "https://www.policybazaar.com/gold-rate/valsad/",
-      "fetched_at": "2026-11-14T04:09:45.852705+05:30",
+      "fetched_at": "2026-11-14T08:47:10.213514+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -7935,7 +7935,7 @@
       "metal": "Gold",
       "city": "Varanasi",
       "url": "https://www.policybazaar.com/gold-rate/varanasi/",
-      "fetched_at": "2026-11-14T04:09:46.494390+05:30",
+      "fetched_at": "2026-11-14T08:47:10.241712+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -7961,7 +7961,7 @@
       "metal": "Gold",
       "city": "Vellore",
       "url": "https://www.policybazaar.com/gold-rate/vellore/",
-      "fetched_at": "2026-11-14T04:09:46.939752+05:30",
+      "fetched_at": "2026-11-14T08:47:10.264686+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -7987,7 +7987,7 @@
       "metal": "Gold",
       "city": "Vidisha",
       "url": "https://www.policybazaar.com/gold-rate/vidisha/",
-      "fetched_at": "2026-11-14T04:09:47.515807+05:30",
+      "fetched_at": "2026-11-14T08:47:10.764244+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -8013,7 +8013,7 @@
       "metal": "Gold",
       "city": "Vijayawada",
       "url": "https://www.policybazaar.com/gold-rate/vijayawada/",
-      "fetched_at": "2026-11-14T04:09:48.166700+05:30",
+      "fetched_at": "2026-11-14T08:47:12.423531+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8039,7 +8039,7 @@
       "metal": "Gold",
       "city": "Visakhapatnam",
       "url": "https://www.policybazaar.com/gold-rate/visakhapatnam/",
-      "fetched_at": "2026-11-14T04:09:48.354771+05:30",
+      "fetched_at": "2026-11-14T08:47:12.743080+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8065,7 +8065,7 @@
       "metal": "Gold",
       "city": "Vizianagaram",
       "url": "https://www.policybazaar.com/gold-rate/vizianagaram/",
-      "fetched_at": "2026-11-14T04:09:48.389531+05:30",
+      "fetched_at": "2026-11-14T08:47:12.853696+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8091,7 +8091,7 @@
       "metal": "Gold",
       "city": "Warangal",
       "url": "https://www.policybazaar.com/gold-rate/warangal/",
-      "fetched_at": "2026-11-14T04:09:49.409296+05:30",
+      "fetched_at": "2026-11-14T08:47:12.965814+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8117,7 +8117,7 @@
       "metal": "Gold",
       "city": "Wardha",
       "url": "https://www.policybazaar.com/gold-rate/wardha/",
-      "fetched_at": "2026-11-14T04:09:49.887706+05:30",
+      "fetched_at": "2026-11-14T08:47:14.202213+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -8143,7 +8143,7 @@
       "metal": "Gold",
       "city": "Yavatmal",
       "url": "https://www.policybazaar.com/gold-rate/yavatmal/",
-      "fetched_at": "2026-11-14T04:09:50.052446+05:30",
+      "fetched_at": "2026-11-14T08:47:14.207610+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -8169,7 +8169,7 @@
       "metal": "Gold",
       "city": "Haryana",
       "url": "https://www.policybazaar.com/gold-rate/haryana/",
-      "fetched_at": "2026-11-14T04:09:50.419102+05:30",
+      "fetched_at": "2026-11-14T08:47:15.143067+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -8195,7 +8195,7 @@
       "metal": "Gold",
       "city": "Andhra Pradesh",
       "url": "https://www.policybazaar.com/gold-rate/andhra-pradesh/",
-      "fetched_at": "2026-11-14T04:09:50.425448+05:30",
+      "fetched_at": "2026-11-14T08:47:15.177935+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8221,7 +8221,7 @@
       "metal": "Gold",
       "city": "Odisha",
       "url": "https://www.policybazaar.com/gold-rate/odisha/",
-      "fetched_at": "2026-11-14T04:09:51.314629+05:30",
+      "fetched_at": "2026-11-14T08:47:15.715649+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8247,7 +8247,7 @@
       "metal": "Gold",
       "city": "Maharashtra",
       "url": "https://www.policybazaar.com/gold-rate/maharashtra/",
-      "fetched_at": "2026-11-14T04:09:51.650265+05:30",
+      "fetched_at": "2026-11-14T08:47:16.077183+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -8273,7 +8273,7 @@
       "metal": "Gold",
       "city": "Rajasthan",
       "url": "https://www.policybazaar.com/gold-rate/rajasthan/",
-      "fetched_at": "2026-11-14T04:09:52.171534+05:30",
+      "fetched_at": "2026-11-14T08:47:16.758656+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13565.0,
@@ -8299,7 +8299,7 @@
       "metal": "Gold",
       "city": "Bihar",
       "url": "https://www.policybazaar.com/gold-rate/bihar/",
-      "fetched_at": "2026-11-14T04:09:52.192227+05:30",
+      "fetched_at": "2026-11-14T08:47:16.799342+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8325,7 +8325,7 @@
       "metal": "Gold",
       "city": "Himachal Pradesh",
       "url": "https://www.policybazaar.com/gold-rate/himachal-pradesh/",
-      "fetched_at": "2026-11-14T04:09:53.009395+05:30",
+      "fetched_at": "2026-11-14T08:47:17.036970+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -8351,7 +8351,7 @@
       "metal": "Gold",
       "city": "Telangana",
       "url": "https://www.policybazaar.com/gold-rate/telangana/",
-      "fetched_at": "2026-11-14T04:09:53.388290+05:30",
+      "fetched_at": "2026-11-14T08:47:18.030630+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8377,7 +8377,7 @@
       "metal": "Gold",
       "city": "West Bengal",
       "url": "https://www.policybazaar.com/gold-rate/west-bengal/",
-      "fetched_at": "2026-11-14T04:09:53.756063+05:30",
+      "fetched_at": "2026-11-14T08:47:18.274841+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8403,7 +8403,7 @@
       "metal": "Gold",
       "city": "Jharkhand",
       "url": "https://www.policybazaar.com/gold-rate/jharkhand/",
-      "fetched_at": "2026-11-14T04:09:54.098120+05:30",
+      "fetched_at": "2026-11-14T08:47:18.993178+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8429,7 +8429,7 @@
       "metal": "Gold",
       "city": "Assam",
       "url": "https://www.policybazaar.com/gold-rate/assam/",
-      "fetched_at": "2026-11-14T04:09:54.139956+05:30",
+      "fetched_at": "2026-11-14T08:47:19.201785+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8455,7 +8455,7 @@
       "metal": "Gold",
       "city": "Uttar Pradesh",
       "url": "https://www.policybazaar.com/gold-rate/uttar-pradesh/",
-      "fetched_at": "2026-11-14T04:09:54.541580+05:30",
+      "fetched_at": "2026-11-14T08:47:19.458581+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -8481,7 +8481,7 @@
       "metal": "Gold",
       "city": "Uttarakhand",
       "url": "https://www.policybazaar.com/gold-rate/uttarakhand/",
-      "fetched_at": "2026-11-14T04:09:55.910609+05:30",
+      "fetched_at": "2026-11-14T08:47:19.511633+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13561.0,
@@ -8507,7 +8507,7 @@
       "metal": "Gold",
       "city": "Tamil Nadu",
       "url": "https://www.policybazaar.com/gold-rate/tamil-nadu/",
-      "fetched_at": "2026-11-14T04:09:56.078150+05:30",
+      "fetched_at": "2026-11-14T08:47:20.645919+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13456.0,
@@ -8533,7 +8533,7 @@
       "metal": "Gold",
       "city": "Chhattisgarh",
       "url": "https://www.policybazaar.com/gold-rate/chhattisgarh/",
-      "fetched_at": "2026-11-14T04:09:56.466697+05:30",
+      "fetched_at": "2026-11-14T08:47:20.661387+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -8559,7 +8559,7 @@
       "metal": "Gold",
       "city": "Tripura",
       "url": "https://www.policybazaar.com/gold-rate/tripura/",
-      "fetched_at": "2026-11-14T04:09:56.555544+05:30",
+      "fetched_at": "2026-11-14T08:47:21.289325+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8585,7 +8585,7 @@
       "metal": "Gold",
       "city": "Madhya Pradesh",
       "url": "https://www.policybazaar.com/gold-rate/madhya-pradesh/",
-      "fetched_at": "2026-11-14T04:09:56.975910+05:30",
+      "fetched_at": "2026-11-14T08:47:21.863352+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13508.0,
@@ -8611,7 +8611,7 @@
       "metal": "Gold",
       "city": "Sikkim",
       "url": "https://www.policybazaar.com/gold-rate/sikkim/",
-      "fetched_at": "2026-11-14T04:09:57.770142+05:30",
+      "fetched_at": "2026-11-14T08:47:22.200584+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8637,7 +8637,7 @@
       "metal": "Gold",
       "city": "Manipur",
       "url": "https://www.policybazaar.com/gold-rate/manipur/",
-      "fetched_at": "2026-11-14T04:09:57.859466+05:30",
+      "fetched_at": "2026-11-14T08:47:22.391854+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8663,7 +8663,7 @@
       "metal": "Gold",
       "city": "Arunachal Pradesh",
       "url": "https://www.policybazaar.com/gold-rate/arunachal-pradesh/",
-      "fetched_at": "2026-11-14T04:09:58.162609+05:30",
+      "fetched_at": "2026-11-14T08:47:23.270588+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 4343.0,
@@ -8689,7 +8689,7 @@
       "metal": "Gold",
       "city": "Nagaland",
       "url": "https://www.policybazaar.com/gold-rate/nagaland/",
-      "fetched_at": "2026-11-14T04:09:58.770716+05:30",
+      "fetched_at": "2026-11-14T08:47:23.351457+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8715,7 +8715,7 @@
       "metal": "Gold",
       "city": "Meghalaya",
       "url": "https://www.policybazaar.com/gold-rate/meghalaya/",
-      "fetched_at": "2026-11-14T04:09:59.456869+05:30",
+      "fetched_at": "2026-11-14T08:47:23.771177+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,
@@ -8741,7 +8741,7 @@
       "metal": "Gold",
       "city": "Mizoram",
       "url": "https://www.policybazaar.com/gold-rate/mizoram/",
-      "fetched_at": "2026-11-14T04:09:59.885056+05:30",
+      "fetched_at": "2026-11-14T08:47:23.778397+05:30",
       "error": null,
       "data": {
         "rate24k 1gm": 13613.0,

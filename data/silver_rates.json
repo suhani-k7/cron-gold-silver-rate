@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-28T07:29:02.732028+05:30",
+  "generated_at": "2026-11-28T15:56:22.572738+05:30",
   "rates": [
     {
       "metal": "Silver",
       "city": "Ahmedabad",
       "url": "https://www.policybazaar.com/silver-rate/ahmedabad/",
-      "fetched_at": "2026-11-28T07:31:30.178036+05:30",
+      "fetched_at": "2026-11-28T15:58:49.005493+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -24,7 +24,7 @@
       "metal": "Silver",
       "city": "Ahmednagar",
       "url": "https://www.policybazaar.com/silver-rate/ahmednagar/",
-      "fetched_at": "2026-11-28T07:31:30.816466+05:30",
+      "fetched_at": "2026-11-28T15:58:49.230076+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -43,7 +43,7 @@
       "metal": "Silver",
       "city": "Ayodhya",
       "url": "https://www.policybazaar.com/silver-rate/ayodhya/",
-      "fetched_at": "2026-11-28T07:31:31.139591+05:30",
+      "fetched_at": "2026-11-28T15:58:50.415159+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -62,7 +62,7 @@
       "metal": "Silver",
       "city": "Balangir",
       "url": "https://www.policybazaar.com/silver-rate/balangir/",
-      "fetched_at": "2026-11-28T07:31:31.321924+05:30",
+      "fetched_at": "2026-11-28T15:58:50.630097+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -81,7 +81,7 @@
       "metal": "Silver",
       "city": "Balasore",
       "url": "https://www.policybazaar.com/silver-rate/balasore/",
-      "fetched_at": "2026-11-28T07:31:32.161648+05:30",
+      "fetched_at": "2026-11-28T15:58:50.971448+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -100,7 +100,7 @@
       "metal": "Silver",
       "city": "Baripada",
       "url": "https://www.policybazaar.com/silver-rate/baripada/",
-      "fetched_at": "2026-11-28T07:31:32.804726+05:30",
+      "fetched_at": "2026-11-28T15:58:50.985259+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -119,7 +119,7 @@
       "metal": "Silver",
       "city": "Berhampur",
       "url": "https://www.policybazaar.com/silver-rate/berhampur/",
-      "fetched_at": "2026-11-28T07:31:32.907878+05:30",
+      "fetched_at": "2026-11-28T15:58:52.383141+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -138,7 +138,7 @@
       "metal": "Silver",
       "city": "Chhatarpur",
       "url": "https://www.policybazaar.com/silver-rate/chhatarpur/",
-      "fetched_at": "2026-11-28T07:31:33.083856+05:30",
+      "fetched_at": "2026-11-28T15:58:52.604917+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -157,7 +157,7 @@
       "metal": "Silver",
       "city": "Chirala",
       "url": "https://www.policybazaar.com/silver-rate/chirala/",
-      "fetched_at": "2026-11-28T07:31:33.853360+05:30",
+      "fetched_at": "2026-11-28T15:58:52.778199+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -176,7 +176,7 @@
       "metal": "Silver",
       "city": "Darjeeling",
       "url": "https://www.policybazaar.com/silver-rate/darjeeling/",
-      "fetched_at": "2026-11-28T07:31:34.598543+05:30",
+      "fetched_at": "2026-11-28T15:58:52.787459+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -195,7 +195,7 @@
       "metal": "Silver",
       "city": "Dharamshala",
       "url": "https://www.policybazaar.com/silver-rate/dharamshala/",
-      "fetched_at": "2026-11-28T07:31:34.639449+05:30",
+      "fetched_at": "2026-11-28T15:58:54.156002+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -214,7 +214,7 @@
       "metal": "Silver",
       "city": "Dispur",
       "url": "https://www.policybazaar.com/silver-rate/dispur/",
-      "fetched_at": "2026-11-28T07:31:35.352652+05:30",
+      "fetched_at": "2026-11-28T15:58:54.554850+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -233,7 +233,7 @@
       "metal": "Silver",
       "city": "Faridkot",
       "url": "https://www.policybazaar.com/silver-rate/faridkot/",
-      "fetched_at": "2026-11-28T07:31:35.378883+05:30",
+      "fetched_at": "2026-11-28T15:58:54.890931+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -252,7 +252,7 @@
       "metal": "Silver",
       "city": "Farrukhabad",
       "url": "https://www.policybazaar.com/silver-rate/farrukhabad/",
-      "fetched_at": "2026-11-28T07:31:36.774693+05:30",
+      "fetched_at": "2026-11-28T15:58:54.892067+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -271,7 +271,7 @@
       "metal": "Silver",
       "city": "Gangavathi",
       "url": "https://www.policybazaar.com/silver-rate/gangavathi/",
-      "fetched_at": "2026-11-28T07:31:36.803059+05:30",
+      "fetched_at": "2026-11-28T15:58:55.854942+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -290,7 +290,7 @@
       "metal": "Silver",
       "city": "Gangtok",
       "url": "https://www.policybazaar.com/silver-rate/gangtok/",
-      "fetched_at": "2026-11-28T07:31:37.087474+05:30",
+      "fetched_at": "2026-11-28T15:58:56.591747+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -309,7 +309,7 @@
       "metal": "Silver",
       "city": "Ghaziabad",
       "url": "https://www.policybazaar.com/silver-rate/ghaziabad/",
-      "fetched_at": "2026-11-28T07:31:37.464374+05:30",
+      "fetched_at": "2026-11-28T15:58:56.762378+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -328,7 +328,7 @@
       "metal": "Silver",
       "city": "Gondia",
       "url": "https://www.policybazaar.com/silver-rate/gondia/",
-      "fetched_at": "2026-11-28T07:31:38.110238+05:30",
+      "fetched_at": "2026-11-28T15:58:56.844625+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -347,7 +347,7 @@
       "metal": "Silver",
       "city": "Gudiyatham",
       "url": "https://www.policybazaar.com/silver-rate/gudiyatham/",
-      "fetched_at": "2026-11-28T07:31:38.575200+05:30",
+      "fetched_at": "2026-11-28T15:58:57.407359+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -366,7 +366,7 @@
       "metal": "Silver",
       "city": "Hazaribagh",
       "url": "https://www.policybazaar.com/silver-rate/hazaribagh/",
-      "fetched_at": "2026-11-28T07:31:39.035719+05:30",
+      "fetched_at": "2026-11-28T15:58:57.563451+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -385,7 +385,7 @@
       "metal": "Silver",
       "city": "Howrah",
       "url": "https://www.policybazaar.com/silver-rate/howrah/",
-      "fetched_at": "2026-11-28T07:31:39.111002+05:30",
+      "fetched_at": "2026-11-28T15:58:58.873265+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -404,7 +404,7 @@
       "metal": "Silver",
       "city": "Itarsi",
       "url": "https://www.policybazaar.com/silver-rate/itarsi/",
-      "fetched_at": "2026-11-28T07:31:39.978787+05:30",
+      "fetched_at": "2026-11-28T15:58:59.076398+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -423,7 +423,7 @@
       "metal": "Silver",
       "city": "Jagtial",
       "url": "https://www.policybazaar.com/silver-rate/jagtial/",
-      "fetched_at": "2026-11-28T07:31:40.513008+05:30",
+      "fetched_at": "2026-11-28T15:58:59.237294+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -442,7 +442,7 @@
       "metal": "Silver",
       "city": "Jorhat",
       "url": "https://www.policybazaar.com/silver-rate/jorhat/",
-      "fetched_at": "2026-11-28T07:31:40.686898+05:30",
+      "fetched_at": "2026-11-28T15:58:59.741096+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -461,7 +461,7 @@
       "metal": "Silver",
       "city": "Kadiri",
       "url": "https://www.policybazaar.com/silver-rate/kadiri/",
-      "fetched_at": "2026-11-28T07:31:40.942958+05:30",
+      "fetched_at": "2026-11-28T15:59:00.926375+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -480,7 +480,7 @@
       "metal": "Silver",
       "city": "Kalyan",
       "url": "https://www.policybazaar.com/silver-rate/kalyan/",
-      "fetched_at": "2026-11-28T07:31:42.195753+05:30",
+      "fetched_at": "2026-11-28T15:59:01.108764+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -499,7 +499,7 @@
       "metal": "Silver",
       "city": "Kanchipuram",
       "url": "https://www.policybazaar.com/silver-rate/kanchipuram/",
-      "fetched_at": "2026-11-28T07:31:42.496910+05:30",
+      "fetched_at": "2026-11-28T15:59:01.200618+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -518,7 +518,7 @@
       "metal": "Silver",
       "city": "Kannur",
       "url": "https://www.policybazaar.com/silver-rate/kannur/",
-      "fetched_at": "2026-11-28T07:31:42.742064+05:30",
+      "fetched_at": "2026-11-28T15:59:02.016739+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -537,7 +537,7 @@
       "metal": "Silver",
       "city": "Kapurthala",
       "url": "https://www.policybazaar.com/silver-rate/kapurthala/",
-      "fetched_at": "2026-11-28T07:31:42.757406+05:30",
+      "fetched_at": "2026-11-28T15:59:02.269325+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -556,7 +556,7 @@
       "metal": "Silver",
       "city": "Karaikudi",
       "url": "https://www.policybazaar.com/silver-rate/karaikudi/",
-      "fetched_at": "2026-11-28T07:31:44.372633+05:30",
+      "fetched_at": "2026-11-28T15:59:02.877087+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -575,7 +575,7 @@
       "metal": "Silver",
       "city": "Karur",
       "url": "https://www.policybazaar.com/silver-rate/karur/",
-      "fetched_at": "2026-11-28T07:31:44.435139+05:30",
+      "fetched_at": "2026-11-28T15:59:03.382583+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -594,7 +594,7 @@
       "metal": "Silver",
       "city": "Kavali",
       "url": "https://www.policybazaar.com/silver-rate/kavali/",
-      "fetched_at": "2026-11-28T07:31:44.804506+05:30",
+      "fetched_at": "2026-11-28T15:59:03.511101+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -613,7 +613,7 @@
       "metal": "Silver",
       "city": "Kavaratti",
       "url": "https://www.policybazaar.com/silver-rate/kavaratti/",
-      "fetched_at": "2026-11-28T07:31:44.950974+05:30",
+      "fetched_at": "2026-11-28T15:59:04.561380+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -632,7 +632,7 @@
       "metal": "Silver",
       "city": "Kohima",
       "url": "https://www.policybazaar.com/silver-rate/kohima/",
-      "fetched_at": "2026-11-28T07:31:46.006439+05:30",
+      "fetched_at": "2026-11-28T15:59:04.749941+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -651,7 +651,7 @@
       "metal": "Silver",
       "city": "Malappuram",
       "url": "https://www.policybazaar.com/silver-rate/malappuram/",
-      "fetched_at": "2026-11-28T07:31:46.124337+05:30",
+      "fetched_at": "2026-11-28T15:59:05.008097+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -670,7 +670,7 @@
       "metal": "Silver",
       "city": "Mangalagiri",
       "url": "https://www.policybazaar.com/silver-rate/mangalagiri/",
-      "fetched_at": "2026-11-28T07:31:46.713037+05:30",
+      "fetched_at": "2026-11-28T15:59:05.036524+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -689,7 +689,7 @@
       "metal": "Silver",
       "city": "Mirzapur",
       "url": "https://www.policybazaar.com/silver-rate/mirzapur/",
-      "fetched_at": "2026-11-28T07:31:46.933055+05:30",
+      "fetched_at": "2026-11-28T15:59:05.989062+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -708,7 +708,7 @@
       "metal": "Silver",
       "city": "Morbi",
       "url": "https://www.policybazaar.com/silver-rate/morbi/",
-      "fetched_at": "2026-11-28T07:31:47.213913+05:30",
+      "fetched_at": "2026-11-28T15:59:06.384249+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -727,7 +727,7 @@
       "metal": "Silver",
       "city": "Nanded",
       "url": "https://www.policybazaar.com/silver-rate/nanded/",
-      "fetched_at": "2026-11-28T07:31:48.609829+05:30",
+      "fetched_at": "2026-11-28T15:59:06.568396+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -746,7 +746,7 @@
       "metal": "Silver",
       "city": "Phagwara",
       "url": "https://www.policybazaar.com/silver-rate/phagwara/",
-      "fetched_at": "2026-11-28T07:31:48.634478+05:30",
+      "fetched_at": "2026-11-28T15:59:06.593070+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -765,7 +765,7 @@
       "metal": "Silver",
       "city": "Pimpri Chinchwad",
       "url": "https://www.policybazaar.com/silver-rate/pimpri-chinchwad/",
-      "fetched_at": "2026-11-28T07:31:49.143189+05:30",
+      "fetched_at": "2026-11-28T15:59:07.512642+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -784,7 +784,7 @@
       "metal": "Silver",
       "city": "Ramanathapuram",
       "url": "https://www.policybazaar.com/silver-rate/ramanathapuram/",
-      "fetched_at": "2026-11-28T07:31:49.216914+05:30",
+      "fetched_at": "2026-11-28T15:59:07.796471+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -803,7 +803,7 @@
       "metal": "Silver",
       "city": "Sangli",
       "url": "https://www.policybazaar.com/silver-rate/sangli/",
-      "fetched_at": "2026-11-28T07:31:49.867918+05:30",
+      "fetched_at": "2026-11-28T15:59:07.900045+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -822,7 +822,7 @@
       "metal": "Silver",
       "city": "Siddipet",
       "url": "https://www.policybazaar.com/silver-rate/siddipet/",
-      "fetched_at": "2026-11-28T07:31:50.296919+05:30",
+      "fetched_at": "2026-11-28T15:59:08.612093+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -841,7 +841,7 @@
       "metal": "Silver",
       "city": "Sivakasi",
       "url": "https://www.policybazaar.com/silver-rate/sivakasi/",
-      "fetched_at": "2026-11-28T07:31:50.411548+05:30",
+      "fetched_at": "2026-11-28T15:59:09.025356+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -860,7 +860,7 @@
       "metal": "Silver",
       "city": "Trivandrum",
       "url": "https://www.policybazaar.com/silver-rate/trivandrum/",
-      "fetched_at": "2026-11-28T07:31:51.384367+05:30",
+      "fetched_at": "2026-11-28T15:59:09.541365+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -879,7 +879,7 @@
       "metal": "Silver",
       "city": "Vapi",
       "url": "https://www.policybazaar.com/silver-rate/vapi/",
-      "fetched_at": "2026-11-28T07:31:51.908322+05:30",
+      "fetched_at": "2026-11-28T15:59:09.738929+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -898,7 +898,7 @@
       "metal": "Silver",
       "city": "Vasai",
       "url": "https://www.policybazaar.com/silver-rate/vasai/",
-      "fetched_at": "2026-11-28T07:31:52.066318+05:30",
+      "fetched_at": "2026-11-28T15:59:10.627302+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -917,7 +917,7 @@
       "metal": "Silver",
       "city": "Vijayapura",
       "url": "https://www.policybazaar.com/silver-rate/vijayapura/",
-      "fetched_at": "2026-11-28T07:31:52.101715+05:30",
+      "fetched_at": "2026-11-28T15:59:10.658134+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -936,7 +936,7 @@
       "metal": "Silver",
       "city": "Punjab",
       "url": "https://www.policybazaar.com/silver-rate/punjab/",
-      "fetched_at": "2026-11-28T07:31:52.973644+05:30",
+      "fetched_at": "2026-11-28T15:59:10.865457+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -955,7 +955,7 @@
       "metal": "Silver",
       "city": "Hyderabad",
       "url": "https://www.policybazaar.com/silver-rate/hyderabad/",
-      "fetched_at": "2026-11-28T07:31:53.392746+05:30",
+      "fetched_at": "2026-11-28T15:59:11.474006+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -974,7 +974,7 @@
       "metal": "Silver",
       "city": "Bangalore",
       "url": "https://www.policybazaar.com/silver-rate/bangalore/",
-      "fetched_at": "2026-11-28T07:31:53.671284+05:30",
+      "fetched_at": "2026-11-28T15:59:12.725017+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -993,7 +993,7 @@
       "metal": "Silver",
       "city": "Mumbai",
       "url": "https://www.policybazaar.com/silver-rate/mumbai/",
-      "fetched_at": "2026-11-28T07:31:54.380747+05:30",
+      "fetched_at": "2026-11-28T15:59:12.747775+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1012,7 +1012,7 @@
       "metal": "Silver",
       "city": "Gujarat",
       "url": "https://www.policybazaar.com/silver-rate/gujarat/",
-      "fetched_at": "2026-11-28T07:31:54.451876+05:30",
+      "fetched_at": "2026-11-28T15:59:12.829446+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1031,7 +1031,7 @@
       "metal": "Silver",
       "city": "Bhubaneswar",
       "url": "https://www.policybazaar.com/silver-rate/bhubaneswar/",
-      "fetched_at": "2026-11-28T07:31:54.784534+05:30",
+      "fetched_at": "2026-11-28T15:59:13.005038+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1050,7 +1050,7 @@
       "metal": "Silver",
       "city": "Pondicherry",
       "url": "https://www.policybazaar.com/silver-rate/pondicherry/",
-      "fetched_at": "2026-11-28T07:31:55.562404+05:30",
+      "fetched_at": "2026-11-28T15:59:14.158069+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1069,7 +1069,7 @@
       "metal": "Silver",
       "city": "Goa",
       "url": "https://www.policybazaar.com/silver-rate/goa/",
-      "fetched_at": "2026-11-28T07:31:55.568517+05:30",
+      "fetched_at": "2026-11-28T15:59:14.229853+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1088,7 +1088,7 @@
       "metal": "Silver",
       "city": "Kerala",
       "url": "https://www.policybazaar.com/silver-rate/kerala/",
-      "fetched_at": "2026-11-28T07:31:56.161929+05:30",
+      "fetched_at": "2026-11-28T15:59:14.409009+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1107,7 +1107,7 @@
       "metal": "Silver",
       "city": "Karnataka",
       "url": "https://www.policybazaar.com/silver-rate/karnataka/",
-      "fetched_at": "2026-11-28T07:31:56.834192+05:30",
+      "fetched_at": "2026-11-28T15:59:14.930761+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1126,7 +1126,7 @@
       "metal": "Silver",
       "city": "Abohar",
       "url": "https://www.policybazaar.com/silver-rate/abohar/",
-      "fetched_at": "2026-11-28T07:31:56.891837+05:30",
+      "fetched_at": "2026-11-28T15:59:15.683375+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1145,7 +1145,7 @@
       "metal": "Silver",
       "city": "Adilabad",
       "url": "https://www.policybazaar.com/silver-rate/adilabad/",
-      "fetched_at": "2026-11-28T07:31:57.599412+05:30",
+      "fetched_at": "2026-11-28T15:59:15.791321+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1164,7 +1164,7 @@
       "metal": "Silver",
       "city": "Adoni",
       "url": "https://www.policybazaar.com/silver-rate/adoni/",
-      "fetched_at": "2026-11-28T07:31:57.814317+05:30",
+      "fetched_at": "2026-11-28T15:59:16.611267+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1183,7 +1183,7 @@
       "metal": "Silver",
       "city": "Agartala",
       "url": "https://www.policybazaar.com/silver-rate/agartala/",
-      "fetched_at": "2026-11-28T07:31:58.082717+05:30",
+      "fetched_at": "2026-11-28T15:59:16.926939+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1202,7 +1202,7 @@
       "metal": "Silver",
       "city": "Agra",
       "url": "https://www.policybazaar.com/silver-rate/agra/",
-      "fetched_at": "2026-11-28T07:31:58.464388+05:30",
+      "fetched_at": "2026-11-28T15:59:17.417641+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1221,7 +1221,7 @@
       "metal": "Silver",
       "city": "Aizawl",
       "url": "https://www.policybazaar.com/silver-rate/aizawl/",
-      "fetched_at": "2026-11-28T07:31:58.624612+05:30",
+      "fetched_at": "2026-11-28T15:59:17.582129+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1240,7 +1240,7 @@
       "metal": "Silver",
       "city": "Ajmer",
       "url": "https://www.policybazaar.com/silver-rate/ajmer/",
-      "fetched_at": "2026-11-28T07:31:59.020302+05:30",
+      "fetched_at": "2026-11-28T15:59:18.140423+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1259,7 +1259,7 @@
       "metal": "Silver",
       "city": "Akola",
       "url": "https://www.policybazaar.com/silver-rate/akola/",
-      "fetched_at": "2026-11-28T07:31:59.736454+05:30",
+      "fetched_at": "2026-11-28T15:59:18.493295+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1278,7 +1278,7 @@
       "metal": "Silver",
       "city": "Aligarh",
       "url": "https://www.policybazaar.com/silver-rate/aligarh/",
-      "fetched_at": "2026-11-28T07:32:00.362509+05:30",
+      "fetched_at": "2026-11-28T15:59:18.886516+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1297,7 +1297,7 @@
       "metal": "Silver",
       "city": "Allahabad",
       "url": "https://www.policybazaar.com/silver-rate/allahabad/",
-      "fetched_at": "2026-11-28T07:32:00.600563+05:30",
+      "fetched_at": "2026-11-28T15:59:19.598556+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1316,7 +1316,7 @@
       "metal": "Silver",
       "city": "Alwar",
       "url": "https://www.policybazaar.com/silver-rate/alwar/",
-      "fetched_at": "2026-11-28T07:32:01.075990+05:30",
+      "fetched_at": "2026-11-28T15:59:19.642733+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1335,7 +1335,7 @@
       "metal": "Silver",
       "city": "Ambala",
       "url": "https://www.policybazaar.com/silver-rate/ambala/",
-      "fetched_at": "2026-11-28T07:32:01.334446+05:30",
+      "fetched_at": "2026-11-28T15:59:20.252991+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1354,7 +1354,7 @@
       "metal": "Silver",
       "city": "Ambarnath",
       "url": "https://www.policybazaar.com/silver-rate/ambarnath/",
-      "fetched_at": "2026-11-28T07:32:02.473699+05:30",
+      "fetched_at": "2026-11-28T15:59:21.088388+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1373,7 +1373,7 @@
       "metal": "Silver",
       "city": "Ambikapur",
       "url": "https://www.policybazaar.com/silver-rate/ambikapur/",
-      "fetched_at": "2026-11-28T07:32:02.634014+05:30",
+      "fetched_at": "2026-11-28T15:59:21.123645+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1392,7 +1392,7 @@
       "metal": "Silver",
       "city": "Ambur",
       "url": "https://www.policybazaar.com/silver-rate/ambur/",
-      "fetched_at": "2026-11-28T07:32:02.736035+05:30",
+      "fetched_at": "2026-11-28T15:59:21.821634+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1411,7 +1411,7 @@
       "metal": "Silver",
       "city": "Amravati",
       "url": "https://www.policybazaar.com/silver-rate/amravati/",
-      "fetched_at": "2026-11-28T07:32:02.737142+05:30",
+      "fetched_at": "2026-11-28T15:59:21.924761+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1430,7 +1430,7 @@
       "metal": "Silver",
       "city": "Amreli",
       "url": "https://www.policybazaar.com/silver-rate/amreli/",
-      "fetched_at": "2026-11-28T07:32:03.724433+05:30",
+      "fetched_at": "2026-11-28T15:59:22.599351+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1449,7 +1449,7 @@
       "metal": "Silver",
       "city": "Amritsar",
       "url": "https://www.policybazaar.com/silver-rate/amritsar/",
-      "fetched_at": "2026-11-28T07:32:03.983690+05:30",
+      "fetched_at": "2026-11-28T15:59:23.268955+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1468,7 +1468,7 @@
       "metal": "Silver",
       "city": "Anand",
       "url": "https://www.policybazaar.com/silver-rate/anand/",
-      "fetched_at": "2026-11-28T07:32:04.021839+05:30",
+      "fetched_at": "2026-11-28T15:59:23.272073+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1487,7 +1487,7 @@
       "metal": "Silver",
       "city": "Anantapur",
       "url": "https://www.policybazaar.com/silver-rate/anantapur/",
-      "fetched_at": "2026-11-28T07:32:04.951389+05:30",
+      "fetched_at": "2026-11-28T15:59:23.977675+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1506,7 +1506,7 @@
       "metal": "Silver",
       "city": "Asansol",
       "url": "https://www.policybazaar.com/silver-rate/asansol/",
-      "fetched_at": "2026-11-28T07:32:05.224997+05:30",
+      "fetched_at": "2026-11-28T15:59:24.147378+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1525,7 +1525,7 @@
       "metal": "Silver",
       "city": "Aurangabad",
       "url": "https://www.policybazaar.com/silver-rate/aurangabad/",
-      "fetched_at": "2026-11-28T07:32:05.462774+05:30",
+      "fetched_at": "2026-11-28T15:59:25.148551+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1544,7 +1544,7 @@
       "metal": "Silver",
       "city": "Badlapur",
       "url": "https://www.policybazaar.com/silver-rate/badlapur/",
-      "fetched_at": "2026-11-28T07:32:05.931428+05:30",
+      "fetched_at": "2026-11-28T15:59:25.290869+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1563,7 +1563,7 @@
       "metal": "Silver",
       "city": "Bagalkot",
       "url": "https://www.policybazaar.com/silver-rate/bagalkot/",
-      "fetched_at": "2026-11-28T07:32:06.431479+05:30",
+      "fetched_at": "2026-11-28T15:59:25.607574+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1582,7 +1582,7 @@
       "metal": "Silver",
       "city": "Bahadurgarh",
       "url": "https://www.policybazaar.com/silver-rate/bahadurgarh/",
-      "fetched_at": "2026-11-28T07:32:06.498294+05:30",
+      "fetched_at": "2026-11-28T15:59:25.637348+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1601,7 +1601,7 @@
       "metal": "Silver",
       "city": "Balurghat",
       "url": "https://www.policybazaar.com/silver-rate/balurghat/",
-      "fetched_at": "2026-11-28T07:32:06.788339+05:30",
+      "fetched_at": "2026-11-28T15:59:26.689998+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1620,7 +1620,7 @@
       "metal": "Silver",
       "city": "Bankura",
       "url": "https://www.policybazaar.com/silver-rate/bankura/",
-      "fetched_at": "2026-11-28T07:32:07.479675+05:30",
+      "fetched_at": "2026-11-28T15:59:27.134183+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1639,7 +1639,7 @@
       "metal": "Silver",
       "city": "Bareilly",
       "url": "https://www.policybazaar.com/silver-rate/bareilly/",
-      "fetched_at": "2026-11-28T07:32:07.899863+05:30",
+      "fetched_at": "2026-11-28T15:59:27.656066+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1658,7 +1658,7 @@
       "metal": "Silver",
       "city": "Barnala",
       "url": "https://www.policybazaar.com/silver-rate/barnala/",
-      "fetched_at": "2026-11-28T07:32:08.119735+05:30",
+      "fetched_at": "2026-11-28T15:59:27.850347+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1677,7 +1677,7 @@
       "metal": "Silver",
       "city": "Barshi",
       "url": "https://www.policybazaar.com/silver-rate/barshi/",
-      "fetched_at": "2026-11-28T07:32:08.711492+05:30",
+      "fetched_at": "2026-11-28T15:59:28.379317+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1696,7 +1696,7 @@
       "metal": "Silver",
       "city": "Batala",
       "url": "https://www.policybazaar.com/silver-rate/batala/",
-      "fetched_at": "2026-11-28T07:32:09.300856+05:30",
+      "fetched_at": "2026-11-28T15:59:28.669219+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1715,7 +1715,7 @@
       "metal": "Silver",
       "city": "Bathinda",
       "url": "https://www.policybazaar.com/silver-rate/bathinda/",
-      "fetched_at": "2026-11-28T07:32:09.417067+05:30",
+      "fetched_at": "2026-11-28T15:59:29.165007+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1734,7 +1734,7 @@
       "metal": "Silver",
       "city": "Beawar",
       "url": "https://www.policybazaar.com/silver-rate/beawar/",
-      "fetched_at": "2026-11-28T07:32:09.813998+05:30",
+      "fetched_at": "2026-11-28T15:59:29.282213+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1753,7 +1753,7 @@
       "metal": "Silver",
       "city": "Belgaum",
       "url": "https://www.policybazaar.com/silver-rate/belgaum/",
-      "fetched_at": "2026-11-28T07:32:09.864764+05:30",
+      "fetched_at": "2026-11-28T15:59:29.326131+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1772,7 +1772,7 @@
       "metal": "Silver",
       "city": "Bellary",
       "url": "https://www.policybazaar.com/silver-rate/bellary/",
-      "fetched_at": "2026-11-28T07:32:11.238565+05:30",
+      "fetched_at": "2026-11-28T15:59:30.087405+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1791,7 +1791,7 @@
       "metal": "Silver",
       "city": "Betul",
       "url": "https://www.policybazaar.com/silver-rate/betul/",
-      "fetched_at": "2026-11-28T07:32:11.324689+05:30",
+      "fetched_at": "2026-11-28T15:59:30.499194+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1810,7 +1810,7 @@
       "metal": "Silver",
       "city": "Bhadrak",
       "url": "https://www.policybazaar.com/silver-rate/bhadrak/",
-      "fetched_at": "2026-11-28T07:32:11.698503+05:30",
+      "fetched_at": "2026-11-28T15:59:30.782493+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1829,7 +1829,7 @@
       "metal": "Silver",
       "city": "Bhagalpur",
       "url": "https://www.policybazaar.com/silver-rate/bhagalpur/",
-      "fetched_at": "2026-11-28T07:32:12.077937+05:30",
+      "fetched_at": "2026-11-28T15:59:30.818726+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1848,7 +1848,7 @@
       "metal": "Silver",
       "city": "Bharatpur",
       "url": "https://www.policybazaar.com/silver-rate/bharatpur/",
-      "fetched_at": "2026-11-28T07:32:12.962639+05:30",
+      "fetched_at": "2026-11-28T15:59:31.144235+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1867,7 +1867,7 @@
       "metal": "Silver",
       "city": "Bharuch",
       "url": "https://www.policybazaar.com/silver-rate/bharuch/",
-      "fetched_at": "2026-11-28T07:32:13.627358+05:30",
+      "fetched_at": "2026-11-28T15:59:31.777379+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1886,7 +1886,7 @@
       "metal": "Silver",
       "city": "Bhavnagar",
       "url": "https://www.policybazaar.com/silver-rate/bhavnagar/",
-      "fetched_at": "2026-11-28T07:32:13.694911+05:30",
+      "fetched_at": "2026-11-28T15:59:31.933574+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1905,7 +1905,7 @@
       "metal": "Silver",
       "city": "Bhilwara",
       "url": "https://www.policybazaar.com/silver-rate/bhilwara/",
-      "fetched_at": "2026-11-28T07:32:14.229768+05:30",
+      "fetched_at": "2026-11-28T15:59:32.323858+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1924,7 +1924,7 @@
       "metal": "Silver",
       "city": "Bhimavaram",
       "url": "https://www.policybazaar.com/silver-rate/bhimavaram/",
-      "fetched_at": "2026-11-28T07:32:14.515727+05:30",
+      "fetched_at": "2026-11-28T15:59:33.282409+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -1943,7 +1943,7 @@
       "metal": "Silver",
       "city": "Bhind",
       "url": "https://www.policybazaar.com/silver-rate/bhind/",
-      "fetched_at": "2026-11-28T07:32:15.140372+05:30",
+      "fetched_at": "2026-11-28T15:59:33.500576+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1962,7 +1962,7 @@
       "metal": "Silver",
       "city": "Bhiwadi",
       "url": "https://www.policybazaar.com/silver-rate/bhiwadi/",
-      "fetched_at": "2026-11-28T07:32:15.540943+05:30",
+      "fetched_at": "2026-11-28T15:59:33.503238+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -1981,7 +1981,7 @@
       "metal": "Silver",
       "city": "Bhiwandi",
       "url": "https://www.policybazaar.com/silver-rate/bhiwandi/",
-      "fetched_at": "2026-11-28T07:32:15.719011+05:30",
+      "fetched_at": "2026-11-28T15:59:33.996986+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2000,7 +2000,7 @@
       "metal": "Silver",
       "city": "Bhiwani",
       "url": "https://www.policybazaar.com/silver-rate/bhiwani/",
-      "fetched_at": "2026-11-28T07:32:15.995922+05:30",
+      "fetched_at": "2026-11-28T15:59:34.387737+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2019,7 +2019,7 @@
       "metal": "Silver",
       "city": "Bhopal",
       "url": "https://www.policybazaar.com/silver-rate/bhopal/",
-      "fetched_at": "2026-11-28T07:32:16.182990+05:30",
+      "fetched_at": "2026-11-28T15:59:35.094704+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2038,7 +2038,7 @@
       "metal": "Silver",
       "city": "Bhuj",
       "url": "https://www.policybazaar.com/silver-rate/bhuj/",
-      "fetched_at": "2026-11-28T07:32:16.738561+05:30",
+      "fetched_at": "2026-11-28T15:59:35.799895+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2057,7 +2057,7 @@
       "metal": "Silver",
       "city": "Bhusawal",
       "url": "https://www.policybazaar.com/silver-rate/bhusawal/",
-      "fetched_at": "2026-11-28T07:32:17.146507+05:30",
+      "fetched_at": "2026-11-28T15:59:36.132655+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2076,7 +2076,7 @@
       "metal": "Silver",
       "city": "Bidar",
       "url": "https://www.policybazaar.com/silver-rate/bidar/",
-      "fetched_at": "2026-11-28T07:32:17.644683+05:30",
+      "fetched_at": "2026-11-28T15:59:36.391792+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2095,7 +2095,7 @@
       "metal": "Silver",
       "city": "Bikaner",
       "url": "https://www.policybazaar.com/silver-rate/bikaner/",
-      "fetched_at": "2026-11-28T07:32:17.771698+05:30",
+      "fetched_at": "2026-11-28T15:59:37.009943+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2114,7 +2114,7 @@
       "metal": "Silver",
       "city": "Bilaspur",
       "url": "https://www.policybazaar.com/silver-rate/bilaspur/",
-      "fetched_at": "2026-11-28T07:32:17.805488+05:30",
+      "fetched_at": "2026-11-28T15:59:37.078898+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2133,7 +2133,7 @@
       "metal": "Silver",
       "city": "Budaun",
       "url": "https://www.policybazaar.com/silver-rate/budaun/",
-      "fetched_at": "2026-11-28T07:32:19.317943+05:30",
+      "fetched_at": "2026-11-28T15:59:38.080685+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2152,7 +2152,7 @@
       "metal": "Silver",
       "city": "Burhanpur",
       "url": "https://www.policybazaar.com/silver-rate/burhanpur/",
-      "fetched_at": "2026-11-28T07:32:19.476726+05:30",
+      "fetched_at": "2026-11-28T15:59:38.349401+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2171,7 +2171,7 @@
       "metal": "Silver",
       "city": "Chandigarh",
       "url": "https://www.policybazaar.com/silver-rate/chandigarh/",
-      "fetched_at": "2026-11-28T07:32:19.995487+05:30",
+      "fetched_at": "2026-11-28T15:59:38.745750+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2190,7 +2190,7 @@
       "metal": "Silver",
       "city": "Chandrapur",
       "url": "https://www.policybazaar.com/silver-rate/chandrapur/",
-      "fetched_at": "2026-11-28T07:32:20.304594+05:30",
+      "fetched_at": "2026-11-28T15:59:39.242225+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2209,7 +2209,7 @@
       "metal": "Silver",
       "city": "Chennai",
       "url": "https://www.policybazaar.com/silver-rate/chennai/",
-      "fetched_at": "2026-11-28T07:32:20.315690+05:30",
+      "fetched_at": "2026-11-28T15:59:39.738217+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2228,7 +2228,7 @@
       "metal": "Silver",
       "city": "Chhindwara",
       "url": "https://www.policybazaar.com/silver-rate/chhindwara/",
-      "fetched_at": "2026-11-28T07:32:21.208895+05:30",
+      "fetched_at": "2026-11-28T15:59:40.202752+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2247,7 +2247,7 @@
       "metal": "Silver",
       "city": "Chikmagalur",
       "url": "https://www.policybazaar.com/silver-rate/chikmagalur/",
-      "fetched_at": "2026-11-28T07:32:21.431601+05:30",
+      "fetched_at": "2026-11-28T15:59:40.544482+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2266,7 +2266,7 @@
       "metal": "Silver",
       "city": "Chilakaluripet",
       "url": "https://www.policybazaar.com/silver-rate/chilakaluripet/",
-      "fetched_at": "2026-11-28T07:32:21.497608+05:30",
+      "fetched_at": "2026-11-28T15:59:40.862032+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2285,7 +2285,7 @@
       "metal": "Silver",
       "city": "Chitradurga",
       "url": "https://www.policybazaar.com/silver-rate/chitradurga/",
-      "fetched_at": "2026-11-28T07:32:21.964333+05:30",
+      "fetched_at": "2026-11-28T15:59:40.999638+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2304,7 +2304,7 @@
       "metal": "Silver",
       "city": "Chittoor",
       "url": "https://www.policybazaar.com/silver-rate/chittoor/",
-      "fetched_at": "2026-11-28T07:32:22.956070+05:30",
+      "fetched_at": "2026-11-28T15:59:41.401859+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2323,7 +2323,7 @@
       "metal": "Silver",
       "city": "Coimbatore",
       "url": "https://www.policybazaar.com/silver-rate/coimbatore/",
-      "fetched_at": "2026-11-28T07:32:23.040899+05:30",
+      "fetched_at": "2026-11-28T15:59:42.012945+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2342,7 +2342,7 @@
       "metal": "Silver",
       "city": "Cuddalore",
       "url": "https://www.policybazaar.com/silver-rate/cuddalore/",
-      "fetched_at": "2026-11-28T07:32:23.069126+05:30",
+      "fetched_at": "2026-11-28T15:59:42.175090+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2361,7 +2361,7 @@
       "metal": "Silver",
       "city": "Cuttack",
       "url": "https://www.policybazaar.com/silver-rate/cuttack/",
-      "fetched_at": "2026-11-28T07:32:23.165616+05:30",
+      "fetched_at": "2026-11-28T15:59:42.766369+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2380,7 +2380,7 @@
       "metal": "Silver",
       "city": "Deesa",
       "url": "https://www.policybazaar.com/silver-rate/deesa/",
-      "fetched_at": "2026-11-28T07:32:24.904395+05:30",
+      "fetched_at": "2026-11-28T15:59:43.343828+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2399,7 +2399,7 @@
       "metal": "Silver",
       "city": "Dehradun",
       "url": "https://www.policybazaar.com/silver-rate/dehradun/",
-      "fetched_at": "2026-11-28T07:32:25.265576+05:30",
+      "fetched_at": "2026-11-28T15:59:43.772986+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2418,7 +2418,7 @@
       "metal": "Silver",
       "city": "Delhi",
       "url": "https://www.policybazaar.com/silver-rate/delhi/",
-      "fetched_at": "2026-11-28T07:32:25.468245+05:30",
+      "fetched_at": "2026-11-28T15:59:43.854068+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2437,7 +2437,7 @@
       "metal": "Silver",
       "city": "Deoghar",
       "url": "https://www.policybazaar.com/silver-rate/deoghar/",
-      "fetched_at": "2026-11-28T07:32:25.490860+05:30",
+      "fetched_at": "2026-11-28T15:59:44.049733+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2456,7 +2456,7 @@
       "metal": "Silver",
       "city": "Dewas",
       "url": "https://www.policybazaar.com/silver-rate/dewas/",
-      "fetched_at": "2026-11-28T07:32:26.471242+05:30",
+      "fetched_at": "2026-11-28T15:59:45.155070+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2475,7 +2475,7 @@
       "metal": "Silver",
       "city": "Dhanbad",
       "url": "https://www.policybazaar.com/silver-rate/dhanbad/",
-      "fetched_at": "2026-11-28T07:32:27.191137+05:30",
+      "fetched_at": "2026-11-28T15:59:45.380504+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2494,7 +2494,7 @@
       "metal": "Silver",
       "city": "Dharmavaram",
       "url": "https://www.policybazaar.com/silver-rate/dharmavaram/",
-      "fetched_at": "2026-11-28T07:32:27.279939+05:30",
+      "fetched_at": "2026-11-28T15:59:45.407565+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2513,7 +2513,7 @@
       "metal": "Silver",
       "city": "Dhule",
       "url": "https://www.policybazaar.com/silver-rate/dhule/",
-      "fetched_at": "2026-11-28T07:32:27.754259+05:30",
+      "fetched_at": "2026-11-28T15:59:45.583472+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2532,7 +2532,7 @@
       "metal": "Silver",
       "city": "Dibrugarh",
       "url": "https://www.policybazaar.com/silver-rate/dibrugarh/",
-      "fetched_at": "2026-11-28T07:32:27.918574+05:30",
+      "fetched_at": "2026-11-28T15:59:47.157701+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2551,7 +2551,7 @@
       "metal": "Silver",
       "city": "Dindigul",
       "url": "https://www.policybazaar.com/silver-rate/dindigul/",
-      "fetched_at": "2026-11-28T07:32:29.491301+05:30",
+      "fetched_at": "2026-11-28T15:59:47.285396+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2570,7 +2570,7 @@
       "metal": "Silver",
       "city": "Durgapur",
       "url": "https://www.policybazaar.com/silver-rate/durgapur/",
-      "fetched_at": "2026-11-28T07:32:29.522631+05:30",
+      "fetched_at": "2026-11-28T15:59:47.327706+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2589,7 +2589,7 @@
       "metal": "Silver",
       "city": "Eluru",
       "url": "https://www.policybazaar.com/silver-rate/eluru/",
-      "fetched_at": "2026-11-28T07:32:29.536073+05:30",
+      "fetched_at": "2026-11-28T15:59:47.550586+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2608,7 +2608,7 @@
       "metal": "Silver",
       "city": "Erode",
       "url": "https://www.policybazaar.com/silver-rate/erode/",
-      "fetched_at": "2026-11-28T07:32:29.930194+05:30",
+      "fetched_at": "2026-11-28T15:59:48.141713+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2627,7 +2627,7 @@
       "metal": "Silver",
       "city": "Faridabad",
       "url": "https://www.policybazaar.com/silver-rate/faridabad/",
-      "fetched_at": "2026-11-28T07:32:30.581975+05:30",
+      "fetched_at": "2026-11-28T15:59:48.553056+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2646,7 +2646,7 @@
       "metal": "Silver",
       "city": "Firozabad",
       "url": "https://www.policybazaar.com/silver-rate/firozabad/",
-      "fetched_at": "2026-11-28T07:32:30.618156+05:30",
+      "fetched_at": "2026-11-28T15:59:48.691455+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2665,7 +2665,7 @@
       "metal": "Silver",
       "city": "Gandhidham",
       "url": "https://www.policybazaar.com/silver-rate/gandhidham/",
-      "fetched_at": "2026-11-28T07:32:30.710255+05:30",
+      "fetched_at": "2026-11-28T15:59:49.229575+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2684,7 +2684,7 @@
       "metal": "Silver",
       "city": "Gandhinagar",
       "url": "https://www.policybazaar.com/silver-rate/gandhinagar/",
-      "fetched_at": "2026-11-28T07:32:31.642362+05:30",
+      "fetched_at": "2026-11-28T15:59:49.740511+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2703,7 +2703,7 @@
       "metal": "Silver",
       "city": "Gaya",
       "url": "https://www.policybazaar.com/silver-rate/gaya/",
-      "fetched_at": "2026-11-28T07:32:31.959443+05:30",
+      "fetched_at": "2026-11-28T15:59:50.548725+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2722,7 +2722,7 @@
       "metal": "Silver",
       "city": "Giridih",
       "url": "https://www.policybazaar.com/silver-rate/giridih/",
-      "fetched_at": "2026-11-28T07:32:32.208269+05:30",
+      "fetched_at": "2026-11-28T15:59:50.849132+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2741,7 +2741,7 @@
       "metal": "Silver",
       "city": "Godhra",
       "url": "https://www.policybazaar.com/silver-rate/godhra/",
-      "fetched_at": "2026-11-28T07:32:32.404505+05:30",
+      "fetched_at": "2026-11-28T15:59:51.329357+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2760,7 +2760,7 @@
       "metal": "Silver",
       "city": "Gorakhpur",
       "url": "https://www.policybazaar.com/silver-rate/gorakhpur/",
-      "fetched_at": "2026-11-28T07:32:33.138125+05:30",
+      "fetched_at": "2026-11-28T15:59:51.337681+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2779,7 +2779,7 @@
       "metal": "Silver",
       "city": "Gudivada",
       "url": "https://www.policybazaar.com/silver-rate/gudivada/",
-      "fetched_at": "2026-11-28T07:32:33.950684+05:30",
+      "fetched_at": "2026-11-28T15:59:52.317147+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2798,7 +2798,7 @@
       "metal": "Silver",
       "city": "Guna",
       "url": "https://www.policybazaar.com/silver-rate/guna/",
-      "fetched_at": "2026-11-28T07:32:34.183888+05:30",
+      "fetched_at": "2026-11-28T15:59:52.540470+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2817,7 +2817,7 @@
       "metal": "Silver",
       "city": "Guntakal",
       "url": "https://www.policybazaar.com/silver-rate/guntakal/",
-      "fetched_at": "2026-11-28T07:32:34.412342+05:30",
+      "fetched_at": "2026-11-28T15:59:52.750014+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2836,7 +2836,7 @@
       "metal": "Silver",
       "city": "Guntur",
       "url": "https://www.policybazaar.com/silver-rate/guntur/",
-      "fetched_at": "2026-11-28T07:32:34.473795+05:30",
+      "fetched_at": "2026-11-28T15:59:53.319222+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2855,7 +2855,7 @@
       "metal": "Silver",
       "city": "Gurgaon",
       "url": "https://www.policybazaar.com/silver-rate/gurgaon/",
-      "fetched_at": "2026-11-28T07:32:35.613729+05:30",
+      "fetched_at": "2026-11-28T15:59:53.619979+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2874,7 +2874,7 @@
       "metal": "Silver",
       "city": "Guwahati",
       "url": "https://www.policybazaar.com/silver-rate/guwahati/",
-      "fetched_at": "2026-11-28T07:32:36.253276+05:30",
+      "fetched_at": "2026-11-28T15:59:53.945227+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2893,7 +2893,7 @@
       "metal": "Silver",
       "city": "Gwalior",
       "url": "https://www.policybazaar.com/silver-rate/gwalior/",
-      "fetched_at": "2026-11-28T07:32:36.370756+05:30",
+      "fetched_at": "2026-11-28T15:59:54.121359+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2912,7 +2912,7 @@
       "metal": "Silver",
       "city": "Hanumangarh",
       "url": "https://www.policybazaar.com/silver-rate/hanumangarh/",
-      "fetched_at": "2026-11-28T07:32:36.464459+05:30",
+      "fetched_at": "2026-11-28T15:59:54.777842+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2931,7 +2931,7 @@
       "metal": "Silver",
       "city": "Hassan",
       "url": "https://www.policybazaar.com/silver-rate/hassan/",
-      "fetched_at": "2026-11-28T07:32:36.607745+05:30",
+      "fetched_at": "2026-11-28T15:59:55.145443+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -2950,7 +2950,7 @@
       "metal": "Silver",
       "city": "Hindupur",
       "url": "https://www.policybazaar.com/silver-rate/hindupur/",
-      "fetched_at": "2026-11-28T07:32:37.406296+05:30",
+      "fetched_at": "2026-11-28T15:59:55.358148+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2969,7 +2969,7 @@
       "metal": "Silver",
       "city": "Hinganghat",
       "url": "https://www.policybazaar.com/silver-rate/hinganghat/",
-      "fetched_at": "2026-11-28T07:32:37.562033+05:30",
+      "fetched_at": "2026-11-28T15:59:55.739141+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -2988,7 +2988,7 @@
       "metal": "Silver",
       "city": "Hisar",
       "url": "https://www.policybazaar.com/silver-rate/hisar/",
-      "fetched_at": "2026-11-28T07:32:38.475640+05:30",
+      "fetched_at": "2026-11-28T15:59:56.693731+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3007,7 +3007,7 @@
       "metal": "Silver",
       "city": "Hoshiarpur",
       "url": "https://www.policybazaar.com/silver-rate/hoshiarpur/",
-      "fetched_at": "2026-11-28T07:32:38.554617+05:30",
+      "fetched_at": "2026-11-28T15:59:56.725803+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3026,7 +3026,7 @@
       "metal": "Silver",
       "city": "Hospet",
       "url": "https://www.policybazaar.com/silver-rate/hospet/",
-      "fetched_at": "2026-11-28T07:32:38.602317+05:30",
+      "fetched_at": "2026-11-28T15:59:56.843886+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3045,7 +3045,7 @@
       "metal": "Silver",
       "city": "Hosur",
       "url": "https://www.policybazaar.com/silver-rate/hosur/",
-      "fetched_at": "2026-11-28T07:32:39.294693+05:30",
+      "fetched_at": "2026-11-28T15:59:57.812226+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3064,7 +3064,7 @@
       "metal": "Silver",
       "city": "Ichalkaranji",
       "url": "https://www.policybazaar.com/silver-rate/ichalkaranji/",
-      "fetched_at": "2026-11-28T07:32:39.625140+05:30",
+      "fetched_at": "2026-11-28T15:59:57.882902+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3083,7 +3083,7 @@
       "metal": "Silver",
       "city": "Imphal",
       "url": "https://www.policybazaar.com/silver-rate/imphal/",
-      "fetched_at": "2026-11-28T07:32:39.928520+05:30",
+      "fetched_at": "2026-11-28T15:59:58.173227+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3102,7 +3102,7 @@
       "metal": "Silver",
       "city": "Indore",
       "url": "https://www.policybazaar.com/silver-rate/indore/",
-      "fetched_at": "2026-11-28T07:32:40.253510+05:30",
+      "fetched_at": "2026-11-28T15:59:58.365272+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3121,7 +3121,7 @@
       "metal": "Silver",
       "city": "Jabalpur",
       "url": "https://www.policybazaar.com/silver-rate/jabalpur/",
-      "fetched_at": "2026-11-28T07:32:40.801245+05:30",
+      "fetched_at": "2026-11-28T15:59:59.485450+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3140,7 +3140,7 @@
       "metal": "Silver",
       "city": "Jagdalpur",
       "url": "https://www.policybazaar.com/silver-rate/jagdalpur/",
-      "fetched_at": "2026-11-28T07:32:41.398659+05:30",
+      "fetched_at": "2026-11-28T15:59:59.740462+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3159,7 +3159,7 @@
       "metal": "Silver",
       "city": "Jaipur",
       "url": "https://www.policybazaar.com/silver-rate/jaipur/",
-      "fetched_at": "2026-11-28T07:32:41.761552+05:30",
+      "fetched_at": "2026-11-28T15:59:59.908466+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3178,7 +3178,7 @@
       "metal": "Silver",
       "city": "Jalandhar",
       "url": "https://www.policybazaar.com/silver-rate/jalandhar/",
-      "fetched_at": "2026-11-28T07:32:42.177917+05:30",
+      "fetched_at": "2026-11-28T15:59:59.974217+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3197,7 +3197,7 @@
       "metal": "Silver",
       "city": "Jalgaon",
       "url": "https://www.policybazaar.com/silver-rate/jalgaon/",
-      "fetched_at": "2026-11-28T07:32:42.972753+05:30",
+      "fetched_at": "2026-11-28T16:00:00.444220+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3216,7 +3216,7 @@
       "metal": "Silver",
       "city": "Jalna",
       "url": "https://www.policybazaar.com/silver-rate/jalna/",
-      "fetched_at": "2026-11-28T07:32:43.149790+05:30",
+      "fetched_at": "2026-11-28T16:00:01.248280+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3235,7 +3235,7 @@
       "metal": "Silver",
       "city": "Jalpaiguri",
       "url": "https://www.policybazaar.com/silver-rate/jalpaiguri/",
-      "fetched_at": "2026-11-28T07:32:43.430478+05:30",
+      "fetched_at": "2026-11-28T16:00:01.453410+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3254,7 +3254,7 @@
       "metal": "Silver",
       "city": "Jammu",
       "url": "https://www.policybazaar.com/silver-rate/jammu/",
-      "fetched_at": "2026-11-28T07:32:43.985355+05:30",
+      "fetched_at": "2026-11-28T16:00:01.678488+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3273,7 +3273,7 @@
       "metal": "Silver",
       "city": "Jamnagar",
       "url": "https://www.policybazaar.com/silver-rate/jamnagar/",
-      "fetched_at": "2026-11-28T07:32:44.303223+05:30",
+      "fetched_at": "2026-11-28T16:00:02.427701+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3292,7 +3292,7 @@
       "metal": "Silver",
       "city": "Jamshedpur",
       "url": "https://www.policybazaar.com/silver-rate/jamshedpur/",
-      "fetched_at": "2026-11-28T07:32:44.639162+05:30",
+      "fetched_at": "2026-11-28T16:00:02.639494+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3311,7 +3311,7 @@
       "metal": "Silver",
       "city": "Jhansi",
       "url": "https://www.policybazaar.com/silver-rate/jhansi/",
-      "fetched_at": "2026-11-28T07:32:44.710296+05:30",
+      "fetched_at": "2026-11-28T16:00:02.805245+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3330,7 +3330,7 @@
       "metal": "Silver",
       "city": "Jind",
       "url": "https://www.policybazaar.com/silver-rate/jind/",
-      "fetched_at": "2026-11-28T07:32:46.100289+05:30",
+      "fetched_at": "2026-11-28T16:00:04.028880+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3349,7 +3349,7 @@
       "metal": "Silver",
       "city": "Jodhpur",
       "url": "https://www.policybazaar.com/silver-rate/jodhpur/",
-      "fetched_at": "2026-11-28T07:32:46.228018+05:30",
+      "fetched_at": "2026-11-28T16:00:04.225831+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3368,7 +3368,7 @@
       "metal": "Silver",
       "city": "Junagadh",
       "url": "https://www.policybazaar.com/silver-rate/junagadh/",
-      "fetched_at": "2026-11-28T07:32:46.364904+05:30",
+      "fetched_at": "2026-11-28T16:00:04.239099+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3387,7 +3387,7 @@
       "metal": "Silver",
       "city": "Kadapa",
       "url": "https://www.policybazaar.com/silver-rate/kadapa/",
-      "fetched_at": "2026-11-28T07:32:46.831426+05:30",
+      "fetched_at": "2026-11-28T16:00:04.736379+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3406,7 +3406,7 @@
       "metal": "Silver",
       "city": "Kaithal",
       "url": "https://www.policybazaar.com/silver-rate/kaithal/",
-      "fetched_at": "2026-11-28T07:32:47.167004+05:30",
+      "fetched_at": "2026-11-28T16:00:05.268741+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3425,7 +3425,7 @@
       "metal": "Silver",
       "city": "Kakinada",
       "url": "https://www.policybazaar.com/silver-rate/kakinada/",
-      "fetched_at": "2026-11-28T07:32:47.429130+05:30",
+      "fetched_at": "2026-11-28T16:00:05.403491+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3444,7 +3444,7 @@
       "metal": "Silver",
       "city": "Kanpur",
       "url": "https://www.policybazaar.com/silver-rate/kanpur/",
-      "fetched_at": "2026-11-28T07:32:48.268847+05:30",
+      "fetched_at": "2026-11-28T16:00:05.743020+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3463,7 +3463,7 @@
       "metal": "Silver",
       "city": "Karimnagar",
       "url": "https://www.policybazaar.com/silver-rate/karimnagar/",
-      "fetched_at": "2026-11-28T07:32:48.519349+05:30",
+      "fetched_at": "2026-11-28T16:00:06.289140+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3482,7 +3482,7 @@
       "metal": "Silver",
       "city": "Karnal",
       "url": "https://www.policybazaar.com/silver-rate/karnal/",
-      "fetched_at": "2026-11-28T07:32:48.778959+05:30",
+      "fetched_at": "2026-11-28T16:00:06.670938+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3501,7 +3501,7 @@
       "metal": "Silver",
       "city": "Khammam",
       "url": "https://www.policybazaar.com/silver-rate/khammam/",
-      "fetched_at": "2026-11-28T07:32:48.781294+05:30",
+      "fetched_at": "2026-11-28T16:00:07.472761+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3520,7 +3520,7 @@
       "metal": "Silver",
       "city": "Khandwa",
       "url": "https://www.policybazaar.com/silver-rate/khandwa/",
-      "fetched_at": "2026-11-28T07:32:49.716140+05:30",
+      "fetched_at": "2026-11-28T16:00:07.701182+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3539,7 +3539,7 @@
       "metal": "Silver",
       "city": "Khanna",
       "url": "https://www.policybazaar.com/silver-rate/khanna/",
-      "fetched_at": "2026-11-28T07:32:50.127069+05:30",
+      "fetched_at": "2026-11-28T16:00:07.802054+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3558,7 +3558,7 @@
       "metal": "Silver",
       "city": "Kharagpur",
       "url": "https://www.policybazaar.com/silver-rate/kharagpur/",
-      "fetched_at": "2026-11-28T07:32:50.365290+05:30",
+      "fetched_at": "2026-11-28T16:00:08.103429+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3577,7 +3577,7 @@
       "metal": "Silver",
       "city": "Khargone",
       "url": "https://www.policybazaar.com/silver-rate/khargone/",
-      "fetched_at": "2026-11-28T07:32:50.456454+05:30",
+      "fetched_at": "2026-11-28T16:00:08.718015+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3596,7 +3596,7 @@
       "metal": "Silver",
       "city": "Kochi",
       "url": "https://www.policybazaar.com/silver-rate/kochi/",
-      "fetched_at": "2026-11-28T07:32:50.810938+05:30",
+      "fetched_at": "2026-11-28T16:00:09.506173+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3615,7 +3615,7 @@
       "metal": "Silver",
       "city": "Kolar",
       "url": "https://www.policybazaar.com/silver-rate/kolar/",
-      "fetched_at": "2026-11-28T07:32:51.524730+05:30",
+      "fetched_at": "2026-11-28T16:00:09.936713+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3634,7 +3634,7 @@
       "metal": "Silver",
       "city": "Kolhapur",
       "url": "https://www.policybazaar.com/silver-rate/kolhapur/",
-      "fetched_at": "2026-11-28T07:32:51.918756+05:30",
+      "fetched_at": "2026-11-28T16:00:10.429896+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3653,7 +3653,7 @@
       "metal": "Silver",
       "city": "Kolkata",
       "url": "https://www.policybazaar.com/silver-rate/kolkata/",
-      "fetched_at": "2026-11-28T07:32:52.089681+05:30",
+      "fetched_at": "2026-11-28T16:00:10.833627+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3672,7 +3672,7 @@
       "metal": "Silver",
       "city": "Kollam",
       "url": "https://www.policybazaar.com/silver-rate/kollam/",
-      "fetched_at": "2026-11-28T07:32:52.693153+05:30",
+      "fetched_at": "2026-11-28T16:00:11.580690+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3691,7 +3691,7 @@
       "metal": "Silver",
       "city": "Korba",
       "url": "https://www.policybazaar.com/silver-rate/korba/",
-      "fetched_at": "2026-11-28T07:32:52.889132+05:30",
+      "fetched_at": "2026-11-28T16:00:11.815324+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3710,7 +3710,7 @@
       "metal": "Silver",
       "city": "Kota",
       "url": "https://www.policybazaar.com/silver-rate/kota/",
-      "fetched_at": "2026-11-28T07:32:52.949072+05:30",
+      "fetched_at": "2026-11-28T16:00:11.943057+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3729,7 +3729,7 @@
       "metal": "Silver",
       "city": "Kozhikode",
       "url": "https://www.policybazaar.com/silver-rate/kozhikode/",
-      "fetched_at": "2026-11-28T07:32:54.001478+05:30",
+      "fetched_at": "2026-11-28T16:00:12.746809+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3748,7 +3748,7 @@
       "metal": "Silver",
       "city": "Kumbakonam",
       "url": "https://www.policybazaar.com/silver-rate/kumbakonam/",
-      "fetched_at": "2026-11-28T07:32:54.045379+05:30",
+      "fetched_at": "2026-11-28T16:00:13.936714+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3767,7 +3767,7 @@
       "metal": "Silver",
       "city": "Kurnool",
       "url": "https://www.policybazaar.com/silver-rate/kurnool/",
-      "fetched_at": "2026-11-28T07:32:54.174065+05:30",
+      "fetched_at": "2026-11-28T16:00:14.081467+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3786,7 +3786,7 @@
       "metal": "Silver",
       "city": "Latur",
       "url": "https://www.policybazaar.com/silver-rate/latur/",
-      "fetched_at": "2026-11-28T07:32:54.799175+05:30",
+      "fetched_at": "2026-11-28T16:00:14.086580+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3805,7 +3805,7 @@
       "metal": "Silver",
       "city": "Lucknow",
       "url": "https://www.policybazaar.com/silver-rate/lucknow/",
-      "fetched_at": "2026-11-28T07:32:56.035001+05:30",
+      "fetched_at": "2026-11-28T16:00:14.777008+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3824,7 +3824,7 @@
       "metal": "Silver",
       "city": "Ludhiana",
       "url": "https://www.policybazaar.com/silver-rate/ludhiana/",
-      "fetched_at": "2026-11-28T07:32:56.129220+05:30",
+      "fetched_at": "2026-11-28T16:00:15.269509+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3843,7 +3843,7 @@
       "metal": "Silver",
       "city": "Machilipatnam",
       "url": "https://www.policybazaar.com/silver-rate/machilipatnam/",
-      "fetched_at": "2026-11-28T07:32:56.162170+05:30",
+      "fetched_at": "2026-11-28T16:00:15.487049+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3862,7 +3862,7 @@
       "metal": "Silver",
       "city": "Madanapalle",
       "url": "https://www.policybazaar.com/silver-rate/madanapalle/",
-      "fetched_at": "2026-11-28T07:32:56.214215+05:30",
+      "fetched_at": "2026-11-28T16:00:15.754155+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3881,7 +3881,7 @@
       "metal": "Silver",
       "city": "Madurai",
       "url": "https://www.policybazaar.com/silver-rate/madurai/",
-      "fetched_at": "2026-11-28T07:32:57.852276+05:30",
+      "fetched_at": "2026-11-28T16:00:16.453214+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3900,7 +3900,7 @@
       "metal": "Silver",
       "city": "Maheshtala",
       "url": "https://www.policybazaar.com/silver-rate/maheshtala/",
-      "fetched_at": "2026-11-28T07:32:58.274551+05:30",
+      "fetched_at": "2026-11-28T16:00:16.630791+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3919,7 +3919,7 @@
       "metal": "Silver",
       "city": "Malegaon",
       "url": "https://www.policybazaar.com/silver-rate/malegaon/",
-      "fetched_at": "2026-11-28T07:32:58.371747+05:30",
+      "fetched_at": "2026-11-28T16:00:17.186813+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3938,7 +3938,7 @@
       "metal": "Silver",
       "city": "Malerkotla",
       "url": "https://www.policybazaar.com/silver-rate/malerkotla/",
-      "fetched_at": "2026-11-28T07:32:58.464581+05:30",
+      "fetched_at": "2026-11-28T16:00:17.638583+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -3957,7 +3957,7 @@
       "metal": "Silver",
       "city": "Mandsaur",
       "url": "https://www.policybazaar.com/silver-rate/mandsaur/",
-      "fetched_at": "2026-11-28T07:32:58.886330+05:30",
+      "fetched_at": "2026-11-28T16:00:17.654900+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3976,7 +3976,7 @@
       "metal": "Silver",
       "city": "Mandya",
       "url": "https://www.policybazaar.com/silver-rate/mandya/",
-      "fetched_at": "2026-11-28T07:32:59.372477+05:30",
+      "fetched_at": "2026-11-28T16:00:18.446613+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -3995,7 +3995,7 @@
       "metal": "Silver",
       "city": "Mangalore",
       "url": "https://www.policybazaar.com/silver-rate/mangalore/",
-      "fetched_at": "2026-11-28T07:32:59.706108+05:30",
+      "fetched_at": "2026-11-28T16:00:18.481914+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4014,7 +4014,7 @@
       "metal": "Silver",
       "city": "Mathura",
       "url": "https://www.policybazaar.com/silver-rate/mathura/",
-      "fetched_at": "2026-11-28T07:33:00.374363+05:30",
+      "fetched_at": "2026-11-28T16:00:19.477928+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4033,7 +4033,7 @@
       "metal": "Silver",
       "city": "Meerut",
       "url": "https://www.policybazaar.com/silver-rate/meerut/",
-      "fetched_at": "2026-11-28T07:33:00.880020+05:30",
+      "fetched_at": "2026-11-28T16:00:19.613462+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4052,7 +4052,7 @@
       "metal": "Silver",
       "city": "Miryalaguda",
       "url": "https://www.policybazaar.com/silver-rate/miryalaguda/",
-      "fetched_at": "2026-11-28T07:33:00.941883+05:30",
+      "fetched_at": "2026-11-28T16:00:19.983660+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4071,7 +4071,7 @@
       "metal": "Silver",
       "city": "Moga",
       "url": "https://www.policybazaar.com/silver-rate/moga/",
-      "fetched_at": "2026-11-28T07:33:01.690560+05:30",
+      "fetched_at": "2026-11-28T16:00:20.011371+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4090,7 +4090,7 @@
       "metal": "Silver",
       "city": "Moradabad",
       "url": "https://www.policybazaar.com/silver-rate/moradabad/",
-      "fetched_at": "2026-11-28T07:33:01.733643+05:30",
+      "fetched_at": "2026-11-28T16:00:21.365200+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4109,7 +4109,7 @@
       "metal": "Silver",
       "city": "Morena",
       "url": "https://www.policybazaar.com/silver-rate/morena/",
-      "fetched_at": "2026-11-28T07:33:02.235968+05:30",
+      "fetched_at": "2026-11-28T16:00:21.679705+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4128,7 +4128,7 @@
       "metal": "Silver",
       "city": "Murwara",
       "url": "https://www.policybazaar.com/silver-rate/murwara/",
-      "fetched_at": "2026-11-28T07:33:02.769267+05:30",
+      "fetched_at": "2026-11-28T16:00:21.779037+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4147,7 +4147,7 @@
       "metal": "Silver",
       "city": "Muzaffarnagar",
       "url": "https://www.policybazaar.com/silver-rate/muzaffarnagar/",
-      "fetched_at": "2026-11-28T07:33:02.834094+05:30",
+      "fetched_at": "2026-11-28T16:00:21.802385+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4166,7 +4166,7 @@
       "metal": "Silver",
       "city": "Muzaffarpur",
       "url": "https://www.policybazaar.com/silver-rate/muzaffarpur/",
-      "fetched_at": "2026-11-28T07:33:03.015974+05:30",
+      "fetched_at": "2026-11-28T16:00:22.535251+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4185,7 +4185,7 @@
       "metal": "Silver",
       "city": "Mysore",
       "url": "https://www.policybazaar.com/silver-rate/mysore/",
-      "fetched_at": "2026-11-28T07:33:03.425659+05:30",
+      "fetched_at": "2026-11-28T16:00:23.123147+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4204,7 +4204,7 @@
       "metal": "Silver",
       "city": "Nadiad",
       "url": "https://www.policybazaar.com/silver-rate/nadiad/",
-      "fetched_at": "2026-11-28T07:33:04.160986+05:30",
+      "fetched_at": "2026-11-28T16:00:23.158738+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4223,7 +4223,7 @@
       "metal": "Silver",
       "city": "Nagapattinam",
       "url": "https://www.policybazaar.com/silver-rate/nagapattinam/",
-      "fetched_at": "2026-11-28T07:33:04.605876+05:30",
+      "fetched_at": "2026-11-28T16:00:23.658501+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4242,7 +4242,7 @@
       "metal": "Silver",
       "city": "Nagercoil",
       "url": "https://www.policybazaar.com/silver-rate/nagercoil/",
-      "fetched_at": "2026-11-28T07:33:04.949895+05:30",
+      "fetched_at": "2026-11-28T16:00:24.867028+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4261,7 +4261,7 @@
       "metal": "Silver",
       "city": "Nagpur",
       "url": "https://www.policybazaar.com/silver-rate/nagpur/",
-      "fetched_at": "2026-11-28T07:33:04.974541+05:30",
+      "fetched_at": "2026-11-28T16:00:25.288670+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4280,7 +4280,7 @@
       "metal": "Silver",
       "city": "Nalgonda",
       "url": "https://www.policybazaar.com/silver-rate/nalgonda/",
-      "fetched_at": "2026-11-28T07:33:05.685823+05:30",
+      "fetched_at": "2026-11-28T16:00:25.361244+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4299,7 +4299,7 @@
       "metal": "Silver",
       "city": "Nandurbar",
       "url": "https://www.policybazaar.com/silver-rate/nandurbar/",
-      "fetched_at": "2026-11-28T07:33:06.083798+05:30",
+      "fetched_at": "2026-11-28T16:00:25.373607+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4318,7 +4318,7 @@
       "metal": "Silver",
       "city": "Nandyal",
       "url": "https://www.policybazaar.com/silver-rate/nandyal/",
-      "fetched_at": "2026-11-28T07:33:06.567395+05:30",
+      "fetched_at": "2026-11-28T16:00:26.405414+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4337,7 +4337,7 @@
       "metal": "Silver",
       "city": "Nashik",
       "url": "https://www.policybazaar.com/silver-rate/nashik/",
-      "fetched_at": "2026-11-28T07:33:06.712919+05:30",
+      "fetched_at": "2026-11-28T16:00:26.588890+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4356,7 +4356,7 @@
       "metal": "Silver",
       "city": "Navsari",
       "url": "https://www.policybazaar.com/silver-rate/navsari/",
-      "fetched_at": "2026-11-28T07:33:07.230565+05:30",
+      "fetched_at": "2026-11-28T16:00:26.895803+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4375,7 +4375,7 @@
       "metal": "Silver",
       "city": "Neemuch",
       "url": "https://www.policybazaar.com/silver-rate/neemuch/",
-      "fetched_at": "2026-11-28T07:33:07.967807+05:30",
+      "fetched_at": "2026-11-28T16:00:27.465836+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4394,7 +4394,7 @@
       "metal": "Silver",
       "city": "Nellore",
       "url": "https://www.policybazaar.com/silver-rate/nellore/",
-      "fetched_at": "2026-11-28T07:33:07.994185+05:30",
+      "fetched_at": "2026-11-28T16:00:28.130594+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4413,7 +4413,7 @@
       "metal": "Silver",
       "city": "Neyveli",
       "url": "https://www.policybazaar.com/silver-rate/neyveli/",
-      "fetched_at": "2026-11-28T07:33:08.846041+05:30",
+      "fetched_at": "2026-11-28T16:00:28.617742+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4432,7 +4432,7 @@
       "metal": "Silver",
       "city": "Nizamabad",
       "url": "https://www.policybazaar.com/silver-rate/nizamabad/",
-      "fetched_at": "2026-11-28T07:33:09.077232+05:30",
+      "fetched_at": "2026-11-28T16:00:28.710680+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4451,7 +4451,7 @@
       "metal": "Silver",
       "city": "Noida",
       "url": "https://www.policybazaar.com/silver-rate/noida/",
-      "fetched_at": "2026-11-28T07:33:09.898231+05:30",
+      "fetched_at": "2026-11-28T16:00:28.837329+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4470,7 +4470,7 @@
       "metal": "Silver",
       "city": "Ongole",
       "url": "https://www.policybazaar.com/silver-rate/ongole/",
-      "fetched_at": "2026-11-28T07:33:10.348253+05:30",
+      "fetched_at": "2026-11-28T16:00:29.519851+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4489,7 +4489,7 @@
       "metal": "Silver",
       "city": "Osmanabad",
       "url": "https://www.policybazaar.com/silver-rate/osmanabad/",
-      "fetched_at": "2026-11-28T07:33:10.488908+05:30",
+      "fetched_at": "2026-11-28T16:00:30.359566+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4508,7 +4508,7 @@
       "metal": "Silver",
       "city": "Palanpur",
       "url": "https://www.policybazaar.com/silver-rate/palanpur/",
-      "fetched_at": "2026-11-28T07:33:11.033862+05:30",
+      "fetched_at": "2026-11-28T16:00:30.561742+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4527,7 +4527,7 @@
       "metal": "Silver",
       "city": "Palwal",
       "url": "https://www.policybazaar.com/silver-rate/palwal/",
-      "fetched_at": "2026-11-28T07:33:11.916343+05:30",
+      "fetched_at": "2026-11-28T16:00:30.817021+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4546,7 +4546,7 @@
       "metal": "Silver",
       "city": "Panchkula",
       "url": "https://www.policybazaar.com/silver-rate/panchkula/",
-      "fetched_at": "2026-11-28T07:33:12.210812+05:30",
+      "fetched_at": "2026-11-28T16:00:30.854358+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4565,7 +4565,7 @@
       "metal": "Silver",
       "city": "Panipat",
       "url": "https://www.policybazaar.com/silver-rate/panipat/",
-      "fetched_at": "2026-11-28T07:33:12.315782+05:30",
+      "fetched_at": "2026-11-28T16:00:31.878932+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4584,7 +4584,7 @@
       "metal": "Silver",
       "city": "Panvel",
       "url": "https://www.policybazaar.com/silver-rate/panvel/",
-      "fetched_at": "2026-11-28T07:33:12.379689+05:30",
+      "fetched_at": "2026-11-28T16:00:31.885808+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4603,7 +4603,7 @@
       "metal": "Silver",
       "city": "Parbhani",
       "url": "https://www.policybazaar.com/silver-rate/parbhani/",
-      "fetched_at": "2026-11-28T07:33:13.546450+05:30",
+      "fetched_at": "2026-11-28T16:00:32.200691+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4622,7 +4622,7 @@
       "metal": "Silver",
       "city": "Patan",
       "url": "https://www.policybazaar.com/silver-rate/patan/",
-      "fetched_at": "2026-11-28T07:33:13.624306+05:30",
+      "fetched_at": "2026-11-28T16:00:32.376171+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4641,7 +4641,7 @@
       "metal": "Silver",
       "city": "Pathankot",
       "url": "https://www.policybazaar.com/silver-rate/pathankot/",
-      "fetched_at": "2026-11-28T07:33:14.596430+05:30",
+      "fetched_at": "2026-11-28T16:00:33.297946+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4660,7 +4660,7 @@
       "metal": "Silver",
       "city": "Patiala",
       "url": "https://www.policybazaar.com/silver-rate/patiala/",
-      "fetched_at": "2026-11-28T07:33:14.947699+05:30",
+      "fetched_at": "2026-11-28T16:00:33.443381+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4679,7 +4679,7 @@
       "metal": "Silver",
       "city": "Patna",
       "url": "https://www.policybazaar.com/silver-rate/patna/",
-      "fetched_at": "2026-11-28T07:33:15.329172+05:30",
+      "fetched_at": "2026-11-28T16:00:34.595696+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4698,7 +4698,7 @@
       "metal": "Silver",
       "city": "Porbandar",
       "url": "https://www.policybazaar.com/silver-rate/porbandar/",
-      "fetched_at": "2026-11-28T07:33:15.734307+05:30",
+      "fetched_at": "2026-11-28T16:00:34.605813+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4717,7 +4717,7 @@
       "metal": "Silver",
       "city": "Proddatur",
       "url": "https://www.policybazaar.com/silver-rate/proddatur/",
-      "fetched_at": "2026-11-28T07:33:15.995397+05:30",
+      "fetched_at": "2026-11-28T16:00:34.717114+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4736,7 +4736,7 @@
       "metal": "Silver",
       "city": "Pudukkottai",
       "url": "https://www.policybazaar.com/silver-rate/pudukkottai/",
-      "fetched_at": "2026-11-28T07:33:16.583871+05:30",
+      "fetched_at": "2026-11-28T16:00:35.454565+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4755,7 +4755,7 @@
       "metal": "Silver",
       "city": "Pune",
       "url": "https://www.policybazaar.com/silver-rate/pune/",
-      "fetched_at": "2026-11-28T07:33:16.789498+05:30",
+      "fetched_at": "2026-11-28T16:00:36.434289+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4774,7 +4774,7 @@
       "metal": "Silver",
       "city": "Puri",
       "url": "https://www.policybazaar.com/silver-rate/puri/",
-      "fetched_at": "2026-11-28T07:33:17.042031+05:30",
+      "fetched_at": "2026-11-28T16:00:36.566568+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4793,7 +4793,7 @@
       "metal": "Silver",
       "city": "Purnia",
       "url": "https://www.policybazaar.com/silver-rate/purnia/",
-      "fetched_at": "2026-11-28T07:33:17.583331+05:30",
+      "fetched_at": "2026-11-28T16:00:36.601146+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4812,7 +4812,7 @@
       "metal": "Silver",
       "city": "Raichur",
       "url": "https://www.policybazaar.com/silver-rate/raichur/",
-      "fetched_at": "2026-11-28T07:33:17.916907+05:30",
+      "fetched_at": "2026-11-28T16:00:36.828184+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4831,7 +4831,7 @@
       "metal": "Silver",
       "city": "Raiganj",
       "url": "https://www.policybazaar.com/silver-rate/raiganj/",
-      "fetched_at": "2026-11-28T07:33:18.588699+05:30",
+      "fetched_at": "2026-11-28T16:00:37.835120+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4850,7 +4850,7 @@
       "metal": "Silver",
       "city": "Raigarh",
       "url": "https://www.policybazaar.com/silver-rate/raigarh/",
-      "fetched_at": "2026-11-28T07:33:18.623103+05:30",
+      "fetched_at": "2026-11-28T16:00:37.907704+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4869,7 +4869,7 @@
       "metal": "Silver",
       "city": "Raipur",
       "url": "https://www.policybazaar.com/silver-rate/raipur/",
-      "fetched_at": "2026-11-28T07:33:19.278014+05:30",
+      "fetched_at": "2026-11-28T16:00:38.069400+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4888,7 +4888,7 @@
       "metal": "Silver",
       "city": "Rajahmundry",
       "url": "https://www.policybazaar.com/silver-rate/rajahmundry/",
-      "fetched_at": "2026-11-28T07:33:19.568443+05:30",
+      "fetched_at": "2026-11-28T16:00:38.697512+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4907,7 +4907,7 @@
       "metal": "Silver",
       "city": "Rajapalayam",
       "url": "https://www.policybazaar.com/silver-rate/rajapalayam/",
-      "fetched_at": "2026-11-28T07:33:19.786806+05:30",
+      "fetched_at": "2026-11-28T16:00:39.262654+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4926,7 +4926,7 @@
       "metal": "Silver",
       "city": "Rajkot",
       "url": "https://www.policybazaar.com/silver-rate/rajkot/",
-      "fetched_at": "2026-11-28T07:33:20.657194+05:30",
+      "fetched_at": "2026-11-28T16:00:39.845131+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4945,7 +4945,7 @@
       "metal": "Silver",
       "city": "Rajnandgaon",
       "url": "https://www.policybazaar.com/silver-rate/rajnandgaon/",
-      "fetched_at": "2026-11-28T07:33:20.731538+05:30",
+      "fetched_at": "2026-11-28T16:00:40.095891+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -4964,7 +4964,7 @@
       "metal": "Silver",
       "city": "Ramagundam",
       "url": "https://www.policybazaar.com/silver-rate/ramagundam/",
-      "fetched_at": "2026-11-28T07:33:20.772230+05:30",
+      "fetched_at": "2026-11-28T16:00:40.483495+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -4983,7 +4983,7 @@
       "metal": "Silver",
       "city": "Rampur",
       "url": "https://www.policybazaar.com/silver-rate/rampur/",
-      "fetched_at": "2026-11-28T07:33:21.372557+05:30",
+      "fetched_at": "2026-11-28T16:00:40.879528+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5002,7 +5002,7 @@
       "metal": "Silver",
       "city": "Ranchi",
       "url": "https://www.policybazaar.com/silver-rate/ranchi/",
-      "fetched_at": "2026-11-28T07:33:22.073511+05:30",
+      "fetched_at": "2026-11-28T16:00:41.004359+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5021,7 +5021,7 @@
       "metal": "Silver",
       "city": "Ratlam",
       "url": "https://www.policybazaar.com/silver-rate/ratlam/",
-      "fetched_at": "2026-11-28T07:33:22.765762+05:30",
+      "fetched_at": "2026-11-28T16:00:41.480977+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5040,7 +5040,7 @@
       "metal": "Silver",
       "city": "Rewa",
       "url": "https://www.policybazaar.com/silver-rate/rewa/",
-      "fetched_at": "2026-11-28T07:33:22.964737+05:30",
+      "fetched_at": "2026-11-28T16:00:42.831222+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5059,7 +5059,7 @@
       "metal": "Silver",
       "city": "Rewari",
       "url": "https://www.policybazaar.com/silver-rate/rewari/",
-      "fetched_at": "2026-11-28T07:33:23.246790+05:30",
+      "fetched_at": "2026-11-28T16:00:42.838906+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5078,7 +5078,7 @@
       "metal": "Silver",
       "city": "Rohtak",
       "url": "https://www.policybazaar.com/silver-rate/rohtak/",
-      "fetched_at": "2026-11-28T07:33:23.969027+05:30",
+      "fetched_at": "2026-11-28T16:00:43.205842+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5097,7 +5097,7 @@
       "metal": "Silver",
       "city": "Roorkee",
       "url": "https://www.policybazaar.com/silver-rate/roorkee/",
-      "fetched_at": "2026-11-28T07:33:24.111121+05:30",
+      "fetched_at": "2026-11-28T16:00:43.591480+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5116,7 +5116,7 @@
       "metal": "Silver",
       "city": "Sagar",
       "url": "https://www.policybazaar.com/silver-rate/sagar/",
-      "fetched_at": "2026-11-28T07:33:24.945117+05:30",
+      "fetched_at": "2026-11-28T16:00:44.662511+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5135,7 +5135,7 @@
       "metal": "Silver",
       "city": "Saharanpur",
       "url": "https://www.policybazaar.com/silver-rate/saharanpur/",
-      "fetched_at": "2026-11-28T07:33:24.976883+05:30",
+      "fetched_at": "2026-11-28T16:00:44.852485+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5154,7 +5154,7 @@
       "metal": "Silver",
       "city": "Salem",
       "url": "https://www.policybazaar.com/silver-rate/salem/",
-      "fetched_at": "2026-11-28T07:33:25.192140+05:30",
+      "fetched_at": "2026-11-28T16:00:44.899118+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5173,7 +5173,7 @@
       "metal": "Silver",
       "city": "Sambalpur",
       "url": "https://www.policybazaar.com/silver-rate/sambalpur/",
-      "fetched_at": "2026-11-28T07:33:25.991121+05:30",
+      "fetched_at": "2026-11-28T16:00:44.929090+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5192,7 +5192,7 @@
       "metal": "Silver",
       "city": "Satara",
       "url": "https://www.policybazaar.com/silver-rate/satara/",
-      "fetched_at": "2026-11-28T07:33:26.074582+05:30",
+      "fetched_at": "2026-11-28T16:00:45.799627+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5211,7 +5211,7 @@
       "metal": "Silver",
       "city": "Satna",
       "url": "https://www.policybazaar.com/silver-rate/satna/",
-      "fetched_at": "2026-11-28T07:33:26.130136+05:30",
+      "fetched_at": "2026-11-28T16:00:46.190859+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5230,7 +5230,7 @@
       "metal": "Silver",
       "city": "Seoni",
       "url": "https://www.policybazaar.com/silver-rate/seoni/",
-      "fetched_at": "2026-11-28T07:33:27.065030+05:30",
+      "fetched_at": "2026-11-28T16:00:47.168446+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5249,7 +5249,7 @@
       "metal": "Silver",
       "city": "Shillong",
       "url": "https://www.policybazaar.com/silver-rate/shillong/",
-      "fetched_at": "2026-11-28T07:33:27.439661+05:30",
+      "fetched_at": "2026-11-28T16:00:47.239177+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5268,7 +5268,7 @@
       "metal": "Silver",
       "city": "Shimla",
       "url": "https://www.policybazaar.com/silver-rate/shimla/",
-      "fetched_at": "2026-11-28T07:33:27.475867+05:30",
+      "fetched_at": "2026-11-28T16:00:47.920081+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5287,7 +5287,7 @@
       "metal": "Silver",
       "city": "Shimoga",
       "url": "https://www.policybazaar.com/silver-rate/shimoga/",
-      "fetched_at": "2026-11-28T07:33:28.189241+05:30",
+      "fetched_at": "2026-11-28T16:00:48.281634+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5306,7 +5306,7 @@
       "metal": "Silver",
       "city": "Sikar",
       "url": "https://www.policybazaar.com/silver-rate/sikar/",
-      "fetched_at": "2026-11-28T07:33:28.552919+05:30",
+      "fetched_at": "2026-11-28T16:00:49.055925+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5325,7 +5325,7 @@
       "metal": "Silver",
       "city": "Silchar",
       "url": "https://www.policybazaar.com/silver-rate/silchar/",
-      "fetched_at": "2026-11-28T07:33:29.246585+05:30",
+      "fetched_at": "2026-11-28T16:00:49.066323+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5344,7 +5344,7 @@
       "metal": "Silver",
       "city": "Siliguri",
       "url": "https://www.policybazaar.com/silver-rate/siliguri/",
-      "fetched_at": "2026-11-28T07:33:29.594519+05:30",
+      "fetched_at": "2026-11-28T16:00:49.323035+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5363,7 +5363,7 @@
       "metal": "Silver",
       "city": "Singrauli",
       "url": "https://www.policybazaar.com/silver-rate/singrauli/",
-      "fetched_at": "2026-11-28T07:33:29.656869+05:30",
+      "fetched_at": "2026-11-28T16:00:49.648401+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5382,7 +5382,7 @@
       "metal": "Silver",
       "city": "Sirsa",
       "url": "https://www.policybazaar.com/silver-rate/sirsa/",
-      "fetched_at": "2026-11-28T07:33:30.147901+05:30",
+      "fetched_at": "2026-11-28T16:00:51.124183+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5401,7 +5401,7 @@
       "metal": "Silver",
       "city": "Solapur",
       "url": "https://www.policybazaar.com/silver-rate/solapur/",
-      "fetched_at": "2026-11-28T07:33:30.494871+05:30",
+      "fetched_at": "2026-11-28T16:00:51.253403+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5420,7 +5420,7 @@
       "metal": "Silver",
       "city": "Srikakulam",
       "url": "https://www.policybazaar.com/silver-rate/srikakulam/",
-      "fetched_at": "2026-11-28T07:33:31.329108+05:30",
+      "fetched_at": "2026-11-28T16:00:51.613660+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5439,7 +5439,7 @@
       "metal": "Silver",
       "city": "Srinagar",
       "url": "https://www.policybazaar.com/silver-rate/srinagar/",
-      "fetched_at": "2026-11-28T07:33:31.439146+05:30",
+      "fetched_at": "2026-11-28T16:00:51.825191+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5458,7 +5458,7 @@
       "metal": "Silver",
       "city": "Surat",
       "url": "https://www.policybazaar.com/silver-rate/surat/",
-      "fetched_at": "2026-11-28T07:33:31.537436+05:30",
+      "fetched_at": "2026-11-28T16:00:52.189426+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5477,7 +5477,7 @@
       "metal": "Silver",
       "city": "Suryapet",
       "url": "https://www.policybazaar.com/silver-rate/suryapet/",
-      "fetched_at": "2026-11-28T07:33:31.894465+05:30",
+      "fetched_at": "2026-11-28T16:00:53.238511+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5496,7 +5496,7 @@
       "metal": "Silver",
       "city": "Tadepalligudem",
       "url": "https://www.policybazaar.com/silver-rate/tadepalligudem/",
-      "fetched_at": "2026-11-28T07:33:32.670801+05:30",
+      "fetched_at": "2026-11-28T16:00:53.247299+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5515,7 +5515,7 @@
       "metal": "Silver",
       "city": "Tenali",
       "url": "https://www.policybazaar.com/silver-rate/tenali/",
-      "fetched_at": "2026-11-28T07:33:33.072335+05:30",
+      "fetched_at": "2026-11-28T16:00:53.335445+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5534,7 +5534,7 @@
       "metal": "Silver",
       "city": "Thane",
       "url": "https://www.policybazaar.com/silver-rate/thane/",
-      "fetched_at": "2026-11-28T07:33:33.554918+05:30",
+      "fetched_at": "2026-11-28T16:00:53.771138+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5553,7 +5553,7 @@
       "metal": "Silver",
       "city": "Thanjavur",
       "url": "https://www.policybazaar.com/silver-rate/thanjavur/",
-      "fetched_at": "2026-11-28T07:33:33.828191+05:30",
+      "fetched_at": "2026-11-28T16:00:54.634394+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5572,7 +5572,7 @@
       "metal": "Silver",
       "city": "Thrissur",
       "url": "https://www.policybazaar.com/silver-rate/thrissur/",
-      "fetched_at": "2026-11-28T07:33:34.709258+05:30",
+      "fetched_at": "2026-11-28T16:00:55.283258+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5591,7 +5591,7 @@
       "metal": "Silver",
       "city": "Tirunelveli",
       "url": "https://www.policybazaar.com/silver-rate/tirunelveli/",
-      "fetched_at": "2026-11-28T07:33:35.331381+05:30",
+      "fetched_at": "2026-11-28T16:00:55.585924+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5610,7 +5610,7 @@
       "metal": "Silver",
       "city": "Tirupati",
       "url": "https://www.policybazaar.com/silver-rate/tirupati/",
-      "fetched_at": "2026-11-28T07:33:35.342647+05:30",
+      "fetched_at": "2026-11-28T16:00:55.876661+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5629,7 +5629,7 @@
       "metal": "Silver",
       "city": "Tiruppur",
       "url": "https://www.policybazaar.com/silver-rate/tiruppur/",
-      "fetched_at": "2026-11-28T07:33:35.587758+05:30",
+      "fetched_at": "2026-11-28T16:00:56.081549+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5648,7 +5648,7 @@
       "metal": "Silver",
       "city": "Tiruvannamalai",
       "url": "https://www.policybazaar.com/silver-rate/tiruvannamalai/",
-      "fetched_at": "2026-11-28T07:33:36.001811+05:30",
+      "fetched_at": "2026-11-28T16:00:57.103974+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5667,7 +5667,7 @@
       "metal": "Silver",
       "city": "Udaipur",
       "url": "https://www.policybazaar.com/silver-rate/udaipur/",
-      "fetched_at": "2026-11-28T07:33:36.842561+05:30",
+      "fetched_at": "2026-11-28T16:00:57.132777+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5686,7 +5686,7 @@
       "metal": "Silver",
       "city": "Udgir",
       "url": "https://www.policybazaar.com/silver-rate/udgir/",
-      "fetched_at": "2026-11-28T07:33:37.218935+05:30",
+      "fetched_at": "2026-11-28T16:00:57.845344+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5705,7 +5705,7 @@
       "metal": "Silver",
       "city": "Udupi",
       "url": "https://www.policybazaar.com/silver-rate/udupi/",
-      "fetched_at": "2026-11-28T07:33:37.282741+05:30",
+      "fetched_at": "2026-11-28T16:00:57.948580+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5724,7 +5724,7 @@
       "metal": "Silver",
       "city": "Ujjain",
       "url": "https://www.policybazaar.com/silver-rate/ujjain/",
-      "fetched_at": "2026-11-28T07:33:37.635137+05:30",
+      "fetched_at": "2026-11-28T16:00:58.817257+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5743,7 +5743,7 @@
       "metal": "Silver",
       "city": "Ulhasnagar",
       "url": "https://www.policybazaar.com/silver-rate/ulhasnagar/",
-      "fetched_at": "2026-11-28T07:33:38.157449+05:30",
+      "fetched_at": "2026-11-28T16:00:58.970354+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5762,7 +5762,7 @@
       "metal": "Silver",
       "city": "Vadodara",
       "url": "https://www.policybazaar.com/silver-rate/vadodara/",
-      "fetched_at": "2026-11-28T07:33:38.362063+05:30",
+      "fetched_at": "2026-11-28T16:00:59.165729+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5781,7 +5781,7 @@
       "metal": "Silver",
       "city": "Valsad",
       "url": "https://www.policybazaar.com/silver-rate/valsad/",
-      "fetched_at": "2026-11-28T07:33:38.565783+05:30",
+      "fetched_at": "2026-11-28T16:00:59.457661+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5800,7 +5800,7 @@
       "metal": "Silver",
       "city": "Varanasi",
       "url": "https://www.policybazaar.com/silver-rate/varanasi/",
-      "fetched_at": "2026-11-28T07:33:38.908171+05:30",
+      "fetched_at": "2026-11-28T16:01:00.296789+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5819,7 +5819,7 @@
       "metal": "Silver",
       "city": "Vellore",
       "url": "https://www.policybazaar.com/silver-rate/vellore/",
-      "fetched_at": "2026-11-28T07:33:39.339745+05:30",
+      "fetched_at": "2026-11-28T16:01:00.604351+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5838,7 +5838,7 @@
       "metal": "Silver",
       "city": "Vidisha",
       "url": "https://www.policybazaar.com/silver-rate/vidisha/",
-      "fetched_at": "2026-11-28T07:33:39.628984+05:30",
+      "fetched_at": "2026-11-28T16:01:01.245388+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5857,7 +5857,7 @@
       "metal": "Silver",
       "city": "Vijayawada",
       "url": "https://www.policybazaar.com/silver-rate/vijayawada/",
-      "fetched_at": "2026-11-28T07:33:40.130633+05:30",
+      "fetched_at": "2026-11-28T16:01:01.764788+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5876,7 +5876,7 @@
       "metal": "Silver",
       "city": "Visakhapatnam",
       "url": "https://www.policybazaar.com/silver-rate/visakhapatnam/",
-      "fetched_at": "2026-11-28T07:33:40.705883+05:30",
+      "fetched_at": "2026-11-28T16:01:01.957449+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5895,7 +5895,7 @@
       "metal": "Silver",
       "city": "Vizianagaram",
       "url": "https://www.policybazaar.com/silver-rate/vizianagaram/",
-      "fetched_at": "2026-11-28T07:33:40.764020+05:30",
+      "fetched_at": "2026-11-28T16:01:01.985341+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5914,7 +5914,7 @@
       "metal": "Silver",
       "city": "Warangal",
       "url": "https://www.policybazaar.com/silver-rate/warangal/",
-      "fetched_at": "2026-11-28T07:33:40.839141+05:30",
+      "fetched_at": "2026-11-28T16:01:03.086066+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5933,7 +5933,7 @@
       "metal": "Silver",
       "city": "Wardha",
       "url": "https://www.policybazaar.com/silver-rate/wardha/",
-      "fetched_at": "2026-11-28T07:33:41.648484+05:30",
+      "fetched_at": "2026-11-28T16:01:03.450149+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5952,7 +5952,7 @@
       "metal": "Silver",
       "city": "Yavatmal",
       "url": "https://www.policybazaar.com/silver-rate/yavatmal/",
-      "fetched_at": "2026-11-28T07:33:41.840141+05:30",
+      "fetched_at": "2026-11-28T16:01:03.712672+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -5971,7 +5971,7 @@
       "metal": "Silver",
       "city": "Haryana",
       "url": "https://www.policybazaar.com/silver-rate/haryana/",
-      "fetched_at": "2026-11-28T07:33:42.084986+05:30",
+      "fetched_at": "2026-11-28T16:01:04.233016+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -5990,7 +5990,7 @@
       "metal": "Silver",
       "city": "Andhra Pradesh",
       "url": "https://www.policybazaar.com/silver-rate/andhra-pradesh/",
-      "fetched_at": "2026-11-28T07:33:42.568348+05:30",
+      "fetched_at": "2026-11-28T16:01:04.788880+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6009,7 +6009,7 @@
       "metal": "Silver",
       "city": "Odisha",
       "url": "https://www.policybazaar.com/silver-rate/odisha/",
-      "fetched_at": "2026-11-28T07:33:43.055348+05:30",
+      "fetched_at": "2026-11-28T16:01:05.139238+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6028,7 +6028,7 @@
       "metal": "Silver",
       "city": "Maharashtra",
       "url": "https://www.policybazaar.com/silver-rate/maharashtra/",
-      "fetched_at": "2026-11-28T07:33:43.328843+05:30",
+      "fetched_at": "2026-11-28T16:01:05.273812+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6047,7 +6047,7 @@
       "metal": "Silver",
       "city": "Rajasthan",
       "url": "https://www.policybazaar.com/silver-rate/rajasthan/",
-      "fetched_at": "2026-11-28T07:33:43.957655+05:30",
+      "fetched_at": "2026-11-28T16:01:05.636111+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6066,7 +6066,7 @@
       "metal": "Silver",
       "city": "Bihar",
       "url": "https://www.policybazaar.com/silver-rate/bihar/",
-      "fetched_at": "2026-11-28T07:33:44.305568+05:30",
+      "fetched_at": "2026-11-28T16:01:06.680238+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6085,7 +6085,7 @@
       "metal": "Silver",
       "city": "Himachal Pradesh",
       "url": "https://www.policybazaar.com/silver-rate/himachal-pradesh/",
-      "fetched_at": "2026-11-28T07:33:44.963913+05:30",
+      "fetched_at": "2026-11-28T16:01:06.960090+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6104,7 +6104,7 @@
       "metal": "Silver",
       "city": "Telangana",
       "url": "https://www.policybazaar.com/silver-rate/telangana/",
-      "fetched_at": "2026-11-28T07:33:45.043340+05:30",
+      "fetched_at": "2026-11-28T16:01:07.169505+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6123,7 +6123,7 @@
       "metal": "Silver",
       "city": "West Bengal",
       "url": "https://www.policybazaar.com/silver-rate/west-bengal/",
-      "fetched_at": "2026-11-28T07:33:45.071119+05:30",
+      "fetched_at": "2026-11-28T16:01:07.478644+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6142,7 +6142,7 @@
       "metal": "Silver",
       "city": "Jharkhand",
       "url": "https://www.policybazaar.com/silver-rate/jharkhand/",
-      "fetched_at": "2026-11-28T07:33:45.672307+05:30",
+      "fetched_at": "2026-11-28T16:01:08.014302+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6161,7 +6161,7 @@
       "metal": "Silver",
       "city": "Assam",
       "url": "https://www.policybazaar.com/silver-rate/assam/",
-      "fetched_at": "2026-11-28T07:33:46.554652+05:30",
+      "fetched_at": "2026-11-28T16:01:08.153820+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6180,7 +6180,7 @@
       "metal": "Silver",
       "city": "Uttar Pradesh",
       "url": "https://www.policybazaar.com/silver-rate/uttar-pradesh/",
-      "fetched_at": "2026-11-28T07:33:47.161973+05:30",
+      "fetched_at": "2026-11-28T16:01:09.134701+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6199,7 +6199,7 @@
       "metal": "Silver",
       "city": "Uttarakhand",
       "url": "https://www.policybazaar.com/silver-rate/uttarakhand/",
-      "fetched_at": "2026-11-28T07:33:47.472779+05:30",
+      "fetched_at": "2026-11-28T16:01:09.699509+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6218,7 +6218,7 @@
       "metal": "Silver",
       "city": "Tamil Nadu",
       "url": "https://www.policybazaar.com/silver-rate/tamil-nadu/",
-      "fetched_at": "2026-11-28T07:33:47.942521+05:30",
+      "fetched_at": "2026-11-28T16:01:09.769506+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6237,7 +6237,7 @@
       "metal": "Silver",
       "city": "Chhattisgarh",
       "url": "https://www.policybazaar.com/silver-rate/chhattisgarh/",
-      "fetched_at": "2026-11-28T07:33:47.966421+05:30",
+      "fetched_at": "2026-11-28T16:01:09.934064+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6256,7 +6256,7 @@
       "metal": "Silver",
       "city": "Tripura",
       "url": "https://www.policybazaar.com/silver-rate/tripura/",
-      "fetched_at": "2026-11-28T07:33:49.213925+05:30",
+      "fetched_at": "2026-11-28T16:01:10.790654+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6275,7 +6275,7 @@
       "metal": "Silver",
       "city": "Madhya Pradesh",
       "url": "https://www.policybazaar.com/silver-rate/madhya-pradesh/",
-      "fetched_at": "2026-11-28T07:33:49.304319+05:30",
+      "fetched_at": "2026-11-28T16:01:10.874554+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6294,7 +6294,7 @@
       "metal": "Silver",
       "city": "Sikkim",
       "url": "https://www.policybazaar.com/silver-rate/sikkim/",
-      "fetched_at": "2026-11-28T07:33:49.466252+05:30",
+      "fetched_at": "2026-11-28T16:01:11.176320+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6313,7 +6313,7 @@
       "metal": "Silver",
       "city": "Manipur",
       "url": "https://www.policybazaar.com/silver-rate/manipur/",
-      "fetched_at": "2026-11-28T07:33:50.307355+05:30",
+      "fetched_at": "2026-11-28T16:01:11.782945+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6332,7 +6332,7 @@
       "metal": "Silver",
       "city": "Arunachal Pradesh",
       "url": "https://www.policybazaar.com/silver-rate/arunachal-pradesh/",
-      "fetched_at": "2026-11-28T07:33:50.576989+05:30",
+      "fetched_at": "2026-11-28T16:01:11.917195+05:30",
       "error": null,
       "data": {
         "rate 1gm": null,
@@ -6351,7 +6351,7 @@
       "metal": "Silver",
       "city": "Nagaland",
       "url": "https://www.policybazaar.com/silver-rate/nagaland/",
-      "fetched_at": "2026-11-28T07:33:50.811038+05:30",
+      "fetched_at": "2026-11-28T16:01:12.753785+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6370,7 +6370,7 @@
       "metal": "Silver",
       "city": "Meghalaya",
       "url": "https://www.policybazaar.com/silver-rate/meghalaya/",
-      "fetched_at": "2026-11-28T07:33:50.947794+05:30",
+      "fetched_at": "2026-11-28T16:01:12.770489+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
@@ -6389,7 +6389,7 @@
       "metal": "Silver",
       "city": "Mizoram",
       "url": "https://www.policybazaar.com/silver-rate/mizoram/",
-      "fetched_at": "2026-11-28T07:33:51.822642+05:30",
+      "fetched_at": "2026-11-28T16:01:13.152574+05:30",
       "error": null,
       "data": {
         "rate 1gm": 180.0,
